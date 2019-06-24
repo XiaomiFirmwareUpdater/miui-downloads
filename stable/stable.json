@@ -11,9 +11,9 @@
   "android": "8.1",
   "codename": "cactus",
   "device": "Redmi 6A China",
-  "download": "http://bigota.d.miui.com/V10.3.3.0.OCBCNXM/miui_HM6A_V10.3.3.0.OCBCNXM_fd29a073b6_8.1.zip",
-  "filename": "miui_HM6A_V10.3.3.0.OCBCNXM_fd29a073b6_8.1.zip",
-  "version": "V10.3.3.0.OCBCNXM"
+  "download": "http://bigota.d.miui.com/V10.3.4.0.OCBCNXM/miui_HM6A_V10.3.4.0.OCBCNXM_7a4230191a_8.1.zip",
+  "filename": "miui_HM6A_V10.3.4.0.OCBCNXM_7a4230191a_8.1.zip",
+  "version": "V10.3.4.0.OCBCNXM"
  },
  {
   "android": "8.1",
@@ -91,9 +91,9 @@
   "android": "8.1",
   "codename": "cereus",
   "device": "Redmi 6 China",
-  "download": "http://bigota.d.miui.com/V10.3.3.0.OCGCNXM/miui_HM6_V10.3.3.0.OCGCNXM_0c59fa6bf9_8.1.zip",
-  "filename": "miui_HM6_V10.3.3.0.OCGCNXM_0c59fa6bf9_8.1.zip",
-  "version": "V10.3.3.0.OCGCNXM"
+  "download": "http://bigota.d.miui.com/V10.3.4.0.OCGCNXM/miui_HM6_V10.3.4.0.OCGCNXM_8fa6a1b713_8.1.zip",
+  "filename": "miui_HM6_V10.3.4.0.OCGCNXM_8fa6a1b713_8.1.zip",
+  "version": "V10.3.4.0.OCGCNXM"
  },
  {
   "android": "8.1",
@@ -307,9 +307,9 @@
   "android": "9.0",
   "codename": "lavender_global",
   "device": "Redmi Note 7 Global",
-  "download": "http://bigota.d.miui.com/V10.3.5.0.PFGMIXM/miui_LAVENDERGlobal_V10.3.5.0.PFGMIXM_a5cabeca22_9.0.zip",
-  "filename": "miui_LAVENDERGlobal_V10.3.5.0.PFGMIXM_a5cabeca22_9.0.zip",
-  "version": "V10.3.5.0.PFGMIXM"
+  "download": "http://bigota.d.miui.com/V10.3.6.0.PFGMIXM/miui_LAVENDERGlobal_V10.3.6.0.PFGMIXM_8c74282d30_9.0.zip",
+  "filename": "miui_LAVENDERGlobal_V10.3.6.0.PFGMIXM_8c74282d30_9.0.zip",
+  "version": "V10.3.6.0.PFGMIXM"
  },
  {
   "android": "9.0",
@@ -347,9 +347,9 @@
   "android": "8.1",
   "codename": "lotus",
   "device": "Mi Play China",
-  "download": "http://bigota.d.miui.com/V10.3.2.0.OFICNXM/miui_MIPLAY_V10.3.2.0.OFICNXM_e79d688509_8.1.zip",
-  "filename": "miui_MIPLAY_V10.3.2.0.OFICNXM_e79d688509_8.1.zip",
-  "version": "V10.3.2.0.OFICNXM"
+  "download": "http://bigota.d.miui.com/V10.3.3.0.OFICNXM/miui_MIPLAY_V10.3.3.0.OFICNXM_a3753aeffc_8.1.zip",
+  "filename": "miui_MIPLAY_V10.3.3.0.OFICNXM_a3753aeffc_8.1.zip",
+  "version": "V10.3.3.0.OFICNXM"
  },
  {
   "android": "8.1",
