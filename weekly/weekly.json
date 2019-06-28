@@ -3,9 +3,9 @@
   "android": "9.0",
   "codename": "beryllium_global",
   "device": "Poco F1 Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_POCOF1Global_9.6.20_b7537712ad_9.0.zip",
-  "filename": "miui_POCOF1Global_9.6.20_b7537712ad_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_POCOF1Global_9.6.27_6673f8a455_9.0.zip",
+  "filename": "miui_POCOF1Global_9.6.27_6673f8a455_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.1",
@@ -27,41 +27,41 @@
   "android": "7.0",
   "codename": "cappu",
   "device": "Mi Pad 3 China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIPAD3_9.6.20_34f0d802ed_7.0.zip",
-  "filename": "miui_MIPAD3_9.6.20_34f0d802ed_7.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIPAD3_9.6.27_88e8210e28_7.0.zip",
+  "filename": "miui_MIPAD3_9.6.27_88e8210e28_7.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.0",
   "codename": "capricorn",
   "device": "Mi 5s China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI5S_9.6.20_a075b5384f_8.0.zip",
-  "filename": "miui_MI5S_9.6.20_a075b5384f_8.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI5S_9.6.27_8cfd7b17a6_8.0.zip",
+  "filename": "miui_MI5S_9.6.27_8cfd7b17a6_8.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.0",
   "codename": "capricorn_global",
   "device": "Mi 5s Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI5SGlobal_9.6.20_d2a7ce1285_8.0.zip",
-  "filename": "miui_MI5SGlobal_9.6.20_d2a7ce1285_8.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI5SGlobal_9.6.27_853be080cb_8.0.zip",
+  "filename": "miui_MI5SGlobal_9.6.27_853be080cb_8.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "cepheus",
   "device": "Mi 9 China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_CEPHEUS_9.6.20_080e335e4f_9.0.zip",
-  "filename": "miui_CEPHEUS_9.6.20_080e335e4f_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_CEPHEUS_9.6.27_dee02ebc00_9.0.zip",
+  "filename": "miui_CEPHEUS_9.6.27_dee02ebc00_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "cepheus_global",
   "device": "Mi 9 Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_CEPHEUSGlobal_9.6.20_b2682ddf03_9.0.zip",
-  "filename": "miui_CEPHEUSGlobal_9.6.20_b2682ddf03_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_CEPHEUSGlobal_9.6.27_2b17a775d2_9.0.zip",
+  "filename": "miui_CEPHEUSGlobal_9.6.27_2b17a775d2_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.1",
@@ -83,65 +83,65 @@
   "android": "9.0",
   "codename": "chiron",
   "device": "Mi MIX 2 China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIMIX2_9.6.20_41b006986d_9.0.zip",
-  "filename": "miui_MIMIX2_9.6.20_41b006986d_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIMIX2_9.6.27_4103ca026c_9.0.zip",
+  "filename": "miui_MIMIX2_9.6.27_4103ca026c_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "chiron_global",
   "device": "Mi MIX 2 Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIMIX2Global_9.6.20_fb37370abf_9.0.zip",
-  "filename": "miui_MIMIX2Global_9.6.20_fb37370abf_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIMIX2Global_9.6.27_ee1bf9f771_9.0.zip",
+  "filename": "miui_MIMIX2Global_9.6.27_ee1bf9f771_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.1",
   "codename": "clover",
   "device": "Mi Pad 4 (Plus) China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIPAD4_9.6.20_1b7b5dc178_8.1.zip",
-  "filename": "miui_MIPAD4_9.6.20_1b7b5dc178_8.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIPAD4_9.6.27_b9069da523_8.1.zip",
+  "filename": "miui_MIPAD4_9.6.27_b9069da523_8.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "dipper",
   "device": "Mi 8 China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI8_9.6.20_d58c6ddccd_9.0.zip",
-  "filename": "miui_MI8_9.6.20_d58c6ddccd_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI8_9.6.27_1d98c81300_9.0.zip",
+  "filename": "miui_MI8_9.6.27_1d98c81300_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "dipper_global",
   "device": "Mi 8 Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI8Global_9.6.20_5a7b5dbded_9.0.zip",
-  "filename": "miui_MI8Global_9.6.20_5a7b5dbded_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI8Global_9.6.27_7e6ce8a462_9.0.zip",
+  "filename": "miui_MI8Global_9.6.27_7e6ce8a462_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "equuleus",
   "device": "Mi 8 Pro China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI8UD_9.6.20_83814ee7b5_9.0.zip",
-  "filename": "miui_MI8UD_9.6.20_83814ee7b5_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI8UD_9.6.27_dd916d8786_9.0.zip",
+  "filename": "miui_MI8UD_9.6.27_dd916d8786_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "equuleus_global",
   "device": "Mi 8 Pro Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI8UDGlobal_9.6.20_fed3153bd4_9.0.zip",
-  "filename": "miui_MI8UDGlobal_9.6.20_fed3153bd4_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI8UDGlobal_9.6.27_0b930d500c_9.0.zip",
+  "filename": "miui_MI8UDGlobal_9.6.27_0b930d500c_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "grus",
   "device": "Mi 9 SE China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_GRUS_9.6.20_79988bc6bb_9.0.zip",
-  "filename": "miui_GRUS_9.6.20_79988bc6bb_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_GRUS_9.6.27_ac6651ab02_9.0.zip",
+  "filename": "miui_GRUS_9.6.27_ac6651ab02_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "7.0",
@@ -176,20 +176,20 @@
   "version": "9.2.28"
  },
  {
-  "android": "8.1",
+  "android": "9.0",
   "codename": "jason",
   "device": "Mi Note 3 China",
-  "download": "http://bigota.d.miui.com/9.5.16/miui_MINote3_9.5.16_37e37caaa1_8.1.zip",
-  "filename": "miui_MINote3_9.5.16_37e37caaa1_8.1.zip",
-  "version": "9.5.16"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MINote3_9.6.27_cbd74a3e59_9.0.zip",
+  "filename": "miui_MINote3_9.6.27_cbd74a3e59_9.0.zip",
+  "version": "9.6.27"
  },
  {
-  "android": "8.1",
+  "android": "9.0",
   "codename": "jason_global",
   "device": "Mi Note 3 Global",
-  "download": "http://bigota.d.miui.com/9.5.16/miui_MINote3Global_9.5.16_ce69983ea0_8.1.zip",
-  "filename": "miui_MINote3Global_9.5.16_ce69983ea0_8.1.zip",
-  "version": "9.5.16"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MINote3Global_9.6.27_0d6b7c33c4_9.0.zip",
+  "filename": "miui_MINote3Global_9.6.27_0d6b7c33c4_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "6.0",
@@ -235,33 +235,33 @@
   "android": "9.0",
   "codename": "lavender",
   "device": "Redmi Note 7 China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_LAVENDER_9.6.20_a46d3fb014_9.0.zip",
-  "filename": "miui_LAVENDER_9.6.20_a46d3fb014_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_LAVENDER_9.6.27_19f26c3bda_9.0.zip",
+  "filename": "miui_LAVENDER_9.6.27_19f26c3bda_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.0",
   "codename": "lithium",
   "device": "Mi MIX China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIMIX_9.6.20_4f59373a4a_8.0.zip",
-  "filename": "miui_MIMIX_9.6.20_4f59373a4a_8.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIMIX_9.6.27_d6b5a3446e_8.0.zip",
+  "filename": "miui_MIMIX_9.6.27_d6b5a3446e_8.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.0",
   "codename": "lithium_global",
   "device": "Mi MIX Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIMIXGlobal_9.6.20_f7a6a1c1e6_8.0.zip",
-  "filename": "miui_MIMIXGlobal_9.6.20_f7a6a1c1e6_8.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIMIXGlobal_9.6.27_ffd0ee5403_8.0.zip",
+  "filename": "miui_MIMIXGlobal_9.6.27_ffd0ee5403_8.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.1",
   "codename": "lotus",
   "device": "Mi Play China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIPLAY_9.6.20_fac034e120_8.1.zip",
-  "filename": "miui_MIPLAY_9.6.20_fac034e120_8.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIPLAY_9.6.27_fbbe37437f_8.1.zip",
+  "filename": "miui_MIPLAY_9.6.27_fbbe37437f_8.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "6.0",
@@ -275,17 +275,17 @@
   "android": "7.1",
   "codename": "meri",
   "device": "Mi 5C China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI5C_9.6.20_f1cb2cd6c6_7.1.zip",
-  "filename": "miui_MI5C_9.6.20_f1cb2cd6c6_7.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI5C_9.6.27_824fec77d7_7.1.zip",
+  "filename": "miui_MI5C_9.6.27_824fec77d7_7.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "7.0",
   "codename": "mido",
   "device": "Redmi Note 4 China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HMNote4X_9.6.20_51845a24b1_7.0.zip",
-  "filename": "miui_HMNote4X_9.6.20_51845a24b1_7.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HMNote4X_9.6.27_f994b585c9_7.0.zip",
+  "filename": "miui_HMNote4X_9.6.27_f994b585c9_7.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "7.0",
@@ -299,17 +299,17 @@
   "android": "8.0",
   "codename": "natrium",
   "device": "Mi 5s Plus China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI5SPlus_9.6.20_56b470fc97_8.0.zip",
-  "filename": "miui_MI5SPlus_9.6.20_56b470fc97_8.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI5SPlus_9.6.27_a5c341869f_8.0.zip",
+  "filename": "miui_MI5SPlus_9.6.27_a5c341869f_8.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.0",
   "codename": "natrium_global",
   "device": "Mi 5s Plus Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI5SPlusGlobal_9.6.20_0468b7ad7f_8.0.zip",
-  "filename": "miui_MI5SPlusGlobal_9.6.20_0468b7ad7f_8.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI5SPlusGlobal_9.6.27_0a263fdde0_8.0.zip",
+  "filename": "miui_MI5SPlusGlobal_9.6.27_0a263fdde0_8.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "6.0",
@@ -331,17 +331,17 @@
   "android": "9.0",
   "codename": "nitrogen",
   "device": "Mi Max 3 China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIMAX3_9.6.20_c90eebe1d3_9.0.zip",
-  "filename": "miui_MIMAX3_9.6.20_c90eebe1d3_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIMAX3_9.6.27_d344c36f07_9.0.zip",
+  "filename": "miui_MIMAX3_9.6.27_d344c36f07_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "nitrogen_global",
   "device": "Mi Max 3 Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIMAX3Global_9.6.20_3766fcb2a4_9.0.zip",
-  "filename": "miui_MIMAX3Global_9.6.20_3766fcb2a4_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIMAX3Global_9.6.27_c5abf79466_9.0.zip",
+  "filename": "miui_MIMAX3Global_9.6.27_c5abf79466_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "6.0",
@@ -355,65 +355,65 @@
   "android": "7.1",
   "codename": "oxygen",
   "device": "Mi Max 2 China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIMAX2_9.6.20_523bc71ceb_7.1.zip",
-  "filename": "miui_MIMAX2_9.6.20_523bc71ceb_7.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIMAX2_9.6.27_ce016f7c08_7.1.zip",
+  "filename": "miui_MIMAX2_9.6.27_ce016f7c08_7.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "7.1",
   "codename": "oxygen_global",
   "device": "Mi Max 2 Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIMAX2Global_9.6.20_a0c9ec8427_7.1.zip",
-  "filename": "miui_MIMAX2Global_9.6.20_a0c9ec8427_7.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIMAX2Global_9.6.27_b2aa7f7622_7.1.zip",
+  "filename": "miui_MIMAX2Global_9.6.27_b2aa7f7622_7.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "perseus",
   "device": "Mi MIX 3 China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIMIX3_9.6.20_cef3b50038_9.0.zip",
-  "filename": "miui_MIMIX3_9.6.20_cef3b50038_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIMIX3_9.6.27_4f8400b3d1_9.0.zip",
+  "filename": "miui_MIMIX3_9.6.27_4f8400b3d1_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "perseus_global",
   "device": "Mi MIX 3 Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIMIX3Global_9.6.20_40ac4c43d4_9.0.zip",
-  "filename": "miui_MIMIX3Global_9.6.20_40ac4c43d4_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIMIX3Global_9.6.27_cb2e513d40_9.0.zip",
+  "filename": "miui_MIMIX3Global_9.6.27_cb2e513d40_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "platina",
   "device": "Mi 8 Lite China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI8Lite_9.6.20_003770a0cf_9.0.zip",
-  "filename": "miui_MI8Lite_9.6.20_003770a0cf_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI8Lite_9.6.27_70468247d8_9.0.zip",
+  "filename": "miui_MI8Lite_9.6.27_70468247d8_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "platina_global",
   "device": "Mi 8 Lite Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI8LiteGlobal_9.6.20_a58b499e00_9.0.zip",
-  "filename": "miui_MI8LiteGlobal_9.6.20_a58b499e00_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI8LiteGlobal_9.6.27_bcb88d046c_9.0.zip",
+  "filename": "miui_MI8LiteGlobal_9.6.27_bcb88d046c_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "polaris",
   "device": "Mi MIX 2S China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIMIX2S_9.6.20_6624c62593_9.0.zip",
-  "filename": "miui_MIMIX2S_9.6.20_6624c62593_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIMIX2S_9.6.27_abe20ee2e2_9.0.zip",
+  "filename": "miui_MIMIX2S_9.6.27_abe20ee2e2_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "polaris_global",
   "device": "Mi MIX 2S Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MIMIX2SGlobal_9.6.20_ad8453dd1c_9.0.zip",
-  "filename": "miui_MIMIX2SGlobal_9.6.20_ad8453dd1c_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MIMIX2SGlobal_9.6.27_dfd19406a5_9.0.zip",
+  "filename": "miui_MIMIX2SGlobal_9.6.27_dfd19406a5_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "6.0",
@@ -427,17 +427,17 @@
   "android": "8.1",
   "codename": "riva",
   "device": "Redmi 5A China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HM5A_9.6.20_a46187ea96_8.1.zip",
-  "filename": "miui_HM5A_9.6.20_a46187ea96_8.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HM5A_9.6.27_3dc5478cde_8.1.zip",
+  "filename": "miui_HM5A_9.6.27_3dc5478cde_8.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.1",
   "codename": "riva_global",
   "device": "Redmi 5A Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HM5AGlobal_9.6.20_d8e4f6012d_8.1.zip",
-  "filename": "miui_HM5AGlobal_9.6.20_d8e4f6012d_8.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HM5AGlobal_9.6.27_8e9186dad4_8.1.zip",
+  "filename": "miui_HM5AGlobal_9.6.27_8e9186dad4_8.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "6.0",
@@ -459,153 +459,153 @@
   "android": "8.1",
   "codename": "rosy",
   "device": "Redmi 5 China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HM5_9.6.20_59486f0112_8.1.zip",
-  "filename": "miui_HM5_9.6.20_59486f0112_8.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HM5_9.6.27_5511093f3f_8.1.zip",
+  "filename": "miui_HM5_9.6.27_5511093f3f_8.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.1",
   "codename": "rosy_global",
   "device": "Redmi 5 Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HM5Global_9.6.20_64947edcf3_8.1.zip",
-  "filename": "miui_HM5Global_9.6.20_64947edcf3_8.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HM5Global_9.6.27_6563908eef_8.1.zip",
+  "filename": "miui_HM5Global_9.6.27_6563908eef_8.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "sagit",
   "device": "Mi 6 China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI6_9.6.20_cf7c859744_9.0.zip",
-  "filename": "miui_MI6_9.6.20_cf7c859744_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI6_9.6.27_c7b489b2eb_9.0.zip",
+  "filename": "miui_MI6_9.6.27_c7b489b2eb_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "sagit_global",
   "device": "Mi 6 Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI6Global_9.6.20_c87ce6fe5f_9.0.zip",
-  "filename": "miui_MI6Global_9.6.20_c87ce6fe5f_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI6Global_9.6.27_26a3c95506_9.0.zip",
+  "filename": "miui_MI6Global_9.6.27_26a3c95506_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "sakura",
   "device": "Redmi 6 Pro China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HM6Pro_9.6.20_573638cc2f_9.0.zip",
-  "filename": "miui_HM6Pro_9.6.20_573638cc2f_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HM6Pro_9.6.27_789c2ec9bd_9.0.zip",
+  "filename": "miui_HM6Pro_9.6.27_789c2ec9bd_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "sakura_india_global",
   "device": "Redmi 6 Pro India",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HM6ProINGlobal_9.6.20_6ed8721a52_9.0.zip",
-  "filename": "miui_HM6ProINGlobal_9.6.20_6ed8721a52_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HM6ProINGlobal_9.6.27_e68a962f64_9.0.zip",
+  "filename": "miui_HM6ProINGlobal_9.6.27_e68a962f64_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "7.1",
   "codename": "santoni",
   "device": "Redmi 4X China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HM4X_9.6.20_c8f1d73536_7.1.zip",
-  "filename": "miui_HM4X_9.6.20_c8f1d73536_7.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HM4X_9.6.27_863b317d97_7.1.zip",
+  "filename": "miui_HM4X_9.6.27_863b317d97_7.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "7.1",
   "codename": "santoni_global",
   "device": "Redmi 4X Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HM4XGlobal_9.6.20_932cddd7a8_7.1.zip",
-  "filename": "miui_HM4XGlobal_9.6.20_932cddd7a8_7.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip",
+  "filename": "miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.0",
   "codename": "scorpio",
   "device": "Mi Note 2 China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MINote2_9.6.20_510a8b6aa7_8.0.zip",
-  "filename": "miui_MINote2_9.6.20_510a8b6aa7_8.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MINote2_9.6.27_4ba3a15a59_8.0.zip",
+  "filename": "miui_MINote2_9.6.27_4ba3a15a59_8.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.0",
   "codename": "scorpio_global",
   "device": "Mi Note 2 Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MINote2Global_9.6.20_aa291e7369_8.0.zip",
-  "filename": "miui_MINote2Global_9.6.20_aa291e7369_8.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MINote2Global_9.6.27_93d24ffe26_8.0.zip",
+  "filename": "miui_MINote2Global_9.6.27_93d24ffe26_8.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "sirius",
   "device": "Mi 8 SE China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI8SE_9.6.20_8583335d32_9.0.zip",
-  "filename": "miui_MI8SE_9.6.20_8583335d32_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI8SE_9.6.27_8649d0115f_9.0.zip",
+  "filename": "miui_MI8SE_9.6.27_8649d0115f_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.1",
   "codename": "tiffany",
   "device": "Mi 5X China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI5X_9.6.20_7d10aaf581_8.1.zip",
-  "filename": "miui_MI5X_9.6.20_7d10aaf581_8.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI5X_9.6.27_0786a6e1fd_8.1.zip",
+  "filename": "miui_MI5X_9.6.27_0786a6e1fd_8.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "tulip_global",
   "device": "Redmi Note 6 Pro Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HMNote6ProGlobal_9.6.20_2169589525_9.0.zip",
-  "filename": "miui_HMNote6ProGlobal_9.6.20_2169589525_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HMNote6ProGlobal_9.6.27_a10bc90117_9.0.zip",
+  "filename": "miui_HMNote6ProGlobal_9.6.27_a10bc90117_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "7.1",
   "codename": "ugg",
   "device": "Redmi Note 5A Prime China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HMNote5A_9.6.20_624c21257d_7.1.zip",
-  "filename": "miui_HMNote5A_9.6.20_624c21257d_7.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HMNote5A_9.6.27_ca267868dd_7.1.zip",
+  "filename": "miui_HMNote5A_9.6.27_ca267868dd_7.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "7.1",
   "codename": "ugg_global",
   "device": "Redmi Note 5A Prime Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HMNote5AGlobal_9.6.20_94e7e5d8bd_7.1.zip",
-  "filename": "miui_HMNote5AGlobal_9.6.20_94e7e5d8bd_7.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HMNote5AGlobal_9.6.27_e352986ea4_7.1.zip",
+  "filename": "miui_HMNote5AGlobal_9.6.27_e352986ea4_7.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "7.1",
   "codename": "ugglite",
   "device": "Redmi Note 5A (2GB) China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HMNote5ALITE_9.6.20_803abcf332_7.1.zip",
-  "filename": "miui_HMNote5ALITE_9.6.20_803abcf332_7.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HMNote5ALITE_9.6.27_bdf7725dc9_7.1.zip",
+  "filename": "miui_HMNote5ALITE_9.6.27_bdf7725dc9_7.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "7.1",
   "codename": "ugglite_global",
   "device": "Redmi Note 5A Global",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HMNote5ALITEGlobal_9.6.20_ade7e14482_7.1.zip",
-  "filename": "miui_HMNote5ALITEGlobal_9.6.20_ade7e14482_7.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HMNote5ALITEGlobal_9.6.27_c86076cad3_7.1.zip",
+  "filename": "miui_HMNote5ALITEGlobal_9.6.27_c86076cad3_7.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "ursa",
   "device": "Mi 8 Explorer China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI8Explorer_9.6.20_794aa47fe4_9.0.zip",
-  "filename": "miui_MI8Explorer_9.6.20_794aa47fe4_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI8Explorer_9.6.27_901f91faa5_9.0.zip",
+  "filename": "miui_MI8Explorer_9.6.27_901f91faa5_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.1",
   "codename": "vince",
   "device": "Redmi 5 Plus China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HM5Plus_9.6.20_d9385a043c_8.1.zip",
-  "filename": "miui_HM5Plus_9.6.20_d9385a043c_8.1.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HM5Plus_9.6.27_d3eaa3fad0_8.1.zip",
+  "filename": "miui_HM5Plus_9.6.27_d3eaa3fad0_8.1.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.1",
@@ -619,33 +619,33 @@
   "android": "9.0",
   "codename": "violet",
   "device": "Redmi Note 7 Pro China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_VIOLET_9.6.20_52aa4c2f4b_9.0.zip",
-  "filename": "miui_VIOLET_9.6.20_52aa4c2f4b_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_VIOLET_9.6.27_f06ba1b31d_9.0.zip",
+  "filename": "miui_VIOLET_9.6.27_f06ba1b31d_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "wayne",
   "device": "Mi 6X China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_MI6X_9.6.20_ffb84fb5d0_9.0.zip",
-  "filename": "miui_MI6X_9.6.20_ffb84fb5d0_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_MI6X_9.6.27_9504af941a_9.0.zip",
+  "filename": "miui_MI6X_9.6.27_9504af941a_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "whyred",
   "device": "Redmi Note 5 China",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HMNote5_9.6.20_d3eb24cf22_9.0.zip",
-  "filename": "miui_HMNote5_9.6.20_d3eb24cf22_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HMNote5_9.6.27_6474f66335_9.0.zip",
+  "filename": "miui_HMNote5_9.6.27_6474f66335_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "9.0",
   "codename": "whyred_global",
   "device": "Redmi Note 5 Global / 5 Pro India",
-  "download": "http://bigota.d.miui.com/9.6.20/miui_HMNote5Global_9.6.20_9d5e732488_9.0.zip",
-  "filename": "miui_HMNote5Global_9.6.20_9d5e732488_9.0.zip",
-  "version": "9.6.20"
+  "download": "http://bigota.d.miui.com/9.6.27/miui_HMNote5Global_9.6.27_12689d10c2_9.0.zip",
+  "filename": "miui_HMNote5Global_9.6.27_12689d10c2_9.0.zip",
+  "version": "9.6.27"
  },
  {
   "android": "8.1",
