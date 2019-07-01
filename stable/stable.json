@@ -363,9 +363,9 @@
   "android": "8.1",
   "codename": "lotus_ru_global",
   "device": "Mi Play Russian",
-  "download": "http://bigota.d.miui.com/V10.2.3.0.OFIRUXM/miui_MIPLAYRUGlobal_V10.2.3.0.OFIRUXM_971d963f6b_8.1.zip",
-  "filename": "miui_MIPLAYRUGlobal_V10.2.3.0.OFIRUXM_971d963f6b_8.1.zip",
-  "version": "V10.2.3.0.OFIRUXM"
+  "download": "http://bigota.d.miui.com/V10.2.4.0.OFIRUXM/miui_MIPLAYRUGlobal_V10.2.4.0.OFIRUXM_8d75f47f0e_8.1.zip",
+  "filename": "miui_MIPLAYRUGlobal_V10.2.4.0.OFIRUXM_8d75f47f0e_8.1.zip",
+  "version": "V10.2.4.0.OFIRUXM"
  },
  {
   "android": "6.0",
@@ -443,9 +443,9 @@
   "android": "9.0",
   "codename": "nitrogen",
   "device": "Mi Max 3 China",
-  "download": "http://bigota.d.miui.com/V10.3.1.0.PEDCNXM/miui_MIMAX3_V10.3.1.0.PEDCNXM_71b2839e17_9.0.zip",
-  "filename": "miui_MIMAX3_V10.3.1.0.PEDCNXM_71b2839e17_9.0.zip",
-  "version": "V10.3.1.0.PEDCNXM"
+  "download": "http://bigota.d.miui.com/V10.3.2.0.PEDCNXM/miui_MIMAX3_V10.3.2.0.PEDCNXM_1129c09621_9.0.zip",
+  "filename": "miui_MIMAX3_V10.3.2.0.PEDCNXM_1129c09621_9.0.zip",
+  "version": "V10.3.2.0.PEDCNXM"
  },
  {
   "android": "9.0",
@@ -547,9 +547,9 @@
   "android": "9.0",
   "codename": "platina",
   "device": "Mi 8 Lite China",
-  "download": "http://bigota.d.miui.com/V10.3.2.0.PDTCNXM/miui_MI8Lite_V10.3.2.0.PDTCNXM_c523906634_9.0.zip",
-  "filename": "miui_MI8Lite_V10.3.2.0.PDTCNXM_c523906634_9.0.zip",
-  "version": "V10.3.2.0.PDTCNXM"
+  "download": "http://bigota.d.miui.com/V10.3.3.0.PDTCNXM/miui_MI8Lite_V10.3.3.0.PDTCNXM_8b8d68a8e1_9.0.zip",
+  "filename": "miui_MI8Lite_V10.3.3.0.PDTCNXM_8b8d68a8e1_9.0.zip",
+  "version": "V10.3.3.0.PDTCNXM"
  },
  {
   "android": "9.0",
@@ -835,9 +835,9 @@
   "android": "9.0",
   "codename": "violet",
   "device": "Redmi Note 7 Pro China",
-  "download": "http://bigota.d.miui.com/V10.3.5.0.PFHCNXM/miui_VIOLET_V10.3.5.0.PFHCNXM_4bdf98d05f_9.0.zip",
-  "filename": "miui_VIOLET_V10.3.5.0.PFHCNXM_4bdf98d05f_9.0.zip",
-  "version": "V10.3.5.0.PFHCNXM"
+  "download": "http://bigota.d.miui.com/V10.3.8.0.PFHCNXM/miui_VIOLET_V10.3.8.0.PFHCNXM_57ce442583_9.0.zip",
+  "filename": "miui_VIOLET_V10.3.8.0.PFHCNXM_57ce442583_9.0.zip",
+  "version": "V10.3.8.0.PFHCNXM"
  },
  {
   "android": "9.0",
