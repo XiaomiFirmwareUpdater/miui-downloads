@@ -144,6 +144,14 @@
   "version": "9.7.4"
  },
  {
+  "android": "9.0",
+  "codename": "grus_global",
+  "device": "Mi 9 SE Global",
+  "download": "http://bigota.d.miui.com/9.6.27/miui_GRUSGlobal_9.6.27_ac3b29af09_9.0.zip",
+  "filename": "miui_GRUSGlobal_9.6.27_ac3b29af09_9.0.zip",
+  "version": "9.6.27"
+ },
+ {
   "android": "7.0",
   "codename": "helium",
   "device": "Mi Max Prime China",
