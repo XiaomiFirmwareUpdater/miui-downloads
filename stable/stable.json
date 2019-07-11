@@ -651,9 +651,9 @@
   "android": "7.1",
   "codename": "rolex_global",
   "device": "Redmi 4A Global",
-  "download": "http://bigota.d.miui.com/V10.2.1.0.NCCMIXM/miui_HM4AGlobal_V10.2.1.0.NCCMIXM_cec4b49727_7.1.zip",
-  "filename": "miui_HM4AGlobal_V10.2.1.0.NCCMIXM_cec4b49727_7.1.zip",
-  "version": "V10.2.1.0.NCCMIXM"
+  "download": "http://bigota.d.miui.com/V10.2.3.0.NCCMIXM/miui_HM4AGlobal_V10.2.3.0.NCCMIXM_69d07208fd_7.1.zip",
+  "filename": "miui_HM4AGlobal_V10.2.3.0.NCCMIXM_69d07208fd_7.1.zip",
+  "version": "V10.2.3.0.NCCMIXM"
  },
  {
   "android": "8.1",
