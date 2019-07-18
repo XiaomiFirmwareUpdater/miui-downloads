@@ -154,10 +154,26 @@
  {
   "android": "9.0",
   "codename": "davinci_global",
-  "device": "Mi 9T / Redmi K20 Global",
+  "device": "Mi 9T Global",
   "download": "http://bigota.d.miui.com/V10.3.6.0.PFJMIXM/miui_DAVINCIGlobal_V10.3.6.0.PFJMIXM_4879216355_9.0.zip",
   "filename": "miui_DAVINCIGlobal_V10.3.6.0.PFJMIXM_4879216355_9.0.zip",
   "version": "V10.3.6.0.PFJMIXM"
+ },
+ {
+  "android": "9.0",
+  "codename": "davinci_ru_global",
+  "device": "Mi 9T EEA Russia",
+  "download": "http://bigota.d.miui.com/V10.3.5.0.PFJRUXM/miui_DAVINCIRUGlobal_V10.3.5.0.PFJRUXM_85dc409eac_9.0.zip",
+  "filename": "miui_DAVINCIRUGlobal_V10.3.5.0.PFJRUXM_85dc409eac_9.0.zip",
+  "version": "V10.3.5.0.PFJRUXM"
+ },
+ {
+  "android": "9.0",
+  "codename": "davinciin_in_global",
+  "device": "Redmi K20 India",
+  "download": "http://bigota.d.miui.com/V10.3.6.0.PFJINXM/miui_DAVINCIININGlobal_V10.3.6.0.PFJINXM_c4a069be9e_9.0.zip",
+  "filename": "miui_DAVINCIININGlobal_V10.3.6.0.PFJINXM_c4a069be9e_9.0.zip",
+  "version": "V10.3.6.0.PFJINXM"
  },
  {
   "android": "9.0",
