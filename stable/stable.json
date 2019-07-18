@@ -59,9 +59,9 @@
   "android": "9.0",
   "codename": "cepheus",
   "device": "Mi 9 China",
-  "download": "http://bigota.d.miui.com/V10.2.25.0.PFACNXM/miui_CEPHEUS_V10.2.25.0.PFACNXM_b2fea621fa_9.0.zip",
-  "filename": "miui_CEPHEUS_V10.2.25.0.PFACNXM_b2fea621fa_9.0.zip",
-  "version": "V10.2.25.0.PFACNXM"
+  "download": "http://bigota.d.miui.com/V10.2.31.0.PFACNXM/miui_CEPHEUS_V10.2.31.0.PFACNXM_89ce642dca_9.0.zip",
+  "filename": "miui_CEPHEUS_V10.2.31.0.PFACNXM_89ce642dca_9.0.zip",
+  "version": "V10.2.31.0.PFACNXM"
  },
  {
   "android": "9.0",
@@ -142,6 +142,22 @@
   "download": "http://bigota.d.miui.com/V10.3.8.0.PFJCNXM/miui_DAVINCI_V10.3.8.0.PFJCNXM_968e5a975a_9.0.zip",
   "filename": "miui_DAVINCI_V10.3.8.0.PFJCNXM_968e5a975a_9.0.zip",
   "version": "V10.3.8.0.PFJCNXM"
+ },
+ {
+  "android": "9.0",
+  "codename": "davinci_eea_global",
+  "device": "Mi 9T EEA Global",
+  "download": "http://bigota.d.miui.com/V10.3.7.0.PFJEUXM/miui_DAVINCIEEAGlobal_V10.3.7.0.PFJEUXM_3a2dfaaa18_9.0.zip",
+  "filename": "miui_DAVINCIEEAGlobal_V10.3.7.0.PFJEUXM_3a2dfaaa18_9.0.zip",
+  "version": "V10.3.7.0.PFJEUXM"
+ },
+ {
+  "android": "9.0",
+  "codename": "davinci_global",
+  "device": "Mi 9T / Redmi K20 Global",
+  "download": "http://bigota.d.miui.com/V10.3.6.0.PFJMIXM/miui_DAVINCIGlobal_V10.3.6.0.PFJMIXM_4879216355_9.0.zip",
+  "filename": "miui_DAVINCIGlobal_V10.3.6.0.PFJMIXM_4879216355_9.0.zip",
+  "version": "V10.3.6.0.PFJMIXM"
  },
  {
   "android": "9.0",
