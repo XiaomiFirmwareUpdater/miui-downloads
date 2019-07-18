@@ -110,14 +110,24 @@
   "pid": "360"
  },
  "davinci_global": {
-  "name": "Mi 9T / Redmi K20 Global",
+  "name": "Mi 9T Global",
   "model": "DAVINCIGlobal",
-  "pid": ""
+  "pid": "361"
  },
  "davinci_eea_global": {
   "name": "Mi 9T EEA Global",
   "model": "DAVINCIEEAGlobal",
-  "pid": ""
+  "pid": "361"
+ },
+ "davinci_ru_global": {
+  "name": "Mi 9T EEA Russia",
+  "model": "DAVINCIRUGlobal",
+  "pid": "361"
+ },
+ "davinciin_in_global": {
+  "name": "Redmi K20 India",
+  "model": "DAVINCIININGlobal",
+  "pid": "361"
  },
  "dipper": {
   "name": "Mi 8 China",
