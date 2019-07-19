@@ -11,9 +11,9 @@
   "android": "9.0",
   "codename": "cactus",
   "device": "Redmi 6A China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_HM6A_9.7.11_ed43a4c5cd_9.0.zip",
-  "filename": "miui_HM6A_9.7.11_ed43a4c5cd_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_HM6A_9.7.18_81effcaa86_9.0.zip",
+  "filename": "miui_HM6A_9.7.18_81effcaa86_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "8.1",
@@ -27,17 +27,17 @@
   "android": "7.0",
   "codename": "cappu",
   "device": "Mi Pad 3 China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MIPAD3_9.7.11_e1abe44f0c_7.0.zip",
-  "filename": "miui_MIPAD3_9.7.11_e1abe44f0c_7.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MIPAD3_9.7.18_1d33bb2224_7.0.zip",
+  "filename": "miui_MIPAD3_9.7.18_1d33bb2224_7.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "8.0",
   "codename": "capricorn",
   "device": "Mi 5s China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MI5S_9.7.11_1c021cb4e9_8.0.zip",
-  "filename": "miui_MI5S_9.7.11_1c021cb4e9_8.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MI5S_9.7.18_0835a4728b_8.0.zip",
+  "filename": "miui_MI5S_9.7.18_0835a4728b_8.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "8.0",
@@ -67,9 +67,9 @@
   "android": "9.0",
   "codename": "cereus",
   "device": "Redmi 6 China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_HM6_9.7.11_f4f3d7fbea_9.0.zip",
-  "filename": "miui_HM6_9.7.11_f4f3d7fbea_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_HM6_9.7.18_2161dfb6d5_9.0.zip",
+  "filename": "miui_HM6_9.7.18_2161dfb6d5_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "8.1",
@@ -83,9 +83,9 @@
   "android": "9.0",
   "codename": "chiron",
   "device": "Mi MIX 2 China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MIMIX2_9.7.11_4cf4494e2b_9.0.zip",
-  "filename": "miui_MIMIX2_9.7.11_4cf4494e2b_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MIMIX2_9.7.18_c99c7fe63c_9.0.zip",
+  "filename": "miui_MIMIX2_9.7.18_c99c7fe63c_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
@@ -99,17 +99,17 @@
   "android": "8.1",
   "codename": "clover",
   "device": "Mi Pad 4 (Plus) China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MIPAD4_9.7.11_0f80c3a2ff_8.1.zip",
-  "filename": "miui_MIPAD4_9.7.11_0f80c3a2ff_8.1.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MIPAD4_9.7.18_f6e6b8485c_8.1.zip",
+  "filename": "miui_MIPAD4_9.7.18_f6e6b8485c_8.1.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
   "codename": "dipper",
   "device": "Mi 8 China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MI8_9.7.11_f1e0943b43_9.0.zip",
-  "filename": "miui_MI8_9.7.11_f1e0943b43_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MI8_9.7.18_082b86d068_9.0.zip",
+  "filename": "miui_MI8_9.7.18_082b86d068_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
@@ -123,9 +123,9 @@
   "android": "9.0",
   "codename": "equuleus",
   "device": "Mi 8 Pro China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MI8UD_9.7.11_207a1cfac1_9.0.zip",
-  "filename": "miui_MI8UD_9.7.11_207a1cfac1_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MI8UD_9.7.18_c9d5e5bc2a_9.0.zip",
+  "filename": "miui_MI8UD_9.7.18_c9d5e5bc2a_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
@@ -187,9 +187,9 @@
   "android": "9.0",
   "codename": "jason",
   "device": "Mi Note 3 China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MINote3_9.7.11_7d7d03fc4a_9.0.zip",
-  "filename": "miui_MINote3_9.7.11_7d7d03fc4a_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MINote3_9.7.18_75acd5147f_9.0.zip",
+  "filename": "miui_MINote3_9.7.18_75acd5147f_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
@@ -243,17 +243,17 @@
   "android": "9.0",
   "codename": "lavender",
   "device": "Redmi Note 7 China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_LAVENDER_9.7.11_c9963a318b_9.0.zip",
-  "filename": "miui_LAVENDER_9.7.11_c9963a318b_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_LAVENDER_9.7.18_21da190f0d_9.0.zip",
+  "filename": "miui_LAVENDER_9.7.18_21da190f0d_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "8.0",
   "codename": "lithium",
   "device": "Mi MIX China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MIMIX_9.7.11_29e2f7f919_8.0.zip",
-  "filename": "miui_MIMIX_9.7.11_29e2f7f919_8.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MIMIX_9.7.18_1dbcaf7751_8.0.zip",
+  "filename": "miui_MIMIX_9.7.18_1dbcaf7751_8.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "8.0",
@@ -267,9 +267,9 @@
   "android": "8.1",
   "codename": "lotus",
   "device": "Mi Play China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MIPLAY_9.7.11_80a17d3f0c_8.1.zip",
-  "filename": "miui_MIPLAY_9.7.11_80a17d3f0c_8.1.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MIPLAY_9.7.18_5edcf143fb_8.1.zip",
+  "filename": "miui_MIPLAY_9.7.18_5edcf143fb_8.1.zip",
+  "version": "9.7.18"
  },
  {
   "android": "6.0",
@@ -283,17 +283,17 @@
   "android": "7.1",
   "codename": "meri",
   "device": "Mi 5C China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MI5C_9.7.11_1217816375_7.1.zip",
-  "filename": "miui_MI5C_9.7.11_1217816375_7.1.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MI5C_9.7.18_40a6fed784_7.1.zip",
+  "filename": "miui_MI5C_9.7.18_40a6fed784_7.1.zip",
+  "version": "9.7.18"
  },
  {
   "android": "7.0",
   "codename": "mido",
   "device": "Redmi Note 4 China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_HMNote4X_9.7.11_f670500b47_7.0.zip",
-  "filename": "miui_HMNote4X_9.7.11_f670500b47_7.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_HMNote4X_9.7.18_cd7e37cc5d_7.0.zip",
+  "filename": "miui_HMNote4X_9.7.18_cd7e37cc5d_7.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "7.0",
@@ -307,9 +307,9 @@
   "android": "8.0",
   "codename": "natrium",
   "device": "Mi 5s Plus China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MI5SPlus_9.7.11_64ac13bffc_8.0.zip",
-  "filename": "miui_MI5SPlus_9.7.11_64ac13bffc_8.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MI5SPlus_9.7.18_1638e0c867_8.0.zip",
+  "filename": "miui_MI5SPlus_9.7.18_1638e0c867_8.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "8.0",
@@ -339,9 +339,9 @@
   "android": "9.0",
   "codename": "nitrogen",
   "device": "Mi Max 3 China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MIMAX3_9.7.11_684244ee97_9.0.zip",
-  "filename": "miui_MIMAX3_9.7.11_684244ee97_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MIMAX3_9.7.18_aa133aa0fa_9.0.zip",
+  "filename": "miui_MIMAX3_9.7.18_aa133aa0fa_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
@@ -363,9 +363,9 @@
   "android": "7.1",
   "codename": "oxygen",
   "device": "Mi Max 2 China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MIMAX2_9.7.11_5e1ba24051_7.1.zip",
-  "filename": "miui_MIMAX2_9.7.11_5e1ba24051_7.1.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MIMAX2_9.7.18_6b2c674468_7.1.zip",
+  "filename": "miui_MIMAX2_9.7.18_6b2c674468_7.1.zip",
+  "version": "9.7.18"
  },
  {
   "android": "7.1",
@@ -379,9 +379,9 @@
   "android": "9.0",
   "codename": "perseus",
   "device": "Mi MIX 3 China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MIMIX3_9.7.11_d9bccc359a_9.0.zip",
-  "filename": "miui_MIMIX3_9.7.11_d9bccc359a_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MIMIX3_9.7.18_ef6c5716a1_9.0.zip",
+  "filename": "miui_MIMIX3_9.7.18_ef6c5716a1_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
@@ -395,9 +395,9 @@
   "android": "9.0",
   "codename": "platina",
   "device": "Mi 8 Lite China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MI8Lite_9.7.11_3fb34fcd26_9.0.zip",
-  "filename": "miui_MI8Lite_9.7.11_3fb34fcd26_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MI8Lite_9.7.18_414e4f2b5b_9.0.zip",
+  "filename": "miui_MI8Lite_9.7.18_414e4f2b5b_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
@@ -411,9 +411,9 @@
   "android": "9.0",
   "codename": "polaris",
   "device": "Mi MIX 2S China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MIMIX2S_9.7.11_bdefd15298_9.0.zip",
-  "filename": "miui_MIMIX2S_9.7.11_bdefd15298_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MIMIX2S_9.7.18_53df4a89bc_9.0.zip",
+  "filename": "miui_MIMIX2S_9.7.18_53df4a89bc_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
@@ -435,9 +435,9 @@
   "android": "8.1",
   "codename": "riva",
   "device": "Redmi 5A China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_HM5A_9.7.11_b938bb38dc_8.1.zip",
-  "filename": "miui_HM5A_9.7.11_b938bb38dc_8.1.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_HM5A_9.7.18_bef419a98e_8.1.zip",
+  "filename": "miui_HM5A_9.7.18_bef419a98e_8.1.zip",
+  "version": "9.7.18"
  },
  {
   "android": "8.1",
@@ -467,9 +467,9 @@
   "android": "8.1",
   "codename": "rosy",
   "device": "Redmi 5 China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_HM5_9.7.11_10bcd2307c_8.1.zip",
-  "filename": "miui_HM5_9.7.11_10bcd2307c_8.1.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_HM5_9.7.18_6cff383d1b_8.1.zip",
+  "filename": "miui_HM5_9.7.18_6cff383d1b_8.1.zip",
+  "version": "9.7.18"
  },
  {
   "android": "8.1",
@@ -483,9 +483,9 @@
   "android": "9.0",
   "codename": "sagit",
   "device": "Mi 6 China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MI6_9.7.11_5d499d5b91_9.0.zip",
-  "filename": "miui_MI6_9.7.11_5d499d5b91_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MI6_9.7.18_46bc405cdd_9.0.zip",
+  "filename": "miui_MI6_9.7.18_46bc405cdd_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
@@ -499,9 +499,9 @@
   "android": "9.0",
   "codename": "sakura",
   "device": "Redmi 6 Pro China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_HM6Pro_9.7.11_da88131d75_9.0.zip",
-  "filename": "miui_HM6Pro_9.7.11_da88131d75_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_HM6Pro_9.7.18_8066701709_9.0.zip",
+  "filename": "miui_HM6Pro_9.7.18_8066701709_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
@@ -515,9 +515,9 @@
   "android": "7.1",
   "codename": "santoni",
   "device": "Redmi 4X China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_HM4X_9.7.11_3218902522_7.1.zip",
-  "filename": "miui_HM4X_9.7.11_3218902522_7.1.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_HM4X_9.7.18_2bf391cf64_7.1.zip",
+  "filename": "miui_HM4X_9.7.18_2bf391cf64_7.1.zip",
+  "version": "9.7.18"
  },
  {
   "android": "7.1",
@@ -531,9 +531,9 @@
   "android": "8.0",
   "codename": "scorpio",
   "device": "Mi Note 2 China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MINote2_9.7.11_11cfc5b46b_8.0.zip",
-  "filename": "miui_MINote2_9.7.11_11cfc5b46b_8.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MINote2_9.7.18_19869bc7f9_8.0.zip",
+  "filename": "miui_MINote2_9.7.18_19869bc7f9_8.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "8.0",
@@ -547,17 +547,17 @@
   "android": "9.0",
   "codename": "sirius",
   "device": "Mi 8 SE China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MI8SE_9.7.11_b26eecf5fc_9.0.zip",
-  "filename": "miui_MI8SE_9.7.11_b26eecf5fc_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MI8SE_9.7.18_0e9fc7e264_9.0.zip",
+  "filename": "miui_MI8SE_9.7.18_0e9fc7e264_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "8.1",
   "codename": "tiffany",
   "device": "Mi 5X China",
-  "download": "http://bigota.d.miui.com/9.6.27/miui_MI5X_9.6.27_0786a6e1fd_8.1.zip",
-  "filename": "miui_MI5X_9.6.27_0786a6e1fd_8.1.zip",
-  "version": "9.6.27"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MI5X_9.7.18_02eec45c2f_8.1.zip",
+  "filename": "miui_MI5X_9.7.18_02eec45c2f_8.1.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
@@ -571,9 +571,9 @@
   "android": "7.1",
   "codename": "ugg",
   "device": "Redmi Note 5A Prime China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_HMNote5A_9.7.11_a28a046acb_7.1.zip",
-  "filename": "miui_HMNote5A_9.7.11_a28a046acb_7.1.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_HMNote5A_9.7.18_d425f9f608_7.1.zip",
+  "filename": "miui_HMNote5A_9.7.18_d425f9f608_7.1.zip",
+  "version": "9.7.18"
  },
  {
   "android": "7.1",
@@ -587,9 +587,9 @@
   "android": "7.1",
   "codename": "ugglite",
   "device": "Redmi Note 5A (2GB) China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_HMNote5ALITE_9.7.11_37862f7d19_7.1.zip",
-  "filename": "miui_HMNote5ALITE_9.7.11_37862f7d19_7.1.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_HMNote5ALITE_9.7.18_ca1d89194c_7.1.zip",
+  "filename": "miui_HMNote5ALITE_9.7.18_ca1d89194c_7.1.zip",
+  "version": "9.7.18"
  },
  {
   "android": "7.1",
@@ -603,17 +603,17 @@
   "android": "9.0",
   "codename": "ursa",
   "device": "Mi 8 Explorer China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MI8Explorer_9.7.11_d36dc5b63f_9.0.zip",
-  "filename": "miui_MI8Explorer_9.7.11_d36dc5b63f_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MI8Explorer_9.7.18_7c3839e2af_9.0.zip",
+  "filename": "miui_MI8Explorer_9.7.18_7c3839e2af_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "8.1",
   "codename": "vince",
   "device": "Redmi 5 Plus China",
-  "download": "http://bigota.d.miui.com/9.6.27/miui_HM5Plus_9.6.27_d3eaa3fad0_8.1.zip",
-  "filename": "miui_HM5Plus_9.6.27_d3eaa3fad0_8.1.zip",
-  "version": "9.6.27"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_HM5Plus_9.7.18_0ceb63d205_8.1.zip",
+  "filename": "miui_HM5Plus_9.7.18_0ceb63d205_8.1.zip",
+  "version": "9.7.18"
  },
  {
   "android": "8.1",
@@ -627,25 +627,25 @@
   "android": "9.0",
   "codename": "violet",
   "device": "Redmi Note 7 Pro China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_VIOLET_9.7.11_b634595fc9_9.0.zip",
-  "filename": "miui_VIOLET_9.7.11_b634595fc9_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_VIOLET_9.7.18_f8a18aa36e_9.0.zip",
+  "filename": "miui_VIOLET_9.7.18_f8a18aa36e_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
   "codename": "wayne",
   "device": "Mi 6X China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_MI6X_9.7.11_0c6981c782_9.0.zip",
-  "filename": "miui_MI6X_9.7.11_0c6981c782_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_MI6X_9.7.18_ef1bd3ec53_9.0.zip",
+  "filename": "miui_MI6X_9.7.18_ef1bd3ec53_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
   "codename": "whyred",
   "device": "Redmi Note 5 China",
-  "download": "http://bigota.d.miui.com/9.7.11/miui_HMNote5_9.7.11_7489223749_9.0.zip",
-  "filename": "miui_HMNote5_9.7.11_7489223749_9.0.zip",
-  "version": "9.7.11"
+  "download": "http://bigota.d.miui.com/9.7.18/miui_HMNote5_9.7.18_9c82c9fd69_9.0.zip",
+  "filename": "miui_HMNote5_9.7.18_9c82c9fd69_9.0.zip",
+  "version": "9.7.18"
  },
  {
   "android": "9.0",
