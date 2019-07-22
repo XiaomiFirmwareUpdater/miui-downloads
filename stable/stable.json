@@ -139,9 +139,9 @@
   "android": "9.0",
   "codename": "davinci",
   "device": "Redmi K20 China",
-  "download": "http://bigota.d.miui.com/V10.3.8.0.PFJCNXM/miui_DAVINCI_V10.3.8.0.PFJCNXM_968e5a975a_9.0.zip",
-  "filename": "miui_DAVINCI_V10.3.8.0.PFJCNXM_968e5a975a_9.0.zip",
-  "version": "V10.3.8.0.PFJCNXM"
+  "download": "http://bigota.d.miui.com/V10.3.12.0.PFJCNXM/miui_DAVINCI_V10.3.12.0.PFJCNXM_54a3ff575a_9.0.zip",
+  "filename": "miui_DAVINCI_V10.3.12.0.PFJCNXM_54a3ff575a_9.0.zip",
+  "version": "V10.3.12.0.PFJCNXM"
  },
  {
   "android": "9.0",
@@ -179,9 +179,9 @@
   "android": "9.0",
   "codename": "dipper",
   "device": "Mi 8 China",
-  "download": "http://bigota.d.miui.com/V10.3.3.0.PEACNXM/miui_MI8_V10.3.3.0.PEACNXM_1694a82bd8_9.0.zip",
-  "filename": "miui_MI8_V10.3.3.0.PEACNXM_1694a82bd8_9.0.zip",
-  "version": "V10.3.3.0.PEACNXM"
+  "download": "http://bigota.d.miui.com/V10.3.4.0.PEACNXM/miui_MI8_V10.3.4.0.PEACNXM_561a961551_9.0.zip",
+  "filename": "miui_MI8_V10.3.4.0.PEACNXM_561a961551_9.0.zip",
+  "version": "V10.3.4.0.PEACNXM"
  },
  {
   "android": "9.0",
@@ -363,9 +363,9 @@
   "android": "9.0",
   "codename": "lavender_ru_global",
   "device": "Redmi Note 7 Russian",
-  "download": "http://bigota.d.miui.com/V10.3.3.0.PFGRUXM/miui_LAVENDERRUGlobal_V10.3.3.0.PFGRUXM_2283419803_9.0.zip",
-  "filename": "miui_LAVENDERRUGlobal_V10.3.3.0.PFGRUXM_2283419803_9.0.zip",
-  "version": "V10.3.3.0.PFGRUXM"
+  "download": "http://bigota.d.miui.com/V10.3.4.0.PFGRUXM/miui_LAVENDERRUGlobal_V10.3.4.0.PFGRUXM_1d7d672940_9.0.zip",
+  "filename": "miui_LAVENDERRUGlobal_V10.3.4.0.PFGRUXM_1d7d672940_9.0.zip",
+  "version": "V10.3.4.0.PFGRUXM"
  },
  {
   "android": "8.0",
@@ -571,9 +571,9 @@
   "android": "9.0",
   "codename": "perseus_global",
   "device": "Mi MIX 3 Global",
-  "download": "http://bigota.d.miui.com/V10.3.1.0.PEEMIXM/miui_MIMIX3Global_V10.3.1.0.PEEMIXM_999a855430_9.0.zip",
-  "filename": "miui_MIMIX3Global_V10.3.1.0.PEEMIXM_999a855430_9.0.zip",
-  "version": "V10.3.1.0.PEEMIXM"
+  "download": "http://bigota.d.miui.com/V10.3.2.0.PEEMIXM/miui_MIMIX3Global_V10.3.2.0.PEEMIXM_cf84891114_9.0.zip",
+  "filename": "miui_MIMIX3Global_V10.3.2.0.PEEMIXM_cf84891114_9.0.zip",
+  "version": "V10.3.2.0.PEEMIXM"
  },
  {
   "android": "9.0",
