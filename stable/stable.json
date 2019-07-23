@@ -155,17 +155,17 @@
   "android": "9.0",
   "codename": "davinci_global",
   "device": "Mi 9T Global",
-  "download": "http://bigota.d.miui.com/V10.3.6.0.PFJMIXM/miui_DAVINCIGlobal_V10.3.6.0.PFJMIXM_4879216355_9.0.zip",
-  "filename": "miui_DAVINCIGlobal_V10.3.6.0.PFJMIXM_4879216355_9.0.zip",
-  "version": "V10.3.6.0.PFJMIXM"
+  "download": "http://bigota.d.miui.com/V10.3.9.0.PFJMIXM/miui_DAVINCIGlobal_V10.3.9.0.PFJMIXM_1b6f5bc7ca_9.0.zip",
+  "filename": "miui_DAVINCIGlobal_V10.3.9.0.PFJMIXM_1b6f5bc7ca_9.0.zip",
+  "version": "V10.3.9.0.PFJMIXM"
  },
  {
   "android": "9.0",
   "codename": "davinci_ru_global",
   "device": "Mi 9T EEA Russia",
-  "download": "http://bigota.d.miui.com/V10.3.5.0.PFJRUXM/miui_DAVINCIRUGlobal_V10.3.5.0.PFJRUXM_85dc409eac_9.0.zip",
-  "filename": "miui_DAVINCIRUGlobal_V10.3.5.0.PFJRUXM_85dc409eac_9.0.zip",
-  "version": "V10.3.5.0.PFJRUXM"
+  "download": "http://bigota.d.miui.com/V10.3.8.0.PFJRUXM/miui_DAVINCIRUGlobal_V10.3.8.0.PFJRUXM_415b2e0500_9.0.zip",
+  "filename": "miui_DAVINCIRUGlobal_V10.3.8.0.PFJRUXM_415b2e0500_9.0.zip",
+  "version": "V10.3.8.0.PFJRUXM"
  },
  {
   "android": "9.0",
@@ -563,9 +563,9 @@
   "android": "9.0",
   "codename": "perseus",
   "device": "Mi MIX 3 China",
-  "download": "http://bigota.d.miui.com/V10.3.1.0.PEECNXM/miui_MIMIX3_V10.3.1.0.PEECNXM_17d5614ba1_9.0.zip",
-  "filename": "miui_MIMIX3_V10.3.1.0.PEECNXM_17d5614ba1_9.0.zip",
-  "version": "V10.3.1.0.PEECNXM"
+  "download": "http://bigota.d.miui.com/V10.3.2.0.PEECNXM/miui_MIMIX3_V10.3.2.0.PEECNXM_08e7149900_9.0.zip",
+  "filename": "miui_MIMIX3_V10.3.2.0.PEECNXM_08e7149900_9.0.zip",
+  "version": "V10.3.2.0.PEECNXM"
  },
  {
   "android": "9.0",
@@ -883,9 +883,9 @@
   "android": "9.0",
   "codename": "violet_in_global",
   "device": "Redmi Note 7 Pro India",
-  "download": "http://bigota.d.miui.com/V10.3.10.0.PFHINXM/miui_VIOLETINGlobal_V10.3.10.0.PFHINXM_931e2b6f4d_9.0.zip",
-  "filename": "miui_VIOLETINGlobal_V10.3.10.0.PFHINXM_931e2b6f4d_9.0.zip",
-  "version": "V10.3.10.0.PFHINXM"
+  "download": "http://bigota.d.miui.com/V10.3.12.0.PFHINXM/miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip",
+  "filename": "miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip",
+  "version": "V10.3.12.0.PFHINXM"
  },
  {
   "android": "9.0",
