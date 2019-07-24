@@ -147,9 +147,9 @@
   "android": "9.0",
   "codename": "davinci_eea_global",
   "device": "Mi 9T EEA Global",
-  "download": "http://bigota.d.miui.com/V10.3.7.0.PFJEUXM/miui_DAVINCIEEAGlobal_V10.3.7.0.PFJEUXM_3a2dfaaa18_9.0.zip",
-  "filename": "miui_DAVINCIEEAGlobal_V10.3.7.0.PFJEUXM_3a2dfaaa18_9.0.zip",
-  "version": "V10.3.7.0.PFJEUXM"
+  "download": "http://bigota.d.miui.com/V10.3.10.0.PFJEUXM/miui_DAVINCIEEAGlobal_V10.3.10.0.PFJEUXM_01dbcd66d8_9.0.zip",
+  "filename": "miui_DAVINCIEEAGlobal_V10.3.10.0.PFJEUXM_01dbcd66d8_9.0.zip",
+  "version": "V10.3.10.0.PFJEUXM"
  },
  {
   "android": "9.0",
@@ -211,9 +211,9 @@
   "android": "9.0",
   "codename": "equuleus_global",
   "device": "Mi 8 Pro Global",
-  "download": "http://bigota.d.miui.com/V10.3.3.0.PECMIXM/miui_MI8UDGlobal_V10.3.3.0.PECMIXM_cbd37dea1a_9.0.zip",
-  "filename": "miui_MI8UDGlobal_V10.3.3.0.PECMIXM_cbd37dea1a_9.0.zip",
-  "version": "V10.3.3.0.PECMIXM"
+  "download": "http://bigota.d.miui.com/V10.3.4.0.PECMIXM/miui_MI8UDGlobal_V10.3.4.0.PECMIXM_d747a3f050_9.0.zip",
+  "filename": "miui_MI8UDGlobal_V10.3.4.0.PECMIXM_d747a3f050_9.0.zip",
+  "version": "V10.3.4.0.PECMIXM"
  },
  {
   "android": "9.0",
@@ -515,9 +515,9 @@
   "android": "9.0",
   "codename": "onc_in_global",
   "device": "Redmi Y3 India",
-  "download": "http://bigota.d.miui.com/V10.3.2.0.PFFINXM/miui_ONCINGlobal_V10.3.2.0.PFFINXM_2e1cef855e_9.0.zip",
-  "filename": "miui_ONCINGlobal_V10.3.2.0.PFFINXM_2e1cef855e_9.0.zip",
-  "version": "V10.3.2.0.PFFINXM"
+  "download": "http://bigota.d.miui.com/V10.3.3.0.PFFINXM/miui_ONCINGlobal_V10.3.3.0.PFFINXM_1f25d5d6c2_9.0.zip",
+  "filename": "miui_ONCINGlobal_V10.3.3.0.PFFINXM_1f25d5d6c2_9.0.zip",
+  "version": "V10.3.3.0.PFFINXM"
  },
  {
   "android": "9.0",
@@ -664,12 +664,12 @@
   "version": "V10.3.2.0.OCKCNXM"
  },
  {
-  "android": "7.1",
+  "android": "8.1",
   "codename": "riva_global",
   "device": "Redmi 5A Global",
-  "download": "http://bigota.d.miui.com/V10.1.1.0.NCKMIFI/miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip",
-  "filename": "miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip",
-  "version": "V10.1.1.0.NCKMIFI"
+  "download": "http://bigota.d.miui.com/V10.3.2.0.OCKMIXM/miui_HM5AGlobal_V10.3.2.0.OCKMIXM_7f399a7a04_8.1.zip",
+  "filename": "miui_HM5AGlobal_V10.3.2.0.OCKMIXM_7f399a7a04_8.1.zip",
+  "version": "V10.3.2.0.OCKMIXM"
  },
  {
   "android": "6.0",
@@ -899,9 +899,9 @@
   "android": "9.0",
   "codename": "whyred",
   "device": "Redmi Note 5 China",
-  "download": "http://bigota.d.miui.com/V10.3.3.0.PEICNXM/miui_HMNote5_V10.3.3.0.PEICNXM_2573f731ef_9.0.zip",
-  "filename": "miui_HMNote5_V10.3.3.0.PEICNXM_2573f731ef_9.0.zip",
-  "version": "V10.3.3.0.PEICNXM"
+  "download": "http://bigota.d.miui.com/V10.3.4.0.PEICNXM/miui_HMNote5_V10.3.4.0.PEICNXM_f9c9e6de7d_9.0.zip",
+  "filename": "miui_HMNote5_V10.3.4.0.PEICNXM_f9c9e6de7d_9.0.zip",
+  "version": "V10.3.4.0.PEICNXM"
  },
  {
   "android": "9.0",
