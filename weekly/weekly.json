@@ -552,6 +552,14 @@
   "version": "9.8.1"
  },
  {
+  "android": "8.1",
+  "codename": "tiffany",
+  "device": "Mi 5X China",
+  "download": "http://bigota.d.miui.com/9.8.1/miui_MI5X_9.8.1_2d626f394f_8.1.zip",
+  "filename": "miui_MI5X_9.8.1_2d626f394f_8.1.zip",
+  "version": "9.8.1"
+ },
+ {
   "android": "9.0",
   "codename": "tulip_global",
   "device": "Redmi Note 6 Pro Global",
