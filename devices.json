@@ -162,7 +162,7 @@
  "grus_global": {
   "name": "Mi 9 SE Global",
   "model": "GRUSGlobal",
-  "pid": ""
+  "pid": "361"
  },
  "grus_eea_global": {
   "name": "Mi 9 SE EEA Global",
