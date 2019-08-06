@@ -1,0 +1,502 @@
+{
+ "HM2013023": {
+  "name": "Redmi 1 China",
+  "model": "HMW",
+  "id": "1700082"
+ },
+ "HM2013023_sg_global": {
+  "name": "Redmi 1 Global",
+  "model": "HMWGlobal",
+  "id": "1700082"
+ },
+ "andromeda_eea_global": {
+  "name": "Mi MIX 3 5G EEA",
+  "model": "ANDROMEDAEEAGlobal",
+  "id": "1700357"
+ },
+ "andromeda_global": {
+  "name": "Mi MIX 3 5G Global",
+  "model": "ANDROMEDAGlobal",
+  "id": "1700357"
+ },
+ "aries": {
+  "name": "Mi 2/2S China",
+  "model": "MI2",
+  "id": "1700002"
+ },
+ "aries_global": {
+  "name": "Mi 2/2S Global",
+  "model": "MI2Global",
+  "id": "1700002"
+ },
+ "beryllium_global": {
+  "name": "POCO F1 Global",
+  "model": "POCOF1Global",
+  "id": "1700355"
+ },
+ "beryllium_ru_global": {
+  "name": "POCO F1 Russia",
+  "model": "POCOF1RUGlobal",
+  "id": "1700355"
+ },
+ "cactus_global": {
+  "name": "Redmi 6A Global",
+  "model": "HM6AGlobal",
+  "id": "1700349"
+ },
+ "cactus_ru_global": {
+  "name": "Redmi 6A Russia",
+  "model": "HM6ARUGlobal",
+  "id": "1700349"
+ },
+ "cancro": {
+  "name": "Mi 4 3G/4G China",
+  "model": "MI3WMI4W",
+  "id": "1700240"
+ },
+ "cancro_global": {
+  "name": "Mi 4 3G/4G Global",
+  "model": "MI3WMI4WGlobal",
+  "id": "1700240"
+ },
+ "capricorn_global": {
+  "name": "Xiaomi Mi 5s Global",
+  "model": "MI5SGlobal",
+  "id": "1700314"
+ },
+ "cepheus_eea_global": {
+  "name": "Mi 9 EEA",
+  "model": "CEPHEUSEEAGlobal",
+  "id": "1700361"
+ },
+ "cepheus_global": {
+  "name": "Mi 9 Global",
+  "model": "CEPHEUSGlobal",
+  "id": "1700361"
+ },
+ "cepheus_ru_global": {
+  "name": "Mi 9 Russia",
+  "model": "CEPHEUSRUGlobal",
+  "id": "1700361"
+ },
+ "cereus_global": {
+  "name": "Redmi 6 Global",
+  "model": "HM6Global",
+  "id": "1700349"
+ },
+ "cereus_ru_global": {
+  "name": "Redmi 6 Russia",
+  "model": "HM6RUGlobal",
+  "id": "1700349"
+ },
+ "chiron_global": {
+  "name": "Mi MIX 2 Global",
+  "model": "MIMIX2Global",
+  "id": "1700334"
+ },
+ "davinci_eea_global": {
+  "name": "Mi 9T EEA",
+  "model": "DAVINCIEEAGlobal",
+  "id": "1700361"
+ },
+ "davinci_global": {
+  "name": "Mi 9T Global",
+  "model": "DAVINCIGlobal",
+  "id": "1700361"
+ },
+ "davinci_ru_global": {
+  "name": "Mi 9T Russia",
+  "model": "DAVINCIRUGlobal",
+  "id": "1700361"
+ },
+ "dipper_global": {
+  "name": "Mi 8 Global",
+  "model": "MI8Global",
+  "id": "1700346"
+ },
+ "dipper_ru_global": {
+  "name": "Mi 8 Russia",
+  "model": "MI8RUGlobal",
+  "id": "1700346"
+ },
+ "equuleus_global": {
+  "name": "Mi 8 Pro Global",
+  "model": "MI8UDGlobal",
+  "id": "1700346"
+ },
+ "gemini_global": {
+  "name": "Xiaomi Mi 5 Global",
+  "model": "MI5Global",
+  "id": "1700299"
+ },
+ "grus_eea_global": {
+  "name": "Mi 9 SE EEA",
+  "model": "GRUSEEAGlobal",
+  "id": "1700361"
+ },
+ "gucci": {
+  "name": "Redmi Note Prime (Dual SIM) China",
+  "model": "HMNote1S",
+  "id": "1700297"
+ },
+ "gucci_global": {
+  "name": "Redmi Note Prime Global",
+  "model": "HMNote1SGlobal",
+  "id": "1700297"
+ },
+ "helium_global": {
+  "name": "Mi Max Prime Global",
+  "model": "MIMAX652Global",
+  "id": "1700302"
+ },
+ "hennessy": {
+  "name": "Redmi Note 3 MTK China",
+  "model": "HMNote3",
+  "id": "1700301"
+ },
+ "hermes": {
+  "name": "Redmi Note 2 China",
+  "model": "HMNote2",
+  "id": "1700274"
+ },
+ "hermes_global": {
+  "name": "Redmi Note 2 Global",
+  "model": "HMNote2Global",
+  "id": "1700274"
+ },
+ "hydrogen_global": {
+  "name": "Mi Max 32GB Global",
+  "model": "MIMAXGlobal",
+  "id": "1700302"
+ },
+ "ido_xhdpi": {
+  "name": "Redmi 3/Prime China",
+  "model": "HM3",
+  "id": "1700298"
+ },
+ "ido_xhdpi_global": {
+  "name": "Redmi 3/Prime Global",
+  "model": "HM3Global",
+  "id": "1700298"
+ },
+ "jasmine_global": {
+  "name": "Mi A2",
+  "model": "jasmine",
+  "id": "1700353"
+ },
+ "jason_global": {
+  "name": "Mi Note 3 Global",
+  "model": "MINote3Global",
+  "id": "1700336"
+ },
+ "kate_global": {
+  "name": "Redmi Note 3 Special Edition Global",
+  "model": "HMNote3ProtwGlobal",
+  "id": "1700301"
+ },
+ "kenzo": {
+  "name": "Redmi Note 3 Qualcomm China",
+  "model": "HMNote3Pro",
+  "id": "1700301"
+ },
+ "kenzo_global": {
+  "name": "Redmi Note 3 Qualcomm Global",
+  "model": "HMNote3ProGlobal",
+  "id": "1700301"
+ },
+ "land_global": {
+  "name": "Redmi 3S/Prime Global",
+  "model": "HM3SGlobal",
+  "id": "1700303"
+ },
+ "lavender_eea_global": {
+  "name": "Redmi Note 7 EEA",
+  "model": "LAVENDEREEAGlobal",
+  "id": "1700360"
+ },
+ "lavender_global": {
+  "name": "Redmi Note 7 Global",
+  "model": "LAVENDERGlobal",
+  "id": "1700360"
+ },
+ "lavender_in_global": {
+  "name": "Redmi Note 7 India",
+  "model": "LAVENDERINGlobal",
+  "id": "1700360"
+ },
+ "lavender_ru_global": {
+  "name": "Redmi Note 7 Russia",
+  "model": "LAVENDERRUGlobal",
+  "id": "1700360"
+ },
+ "lithium_global": {
+  "name": "Mi MIX Global",
+  "model": "MIMIXGlobal",
+  "id": "1700317"
+ },
+ "lotus": {
+  "name": "Mi Play China",
+  "model": "MIPLAY",
+  "id": "1700362"
+ },
+ "lotus_global": {
+  "name": "Mi Play Global",
+  "model": "MIPLAYGlobal",
+  "id": "1700362"
+ },
+ "lotus_ru_global": {
+  "name": "Mi Play RU",
+  "model": "MIPLAYRUGlobal",
+  "id": "1700362"
+ },
+ "markw_global": {
+  "name": "Redmi 4 Prime Global",
+  "model": "HM4ProGlobal",
+  "id": "1700320"
+ },
+ "mido_global": {
+  "name": "Redmi Note 4X Global",
+  "model": "HMNote4XGlobal",
+  "id": "1700321"
+ },
+ "mione_plus": {
+  "name": "Mi 1/1S China",
+  "model": "Mioneplus",
+  "id": "1700001"
+ },
+ "natrium_global": {
+  "name": "Mi 5s Plus Global",
+  "model": "MI5SPlusGlobal",
+  "id": "1700315"
+ },
+ "nikel_global": {
+  "name": "Redmi Note 4 MTK Global",
+  "model": "HMNote4Global",
+  "id": "1700309"
+ },
+ "nitrogen_global": {
+  "name": "Mi Max 3 Global",
+  "model": "MIMAX3Global",
+  "id": "1700351"
+ },
+ "nitrogen_ru_global": {
+  "name": "Mi Max 3 Russia",
+  "model": "NITROGENRUGlobal",
+  "id": "1700351"
+ },
+ "onc_in_global": {
+  "name": "Redmi Y3 India",
+  "model": "ONCINGlobal",
+  "id": "1700367"
+ },
+ "onclite_eea_global": {
+  "name": "Redmi 7 EEA",
+  "model": "ONCLITEEEAGlobal",
+  "id": "1700366"
+ },
+ "onclite_global": {
+  "name": "Redmi 7 Global",
+  "model": "ONCLITEGlobal",
+  "id": "1700366"
+ },
+ "oxygen_global": {
+  "name": "Mi Max 2 Global",
+  "model": "MIMAX2Global",
+  "id": "1700328"
+ },
+ "perseus_global": {
+  "name": "Mi MIX 3 Global",
+  "model": "MIMIX3Global",
+  "id": "1700357"
+ },
+ "perseus_ru_global": {
+  "name": "Mi MIX 3 Russia",
+  "model": "MIMIX3RUGlobal",
+  "id": "1700357"
+ },
+ "pine_eea_global": {
+  "name": "Redmi 7A EEA",
+  "model": "PINEEEAGlobal",
+  "id": "1900369"
+ },
+ "pine_global": {
+  "name": "Redmi 7A Global",
+  "model": "PINEGlobal",
+  "id": "1900369"
+ },
+ "pine_ru_global": {
+  "name": "Redmi 7A RU",
+  "model": "PINERUGlobal",
+  "id": "1900369"
+ },
+ "platina_global": {
+  "name": "Mi 8 Lite Global",
+  "model": "MI8LiteGlobal",
+  "id": "1700346"
+ },
+ "platina_ru_global": {
+  "name": "Mi 8 Lite Russia",
+  "model": "PLATINARUGlobal",
+  "id": "1700346"
+ },
+ "polaris_global": {
+  "name": "Mi MIX 2S Global",
+  "model": "MIMIX2SGlobal",
+  "id": "1700343"
+ },
+ "polaris_ru_global": {
+  "name": "Mi MIX 2S Russia",
+  "model": "MIMIX2SRUGlobal",
+  "id": "1700343"
+ },
+ "prada_global": {
+  "name": "Redmi 4 Global",
+  "model": "HM4Global",
+  "id": "1700318"
+ },
+ "riva_global": {
+  "name": "Redmi 5A Global",
+  "model": "HM5AGlobal",
+  "id": "1700338"
+ },
+ "rolex_global": {
+  "name": "Redmi 4A Global",
+  "model": "HM4AGlobal",
+  "id": "1700319"
+ },
+ "rosy_global": {
+  "name": "Redmi 5 Global",
+  "model": "HM5Global",
+  "id": "1700340"
+ },
+ "sagit_global": {
+  "name": "Mi 6 Global",
+  "model": "MI6Global",
+  "id": "1700326"
+ },
+ "sakura_india_global": {
+  "name": "Redmi 6 Pro Indian",
+  "model": "HM6ProINGlobal",
+  "id": "1700349"
+ },
+ "santoni_global": {
+  "name": "Redmi 4 Global (India Version)",
+  "model": "HM4XGlobal",
+  "id": "1700318"
+ },
+ "scorpio_global": {
+  "name": "Mi Note 2 Global",
+  "model": "MINote2Global",
+  "id": "1700316"
+ },
+ "taurus": {
+  "name": "Mi 2A China",
+  "model": "MI2A",
+  "id": "1700037"
+ },
+ "taurus_beta": {
+  "name": "Mi 2A Special Edition",
+  "model": "MI2ABeta",
+  "id": "1700037"
+ },
+ "tiare_eea_global": {
+  "name": "Redmi Go EEA",
+  "model": "tiare",
+  "id": "1700365"
+ },
+ "tiare_global": {
+  "name": "Redmi Go Global",
+  "model": "tiare",
+  "id": "1700365"
+ },
+ "tiare_in_global": {
+  "name": "Redmi Go India",
+  "model": "tiare",
+  "id": "1700365"
+ },
+ "tiare_ru_global": {
+  "name": "Redmi Go Russia",
+  "model": "tiare",
+  "id": "1700365"
+ },
+ "tissot": {
+  "name": "Mi A1",
+  "model": "tissot",
+  "id": "1700333"
+ },
+ "tulip_global": {
+  "name": "Redmi Note 6 Pro Global",
+  "model": "HMNote6ProGlobal",
+  "id": "1700356"
+ },
+ "tulip_ru_global": {
+  "name": "Redmi Note 6 Pro Russia",
+  "model": "HMNote6ProRUGlobal",
+  "id": "1700356"
+ },
+ "ugg_global": {
+  "name": "Redmi Note 5A Prime Global",
+  "model": "HMNote5AGlobal",
+  "id": "1700332"
+ },
+ "ugglite_global": {
+  "name": "Redmi Note 5A Global",
+  "model": "HMNote5ALITEGlobal",
+  "id": "1700332"
+ },
+ "vince_global": {
+  "name": "Redmi 5 Plus Global",
+  "model": "HM5PlusGlobal",
+  "id": "1700340"
+ },
+ "vince_ru_global": {
+  "name": "Redmi 5 Plus Russia",
+  "model": "HM5PlusRUGlobal",
+  "id": "1700340"
+ },
+ "violet_in_global": {
+  "name": "Redmi Note 7 Pro India",
+  "model": "VIOLETINGlobal",
+  "id": "1700360"
+ },
+ "whyred_global": {
+  "name": "Redmi Note 5 Pro India",
+  "model": "HMNote5Global",
+  "id": "1700341"
+ },
+ "whyred_ru_global": {
+  "name": "Redmi Note 5 Russia",
+  "model": "HMNote5RUGlobal",
+  "id": "1700342"
+ },
+ "wt88047": {
+  "name": "Redmi 2 China",
+  "model": "HM2XWC",
+  "id": "1700261"
+ },
+ "wt88047_global": {
+  "name": "Redmi 2 4G Global",
+  "model": "HM2XWCGlobal",
+  "id": "1700261"
+ },
+ "wt88047_pro": {
+  "name": "Redmi 2 Prime China",
+  "model": "HM2XWCPro",
+  "id": "1700261"
+ },
+ "wt88047_pro_global": {
+  "name": "Redmi 2 Prime Global",
+  "model": "HM2XWCProGlobal",
+  "id": "1700261"
+ },
+ "ysl_global": {
+  "name": "Redmi S2/Y2 Global",
+  "model": "HMS2Global",
+  "id": "1700345"
+ },
+ "ysl_ru_global": {
+  "name": "Redmi S2/Y2  Russia",
+  "model": "HMS2RUGlobal",
+  "id": "1700345"
+ }
+}
