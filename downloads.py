@@ -178,7 +178,7 @@ def main():
 
     with open('names.json', 'w') as out_json:
         json.dump(dict(sorted(DEVICES.items())), out_json, indent=1)
-    # git_commit_push()
+    git_commit_push()
     print('Done')
 
 
