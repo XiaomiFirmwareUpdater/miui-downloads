@@ -21,10 +21,10 @@
   "android": "9.0",
   "codename": "andromeda_global",
   "device": "Mi MIX 3 5G Global",
-  "download": "https://bigota.d.miui.com/V10.3.18.0.PEMMIXM/miui_ANDROMEDAGlobal_V10.3.18.0.PEMMIXM_716941ca82_9.0.zip",
-  "filename": "miui_ANDROMEDAGlobal_V10.3.18.0.PEMMIXM_716941ca82_9.0.zip",
-  "version": "V10.3.18.0.PEMMIXM",
-  "size": "2.0G"
+  "download": "https://bigota.d.miui.com/V10.3.19.0.PEMMIXM/miui_ANDROMEDAGlobal_V10.3.19.0.PEMMIXM_be9a3f277a_9.0.zip",
+  "filename": "miui_ANDROMEDAGlobal_V10.3.19.0.PEMMIXM_be9a3f277a_9.0.zip",
+  "version": "V10.3.19.0.PEMMIXM",
+  "size": "1.9G"
  },
  {
   "android": "5.0",
@@ -160,6 +160,15 @@
   "filename": "miui_MIMIX2Global_V10.3.5.0.ODEMIXM_f99efbaa3a_8.0.zip",
   "version": "V10.3.5.0.ODEMIXM",
   "size": "1.8G"
+ },
+ {
+  "android": "9.0",
+  "codename": "daisy_global",
+  "device": "Mi A2 Lite",
+  "download": "http://bigota.d.miui.com/V10.0.9.0.PDLMIXM/daisy_global_images_V10.0.9.0.PDLMIXM_20190514.0000.00_9.0_f9d0c739e0.tgz",
+  "filename": "daisy_global_images_V10.0.9.0.PDLMIXM_20190514.0000.00_9.0_f9d0c739e0.tgz",
+  "version": "V10.0.9.0.PDLMIXM",
+  "size": "1.6G"
  },
  {
   "android": "9.0",
@@ -552,9 +561,9 @@
   "android": "9.0",
   "codename": "pine_eea_global",
   "device": "Redmi 7A EEA",
-  "download": "https://bigota.d.miui.com/V10.2.3.0.PCMEUXM/miui_PINEEEAGlobal_V10.2.3.0.PCMEUXM_2f66f8d068_9.0.zip",
-  "filename": "miui_PINEEEAGlobal_V10.2.3.0.PCMEUXM_2f66f8d068_9.0.zip",
-  "version": "V10.2.3.0.PCMEUXM",
+  "download": "https://bigota.d.miui.com/V10.2.4.0.PCMEUXM/miui_PINEEEAGlobal_V10.2.4.0.PCMEUXM_8b09990c4d_9.0.zip",
+  "filename": "miui_PINEEEAGlobal_V10.2.4.0.PCMEUXM_8b09990c4d_9.0.zip",
+  "version": "V10.2.4.0.PCMEUXM",
   "size": "1.5G"
  },
  {
