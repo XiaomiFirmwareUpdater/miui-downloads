@@ -315,6 +315,15 @@
   "size": "959M"
  },
  {
+  "android": "9.0",
+  "codename": "jasmine_global",
+  "device": "Mi A2",
+  "download": "http://bigota.d.miui.com/V10.0.12.0.PDIMIXM/jasmine_global_images_V10.0.12.0.PDIMIXM_20190712.0000.00_9.0_1e580ee45b.tgz",
+  "filename": "jasmine_global_images_V10.0.12.0.PDIMIXM_20190712.0000.00_9.0_1e580ee45b.tgz",
+  "version": "V10.0.12.0.PDIMIXM",
+  "size": "1687M"
+ },
+ {
   "android": "8.1",
   "codename": "jason_global",
   "device": "Mi Note 3 Global",
