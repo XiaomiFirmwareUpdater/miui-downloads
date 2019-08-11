@@ -91,7 +91,7 @@ def git_commit_push():
     system("git add */*.json && "
            "git -c \"user.name=XiaomiFirmwareUpdater\" -c "
            "\"user.email=xiaomifirmwareupdater@gmail.com\" "
-           "commit -m \"sync: {}\" && "" \
+           "commit -m \"[skip ci] sync: {}\" && "" \
            ""git push -q https://{}@github.com/XiaomiFirmwareUpdater/"
            "miui-downloads.git HEAD:master"
            .format(today, environ['XFU']))
