@@ -139,33 +139,33 @@
   "android": "9.0",
   "codename": "davinci",
   "device": "Redmi K20 China",
-  "download": "http://bigota.d.miui.com/V10.3.12.0.PFJCNXM/miui_DAVINCI_V10.3.12.0.PFJCNXM_54a3ff575a_9.0.zip",
-  "filename": "miui_DAVINCI_V10.3.12.0.PFJCNXM_54a3ff575a_9.0.zip",
-  "version": "V10.3.12.0.PFJCNXM"
+  "download": "http://bigota.d.miui.com/V10.3.14.0.PFJCNXM/miui_DAVINCI_V10.3.14.0.PFJCNXM_f944c0a4bf_9.0.zip",
+  "filename": "miui_DAVINCI_V10.3.14.0.PFJCNXM_f944c0a4bf_9.0.zip",
+  "version": "V10.3.14.0.PFJCNXM"
  },
  {
   "android": "9.0",
   "codename": "davinci_eea_global",
   "device": "Mi 9T EEA Global",
-  "download": "http://bigota.d.miui.com/V10.3.10.0.PFJEUXM/miui_DAVINCIEEAGlobal_V10.3.10.0.PFJEUXM_01dbcd66d8_9.0.zip",
-  "filename": "miui_DAVINCIEEAGlobal_V10.3.10.0.PFJEUXM_01dbcd66d8_9.0.zip",
-  "version": "V10.3.10.0.PFJEUXM"
+  "download": "http://bigota.d.miui.com/V10.3.12.0.PFJEUXM/miui_DAVINCIEEAGlobal_V10.3.12.0.PFJEUXM_946a02f6df_9.0.zip",
+  "filename": "miui_DAVINCIEEAGlobal_V10.3.12.0.PFJEUXM_946a02f6df_9.0.zip",
+  "version": "V10.3.12.0.PFJEUXM"
  },
  {
   "android": "9.0",
   "codename": "davinci_global",
   "device": "Mi 9T Global",
-  "download": "http://bigota.d.miui.com/V10.3.9.0.PFJMIXM/miui_DAVINCIGlobal_V10.3.9.0.PFJMIXM_1b6f5bc7ca_9.0.zip",
-  "filename": "miui_DAVINCIGlobal_V10.3.9.0.PFJMIXM_1b6f5bc7ca_9.0.zip",
-  "version": "V10.3.9.0.PFJMIXM"
+  "download": "http://bigota.d.miui.com/V10.3.11.0.PFJMIXM/miui_DAVINCIGlobal_V10.3.11.0.PFJMIXM_a63c8d3d93_9.0.zip",
+  "filename": "miui_DAVINCIGlobal_V10.3.11.0.PFJMIXM_a63c8d3d93_9.0.zip",
+  "version": "V10.3.11.0.PFJMIXM"
  },
  {
   "android": "9.0",
   "codename": "davinci_ru_global",
   "device": "Mi 9T EEA Russia",
-  "download": "http://bigota.d.miui.com/V10.3.8.0.PFJRUXM/miui_DAVINCIRUGlobal_V10.3.8.0.PFJRUXM_415b2e0500_9.0.zip",
-  "filename": "miui_DAVINCIRUGlobal_V10.3.8.0.PFJRUXM_415b2e0500_9.0.zip",
-  "version": "V10.3.8.0.PFJRUXM"
+  "download": "http://bigota.d.miui.com/V10.3.10.0.PFJRUXM/miui_DAVINCIRUGlobal_V10.3.10.0.PFJRUXM_0d0ae5a119_9.0.zip",
+  "filename": "miui_DAVINCIRUGlobal_V10.3.10.0.PFJRUXM_0d0ae5a119_9.0.zip",
+  "version": "V10.3.10.0.PFJRUXM"
  },
  {
   "android": "9.0",
@@ -515,9 +515,9 @@
   "android": "9.0",
   "codename": "onc_in_global",
   "device": "Redmi Y3 India",
-  "download": "http://bigota.d.miui.com/V10.3.3.0.PFFINXM/miui_ONCINGlobal_V10.3.3.0.PFFINXM_1f25d5d6c2_9.0.zip",
-  "filename": "miui_ONCINGlobal_V10.3.3.0.PFFINXM_1f25d5d6c2_9.0.zip",
-  "version": "V10.3.3.0.PFFINXM"
+  "download": "http://bigota.d.miui.com/V10.3.6.0.PFFINXM/miui_ONCINGlobal_V10.3.6.0.PFFINXM_6fda095cff_9.0.zip",
+  "filename": "miui_ONCINGlobal_V10.3.6.0.PFFINXM_6fda095cff_9.0.zip",
+  "version": "V10.3.6.0.PFFINXM"
  },
  {
   "android": "9.0",
