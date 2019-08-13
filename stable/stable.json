@@ -211,9 +211,9 @@
   "android": "9.0",
   "codename": "equuleus_global",
   "device": "Mi 8 Pro Global",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.PECMIXM/miui_MI8UDGlobal_V10.3.4.0.PECMIXM_d747a3f050_9.0.zip",
-  "filename": "miui_MI8UDGlobal_V10.3.4.0.PECMIXM_d747a3f050_9.0.zip",
-  "version": "V10.3.4.0.PECMIXM"
+  "download": "http://bigota.d.miui.com/V10.3.5.0.PECMIXM/miui_MI8UDGlobal_V10.3.5.0.PECMIXM_6f56abd7d3_9.0.zip",
+  "filename": "miui_MI8UDGlobal_V10.3.5.0.PECMIXM_6f56abd7d3_9.0.zip",
+  "version": "V10.3.5.0.PECMIXM"
  },
  {
   "android": "9.0",
@@ -227,17 +227,17 @@
   "android": "9.0",
   "codename": "grus_eea_global",
   "device": "Mi 9 SE EEA Global",
-  "download": "http://bigota.d.miui.com/V10.2.9.0.PFBEUXM/miui_GRUSEEAGlobal_V10.2.9.0.PFBEUXM_432d8a9116_9.0.zip",
-  "filename": "miui_GRUSEEAGlobal_V10.2.9.0.PFBEUXM_432d8a9116_9.0.zip",
-  "version": "V10.2.9.0.PFBEUXM"
+  "download": "http://bigota.d.miui.com/V10.3.4.0.PFBEUXM/miui_GRUSEEAGlobal_V10.3.4.0.PFBEUXM_409f6dbb6f_9.0.zip",
+  "filename": "miui_GRUSEEAGlobal_V10.3.4.0.PFBEUXM_409f6dbb6f_9.0.zip",
+  "version": "V10.3.4.0.PFBEUXM"
  },
  {
   "android": "9.0",
   "codename": "grus_global",
   "device": "Mi 9 SE Global",
-  "download": "http://bigota.d.miui.com/V10.2.2.0.PFBMIXM/miui_GRUSGlobal_V10.2.2.0.PFBMIXM_b4cc336f0d_9.0.zip",
-  "filename": "miui_GRUSGlobal_V10.2.2.0.PFBMIXM_b4cc336f0d_9.0.zip",
-  "version": "V10.2.2.0.PFBMIXM"
+  "download": "http://bigota.d.miui.com/V10.3.3.0.PFBMIXM/miui_GRUSGlobal_V10.3.3.0.PFBMIXM_2842fe0d8f_9.0.zip",
+  "filename": "miui_GRUSGlobal_V10.3.3.0.PFBMIXM_2842fe0d8f_9.0.zip",
+  "version": "V10.3.3.0.PFBMIXM"
  },
  {
   "android": "7.0",
@@ -843,9 +843,9 @@
   "android": "9.0",
   "codename": "ursa",
   "device": "Mi 8 Explorer China",
-  "download": "http://bigota.d.miui.com/V10.3.5.0.PEHCNXM/miui_MI8Explorer_V10.3.5.0.PEHCNXM_e2a104608b_9.0.zip",
-  "filename": "miui_MI8Explorer_V10.3.5.0.PEHCNXM_e2a104608b_9.0.zip",
-  "version": "V10.3.5.0.PEHCNXM"
+  "download": "http://bigota.d.miui.com/V10.3.6.0.PEHCNXM/miui_MI8Explorer_V10.3.6.0.PEHCNXM_acacd77b62_9.0.zip",
+  "filename": "miui_MI8Explorer_V10.3.6.0.PEHCNXM_acacd77b62_9.0.zip",
+  "version": "V10.3.6.0.PEHCNXM"
  },
  {
   "android": "8.1",
@@ -920,12 +920,12 @@
   "version": "V10.3.1.0.OEIRUXM"
  },
  {
-  "android": "8.1",
+  "android": "9.0",
   "codename": "ysl",
   "device": "Redmi S2 China",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.OEFCNXM/miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip",
-  "filename": "miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip",
-  "version": "V10.3.4.0.OEFCNXM"
+  "download": "http://bigota.d.miui.com/V10.3.4.0.PEFCNXM/miui_HMS2_V10.3.4.0.PEFCNXM_4ca909f2d1_9.0.zip",
+  "filename": "miui_HMS2_V10.3.4.0.PEFCNXM_4ca909f2d1_9.0.zip",
+  "version": "V10.3.4.0.PEFCNXM"
  },
  {
   "android": "9.0",
