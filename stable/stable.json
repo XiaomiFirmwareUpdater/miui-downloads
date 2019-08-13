@@ -163,30 +163,39 @@
  },
  {
   "android": "9.0",
+  "codename": "daisy_global",
+  "device": "Mi A2 Lite",
+  "download": "http://bigota.d.miui.com/V10.0.9.0.PDLMIXM/daisy_global_images_V10.0.9.0.PDLMIXM_20190514.0000.00_9.0_f9d0c739e0.tgz",
+  "filename": "daisy_global_images_V10.0.9.0.PDLMIXM_20190514.0000.00_9.0_f9d0c739e0.tgz",
+  "version": "V10.0.9.0.PDLMIXM",
+  "size": "1.6G"
+ },
+ {
+  "android": "9.0",
   "codename": "davinci_eea_global",
   "device": "Mi 9T EEA",
-  "download": "https://bigota.d.miui.com/V10.3.10.0.PFJEUXM/miui_DAVINCIEEAGlobal_V10.3.10.0.PFJEUXM_01dbcd66d8_9.0.zip",
-  "filename": "miui_DAVINCIEEAGlobal_V10.3.10.0.PFJEUXM_01dbcd66d8_9.0.zip",
-  "version": "V10.3.10.0.PFJEUXM",
-  "size": "2.2G"
+  "download": "https://bigota.d.miui.com/V10.3.12.0.PFJEUXM/miui_DAVINCIEEAGlobal_V10.3.12.0.PFJEUXM_946a02f6df_9.0.zip",
+  "filename": "miui_DAVINCIEEAGlobal_V10.3.12.0.PFJEUXM_946a02f6df_9.0.zip",
+  "version": "V10.3.12.0.PFJEUXM",
+  "size": "2.1G"
  },
  {
   "android": "9.0",
   "codename": "davinci_global",
   "device": "Mi 9T Global",
-  "download": "https://bigota.d.miui.com/V10.3.9.0.PFJMIXM/miui_DAVINCIGlobal_V10.3.9.0.PFJMIXM_1b6f5bc7ca_9.0.zip",
-  "filename": "miui_DAVINCIGlobal_V10.3.9.0.PFJMIXM_1b6f5bc7ca_9.0.zip",
-  "version": "V10.3.9.0.PFJMIXM",
-  "size": "2.2G"
+  "download": "https://bigota.d.miui.com/V10.3.11.0.PFJMIXM/miui_DAVINCIGlobal_V10.3.11.0.PFJMIXM_a63c8d3d93_9.0.zip",
+  "filename": "miui_DAVINCIGlobal_V10.3.11.0.PFJMIXM_a63c8d3d93_9.0.zip",
+  "version": "V10.3.11.0.PFJMIXM",
+  "size": "2.1G"
  },
  {
   "android": "9.0",
   "codename": "davinci_ru_global",
   "device": "Mi 9T Russia",
-  "download": "https://bigota.d.miui.com/V10.3.8.0.PFJRUXM/miui_DAVINCIRUGlobal_V10.3.8.0.PFJRUXM_415b2e0500_9.0.zip",
-  "filename": "miui_DAVINCIRUGlobal_V10.3.8.0.PFJRUXM_415b2e0500_9.0.zip",
-  "version": "V10.3.8.0.PFJRUXM",
-  "size": "2.2G"
+  "download": "https://bigota.d.miui.com/V10.3.10.0.PFJRUXM/miui_DAVINCIRUGlobal_V10.3.10.0.PFJRUXM_0d0ae5a119_9.0.zip",
+  "filename": "miui_DAVINCIRUGlobal_V10.3.10.0.PFJRUXM_0d0ae5a119_9.0.zip",
+  "version": "V10.3.10.0.PFJRUXM",
+  "size": "2.1G"
  },
  {
   "android": "9.0",
@@ -210,9 +219,9 @@
   "android": "9.0",
   "codename": "equuleus_global",
   "device": "Mi 8 Pro Global",
-  "download": "https://bigota.d.miui.com/V10.3.4.0.PECMIXM/miui_MI8UDGlobal_V10.3.4.0.PECMIXM_d747a3f050_9.0.zip",
-  "filename": "miui_MI8UDGlobal_V10.3.4.0.PECMIXM_d747a3f050_9.0.zip",
-  "version": "V10.3.4.0.PECMIXM",
+  "download": "https://bigota.d.miui.com/V10.3.5.0.PECMIXM/miui_MI8UDGlobal_V10.3.5.0.PECMIXM_6f56abd7d3_9.0.zip",
+  "filename": "miui_MI8UDGlobal_V10.3.5.0.PECMIXM_6f56abd7d3_9.0.zip",
+  "version": "V10.3.5.0.PECMIXM",
   "size": "1.8G"
  },
  {
@@ -228,10 +237,10 @@
   "android": "9.0",
   "codename": "grus_eea_global",
   "device": "Mi 9 SE EEA",
-  "download": "https://bigota.d.miui.com/V10.2.9.0.PFBEUXM/miui_GRUSEEAGlobal_V10.2.9.0.PFBEUXM_432d8a9116_9.0.zip",
-  "filename": "miui_GRUSEEAGlobal_V10.2.9.0.PFBEUXM_432d8a9116_9.0.zip",
-  "version": "V10.2.9.0.PFBEUXM",
-  "size": "1.9G"
+  "download": "https://bigota.d.miui.com/V10.3.4.0.PFBEUXM/miui_GRUSEEAGlobal_V10.3.4.0.PFBEUXM_409f6dbb6f_9.0.zip",
+  "filename": "miui_GRUSEEAGlobal_V10.3.4.0.PFBEUXM_409f6dbb6f_9.0.zip",
+  "version": "V10.3.4.0.PFBEUXM",
+  "size": "2.1G"
  },
  {
   "android": "4.4",
@@ -489,9 +498,9 @@
   "android": "9.0",
   "codename": "onc_in_global",
   "device": "Redmi Y3 India",
-  "download": "https://bigota.d.miui.com/V10.3.3.0.PFFINXM/miui_ONCINGlobal_V10.3.3.0.PFFINXM_1f25d5d6c2_9.0.zip",
-  "filename": "miui_ONCINGlobal_V10.3.3.0.PFFINXM_1f25d5d6c2_9.0.zip",
-  "version": "V10.3.3.0.PFFINXM",
+  "download": "https://bigota.d.miui.com/V10.3.6.0.PFFINXM/miui_ONCINGlobal_V10.3.6.0.PFFINXM_6fda095cff_9.0.zip",
+  "filename": "miui_ONCINGlobal_V10.3.6.0.PFFINXM_6fda095cff_9.0.zip",
+  "version": "V10.3.6.0.PFFINXM",
   "size": "1.6G"
  },
  {
@@ -543,10 +552,10 @@
   "android": "9.0",
   "codename": "pine_eea_global",
   "device": "Redmi 7A EEA",
-  "download": "https://bigota.d.miui.com/V10.2.4.0.PCMEUXM/miui_PINEEEAGlobal_V10.2.4.0.PCMEUXM_8b09990c4d_9.0.zip",
-  "filename": "miui_PINEEEAGlobal_V10.2.4.0.PCMEUXM_8b09990c4d_9.0.zip",
-  "version": "V10.2.4.0.PCMEUXM",
-  "size": "1.5G"
+  "download": "https://bigota.d.miui.com/V10.2.5.0.PCMEUXM/miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip",
+  "filename": "miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip",
+  "version": "V10.2.5.0.PCMEUXM",
+  "size": "1.4G"
  },
  {
   "android": "9.0",
@@ -561,10 +570,10 @@
   "android": "9.0",
   "codename": "pine_ru_global",
   "device": "Redmi 7A RU",
-  "download": "https://bigota.d.miui.com/V10.2.1.0.PCMRUXM/miui_PINERUGlobal_V10.2.1.0.PCMRUXM_15a4aa6783_9.0.zip",
-  "filename": "miui_PINERUGlobal_V10.2.1.0.PCMRUXM_15a4aa6783_9.0.zip",
-  "version": "V10.2.1.0.PCMRUXM",
-  "size": "1.4G"
+  "download": "https://bigota.d.miui.com/V10.2.3.0.PCMRUXM/miui_PINERUGlobal_V10.2.3.0.PCMRUXM_2de7bfa7aa_9.0.zip",
+  "filename": "miui_PINERUGlobal_V10.2.3.0.PCMRUXM_2de7bfa7aa_9.0.zip",
+  "version": "V10.2.3.0.PCMRUXM",
+  "size": "1.5G"
  },
  {
   "android": "9.0",
