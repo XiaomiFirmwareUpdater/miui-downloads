@@ -201,9 +201,9 @@
   "android": "9.0",
   "codename": "dipper_global",
   "device": "Mi 8 Global",
-  "download": "https://bigota.d.miui.com/V10.3.3.0.PEAMIXM/miui_MI8Global_V10.3.3.0.PEAMIXM_7e838f24e4_9.0.zip",
-  "filename": "miui_MI8Global_V10.3.3.0.PEAMIXM_7e838f24e4_9.0.zip",
-  "version": "V10.3.3.0.PEAMIXM",
+  "download": "https://bigota.d.miui.com/V10.3.4.0.PEAMIXM/miui_MI8Global_V10.3.4.0.PEAMIXM_51a7ff309d_9.0.zip",
+  "filename": "miui_MI8Global_V10.3.4.0.PEAMIXM_51a7ff309d_9.0.zip",
+  "version": "V10.3.4.0.PEAMIXM",
   "size": "1.8G"
  },
  {
@@ -685,6 +685,15 @@
  },
  {
   "android": "8.1",
+  "codename": "tiare_eea_global",
+  "device": "Redmi Go EEA",
+  "download": "http://bigota.d.miui.com/V10.2.4.0.OCLEUXM/tiare_eea_global_images_V10.2.4.0.OCLEUXM_20190218.0000.00_8.1_99415356e3.tgz",
+  "filename": "tiare_eea_global_images_V10.2.4.0.OCLEUXM_20190218.0000.00_8.1_99415356e3.tgz",
+  "version": "V10.2.4.0.OCLEUXM",
+  "size": "1.7G"
+ },
+ {
+  "android": "8.1",
   "codename": "tiare_global",
   "device": "Redmi Go Global",
   "download": "http://bigota.d.miui.com/V10.2.6.0.OCLMIXM/tiare_global_images_V10.2.6.0.OCLMIXM_20190218.0000.00_8.1_66cc42a821.tgz",
@@ -699,6 +708,15 @@
   "download": "http://bigota.d.miui.com/V10.2.7.0.OCLINXM/tiare_in_global_images_V10.2.7.0.OCLINXM_20190220.0000.00_8.1_cdb94d6717.tgz",
   "filename": "tiare_in_global_images_V10.2.7.0.OCLINXM_20190220.0000.00_8.1_cdb94d6717.tgz",
   "version": "V10.2.7.0.OCLINXM",
+  "size": "1.7G"
+ },
+ {
+  "android": "8.1",
+  "codename": "tiare_ru_global",
+  "device": "Redmi Go Russia",
+  "download": "http://bigota.d.miui.com/V10.2.8.0.OCLRUXM/tiare_ru_global_images_V10.2.8.0.OCLRUXM_20190524.0000.00_8.1_57d5de1d56.tgz",
+  "filename": "tiare_ru_global_images_V10.2.8.0.OCLRUXM_20190524.0000.00_8.1_57d5de1d56.tgz",
+  "version": "V10.2.8.0.OCLRUXM",
   "size": "1.7G"
  },
  {
