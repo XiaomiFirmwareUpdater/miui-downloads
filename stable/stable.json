@@ -883,9 +883,9 @@
   "android": "9.0",
   "codename": "violet_in_global",
   "device": "Redmi Note 7 Pro India",
-  "download": "http://bigota.d.miui.com/V10.3.12.0.PFHINXM/miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip",
-  "filename": "miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip",
-  "version": "V10.3.12.0.PFHINXM"
+  "download": "http://bigota.d.miui.com/V10.3.13.0.PFHINXM/miui_VIOLETINGlobal_V10.3.13.0.PFHINXM_6e7dae0213_9.0.zip",
+  "filename": "miui_VIOLETINGlobal_V10.3.13.0.PFHINXM_6e7dae0213_9.0.zip",
+  "version": "V10.3.13.0.PFHINXM"
  },
  {
   "android": "9.0",
@@ -931,9 +931,9 @@
   "android": "9.0",
   "codename": "ysl_global",
   "device": "Redmi S2/Y2 Global",
-  "download": "http://bigota.d.miui.com/V10.3.3.0.PEFMIXM/miui_HMS2Global_V10.3.3.0.PEFMIXM_340dd43b5c_9.0.zip",
-  "filename": "miui_HMS2Global_V10.3.3.0.PEFMIXM_340dd43b5c_9.0.zip",
-  "version": "V10.3.3.0.PEFMIXM"
+  "download": "http://bigota.d.miui.com/V10.3.4.0.PEFMIXM/miui_HMS2Global_V10.3.4.0.PEFMIXM_7e43513d97_9.0.zip",
+  "filename": "miui_HMS2Global_V10.3.4.0.PEFMIXM_7e43513d97_9.0.zip",
+  "version": "V10.3.4.0.PEFMIXM"
  },
  {
   "android": "8.1",
