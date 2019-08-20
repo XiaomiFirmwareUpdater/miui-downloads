@@ -163,6 +163,15 @@
  },
  {
   "android": "9.0",
+  "codename": "daisy_global",
+  "device": "Mi A2 Lite",
+  "download": "http://bigota.d.miui.com/V10.0.9.0.PDLMIXM/daisy_global_images_V10.0.9.0.PDLMIXM_20190514.0000.00_9.0_f9d0c739e0.tgz",
+  "filename": "daisy_global_images_V10.0.9.0.PDLMIXM_20190514.0000.00_9.0_f9d0c739e0.tgz",
+  "version": "V10.0.9.0.PDLMIXM",
+  "size": "1.6G"
+ },
+ {
+  "android": "9.0",
   "codename": "davinci_eea_global",
   "device": "Mi 9T EEA",
   "download": "https://bigota.d.miui.com/V10.3.12.0.PFJEUXM/miui_DAVINCIEEAGlobal_V10.3.12.0.PFJEUXM_946a02f6df_9.0.zip",
@@ -313,6 +322,15 @@
   "filename": "miui_HM3Global_V9.6.1.0.LAIMIFD_1554942108_5.1.zip",
   "version": "V9.6.1.0.LAIMIFD",
   "size": "959M"
+ },
+ {
+  "android": "9.0",
+  "codename": "jasmine_global",
+  "device": "Mi A2",
+  "download": "http://bigota.d.miui.com/V10.0.12.0.PDIMIXM/jasmine_global_images_V10.0.12.0.PDIMIXM_20190712.0000.00_9.0_1e580ee45b.tgz",
+  "filename": "jasmine_global_images_V10.0.12.0.PDIMIXM_20190712.0000.00_9.0_1e580ee45b.tgz",
+  "version": "V10.0.12.0.PDIMIXM",
+  "size": "1687M"
  },
  {
   "android": "8.1",
@@ -676,20 +694,38 @@
  },
  {
   "android": "8.1",
+  "codename": "tiare_eea_global",
+  "device": "Redmi Go EEA",
+  "download": "http://bigota.d.miui.com/V10.2.8.0.OCLEUXM/tiare_eea_global_images_V10.2.8.0.OCLEUXM_20190719.0000.00_8.1_0c1b40ca2a.tgz",
+  "filename": "tiare_eea_global_images_V10.2.8.0.OCLEUXM_20190719.0000.00_8.1_0c1b40ca2a.tgz",
+  "version": "V10.2.8.0.OCLEUXM",
+  "size": "1.7G"
+ },
+ {
+  "android": "8.1",
   "codename": "tiare_global",
   "device": "Redmi Go Global",
-  "download": "http://bigota.d.miui.com/V10.2.6.0.OCLMIXM/tiare_global_images_V10.2.6.0.OCLMIXM_20190218.0000.00_8.1_66cc42a821.tgz",
-  "filename": "tiare_global_images_V10.2.6.0.OCLMIXM_20190218.0000.00_8.1_66cc42a821.tgz",
-  "version": "V10.2.6.0.OCLMIXM",
+  "download": "http://bigota.d.miui.com/V10.2.13.0.OCLMIXM/tiare_global_images_V10.2.13.0.OCLMIXM_20190726.0000.00_8.1_68dfec6ba2.tgz",
+  "filename": "tiare_global_images_V10.2.13.0.OCLMIXM_20190726.0000.00_8.1_68dfec6ba2.tgz",
+  "version": "V10.2.13.0.OCLMIXM",
   "size": "1.7G"
  },
  {
   "android": "8.1",
   "codename": "tiare_in_global",
   "device": "Redmi Go India",
-  "download": "http://bigota.d.miui.com/V10.2.7.0.OCLINXM/tiare_in_global_images_V10.2.7.0.OCLINXM_20190220.0000.00_8.1_cdb94d6717.tgz",
-  "filename": "tiare_in_global_images_V10.2.7.0.OCLINXM_20190220.0000.00_8.1_cdb94d6717.tgz",
-  "version": "V10.2.7.0.OCLINXM",
+  "download": "http://bigota.d.miui.com/V10.2.10.0.OCLINXM/tiare_in_global_images_V10.2.10.0.OCLINXM_20190711.0000.00_8.1_ccbe9e67d3.tgz",
+  "filename": "tiare_in_global_images_V10.2.10.0.OCLINXM_20190711.0000.00_8.1_ccbe9e67d3.tgz",
+  "version": "V10.2.10.0.OCLINXM",
+  "size": "1.7G"
+ },
+ {
+  "android": "8.1",
+  "codename": "tiare_ru_global",
+  "device": "Redmi Go Russia",
+  "download": "http://bigota.d.miui.com/V10.2.9.0.OCLRUXM/tiare_ru_global_images_V10.2.9.0.OCLRUXM_20190715.0000.00_8.1_b50ae04aea.tgz",
+  "filename": "tiare_ru_global_images_V10.2.9.0.OCLRUXM_20190715.0000.00_8.1_b50ae04aea.tgz",
+  "version": "V10.2.9.0.OCLRUXM",
   "size": "1.7G"
  },
  {
@@ -750,9 +786,9 @@
   "android": "9.0",
   "codename": "violet_in_global",
   "device": "Redmi Note 7 Pro India",
-  "download": "https://bigota.d.miui.com/V10.3.12.0.PFHINXM/miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip",
-  "filename": "miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip",
-  "version": "V10.3.12.0.PFHINXM",
+  "download": "https://bigota.d.miui.com/V10.3.13.0.PFHINXM/miui_VIOLETINGlobal_V10.3.13.0.PFHINXM_6e7dae0213_9.0.zip",
+  "filename": "miui_VIOLETINGlobal_V10.3.13.0.PFHINXM_6e7dae0213_9.0.zip",
+  "version": "V10.3.13.0.PFHINXM",
   "size": "1.8G"
  },
  {
