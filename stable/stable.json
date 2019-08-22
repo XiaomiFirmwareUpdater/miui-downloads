@@ -920,20 +920,20 @@
   "version": "V10.3.1.0.OEIRUXM"
  },
  {
-  "android": "9.0",
+  "android": "8.1",
   "codename": "ysl",
   "device": "Redmi S2 China",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.PEFCNXM/miui_HMS2_V10.3.4.0.PEFCNXM_4ca909f2d1_9.0.zip",
-  "filename": "miui_HMS2_V10.3.4.0.PEFCNXM_4ca909f2d1_9.0.zip",
-  "version": "V10.3.4.0.PEFCNXM"
+  "download": "http://bigota.d.miui.com/V10.3.4.0.OEFCNXM/miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip",
+  "filename": "miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip",
+  "version": "V10.3.4.0.OEFCNXM"
  },
  {
   "android": "9.0",
   "codename": "ysl_global",
   "device": "Redmi S2/Y2 Global",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.PEFMIXM/miui_HMS2Global_V10.3.4.0.PEFMIXM_7e43513d97_9.0.zip",
-  "filename": "miui_HMS2Global_V10.3.4.0.PEFMIXM_7e43513d97_9.0.zip",
-  "version": "V10.3.4.0.PEFMIXM"
+  "download": "http://bigota.d.miui.com/V10.3.3.0.PEFMIXM/miui_HMS2Global_V10.3.3.0.PEFMIXM_340dd43b5c_9.0.zip",
+  "filename": "miui_HMS2Global_V10.3.3.0.PEFMIXM_340dd43b5c_9.0.zip",
+  "version": "V10.3.3.0.PEFMIXM"
  },
  {
   "android": "8.1",
