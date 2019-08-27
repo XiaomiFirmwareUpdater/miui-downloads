@@ -48,9 +48,9 @@
   "android": "9.0",
   "codename": "beryllium_global",
   "device": "POCO F1 Global",
-  "download": "https://bigota.d.miui.com/V10.3.6.0.PEJMIXM/miui_POCOF1Global_V10.3.6.0.PEJMIXM_0ba4120b12_9.0.zip",
-  "filename": "miui_POCOF1Global_V10.3.6.0.PEJMIXM_0ba4120b12_9.0.zip",
-  "version": "V10.3.6.0.PEJMIXM",
+  "download": "https://bigota.d.miui.com/V10.3.7.0.PEJMIXM/miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip",
+  "filename": "miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip",
+  "version": "V10.3.7.0.PEJMIXM",
   "size": "1.8G"
  },
  {
@@ -160,6 +160,15 @@
   "filename": "miui_MIMIX2Global_V10.3.5.0.ODEMIXM_f99efbaa3a_8.0.zip",
   "version": "V10.3.5.0.ODEMIXM",
   "size": "1.8G"
+ },
+ {
+  "android": "9.0",
+  "codename": "daisy_global",
+  "device": "Mi A2 Lite",
+  "download": "http://bigota.d.miui.com/V10.0.9.0.PDLMIXM/daisy_global_images_V10.0.9.0.PDLMIXM_20190514.0000.00_9.0_f9d0c739e0.tgz",
+  "filename": "daisy_global_images_V10.0.9.0.PDLMIXM_20190514.0000.00_9.0_f9d0c739e0.tgz",
+  "version": "V10.0.9.0.PDLMIXM",
+  "size": "1.6G"
  },
  {
   "android": "9.0",
@@ -721,15 +730,6 @@
  },
  {
   "android": "9.0",
-  "codename": "tissot",
-  "device": "Mi A1",
-  "download": "http://bigota.d.miui.com/V10.0.11.0.PDHMIXM/tissot_images_V10.0.11.0.PDHMIXM_20190711.0000.00_9.0_fdab617cb2.tgz",
-  "filename": "tissot_images_V10.0.11.0.PDHMIXM_20190711.0000.00_9.0_fdab617cb2.tgz",
-  "version": "V10.0.11.0.PDHMIXM",
-  "size": "1616M"
- },
- {
-  "android": "9.0",
   "codename": "tulip_global",
   "device": "Redmi Note 6 Pro Global",
   "download": "https://bigota.d.miui.com/V10.3.5.0.PEKMIXM/miui_HMNote6ProGlobal_V10.3.5.0.PEKMIXM_86500c4e9c_9.0.zip",
@@ -855,12 +855,12 @@
   "size": "1.4G"
  },
  {
-  "android": "8.1",
+  "android": "9.0",
   "codename": "ysl_ru_global",
   "device": "Redmi S2/Y2  Russia",
-  "download": "https://bigota.d.miui.com/V10.2.2.0.OEFRUXM/miui_HMS2RUGlobal_V10.2.2.0.OEFRUXM_06a489d2a1_8.1.zip",
-  "filename": "miui_HMS2RUGlobal_V10.2.2.0.OEFRUXM_06a489d2a1_8.1.zip",
-  "version": "V10.2.2.0.OEFRUXM",
-  "size": "1.3G"
+  "download": "https://bigota.d.miui.com/V10.3.1.0.PEFRUXM/miui_HMS2RUGlobal_V10.3.1.0.PEFRUXM_5113b3e680_9.0.zip",
+  "filename": "miui_HMS2RUGlobal_V10.3.1.0.PEFRUXM_5113b3e680_9.0.zip",
+  "version": "V10.3.1.0.PEFRUXM",
+  "size": "1.4G"
  }
 ]
