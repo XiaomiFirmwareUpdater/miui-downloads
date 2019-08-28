@@ -66,10 +66,10 @@
   "android": "8.1",
   "codename": "cactus_global",
   "device": "Redmi 6A Global",
-  "download": "https://bigota.d.miui.com/V10.3.3.0.OCBMIXM/miui_HM6AGlobal_V10.3.3.0.OCBMIXM_5afbee38d0_8.1.zip",
-  "filename": "miui_HM6AGlobal_V10.3.3.0.OCBMIXM_5afbee38d0_8.1.zip",
-  "version": "V10.3.3.0.OCBMIXM",
-  "size": "1.3G"
+  "download": "https://bigota.d.miui.com/V10.3.6.0.OCBMIXM/miui_HM6AGlobal_V10.3.6.0.OCBMIXM_48dad8ce05_8.1.zip",
+  "filename": "miui_HM6AGlobal_V10.3.6.0.OCBMIXM_48dad8ce05_8.1.zip",
+  "version": "V10.3.6.0.OCBMIXM",
+  "size": "1.2G"
  },
  {
   "android": "8.1",
@@ -92,7 +92,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 4 3G/4G Global",
+  "device": "Mi 3 Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -138,10 +138,10 @@
   "android": "8.1",
   "codename": "cereus_global",
   "device": "Redmi 6 Global",
-  "download": "https://bigota.d.miui.com/V10.3.3.0.OCGMIXM/miui_HM6Global_V10.3.3.0.OCGMIXM_9d227cc73a_8.1.zip",
-  "filename": "miui_HM6Global_V10.3.3.0.OCGMIXM_9d227cc73a_8.1.zip",
-  "version": "V10.3.3.0.OCGMIXM",
-  "size": "1.3G"
+  "download": "https://bigota.d.miui.com/V10.3.6.0.OCGMIXM/miui_HM6Global_V10.3.6.0.OCGMIXM_85f41684de_8.1.zip",
+  "filename": "miui_HM6Global_V10.3.6.0.OCGMIXM_85f41684de_8.1.zip",
+  "version": "V10.3.6.0.OCGMIXM",
+  "size": "1.2G"
  },
  {
   "android": "8.1",
@@ -165,9 +165,9 @@
   "android": "9.0",
   "codename": "daisy_global",
   "device": "Mi A2 Lite",
-  "download": "http://bigota.d.miui.com/V10.0.9.0.PDLMIXM/daisy_global_images_V10.0.9.0.PDLMIXM_20190514.0000.00_9.0_f9d0c739e0.tgz",
-  "filename": "daisy_global_images_V10.0.9.0.PDLMIXM_20190514.0000.00_9.0_f9d0c739e0.tgz",
-  "version": "V10.0.9.0.PDLMIXM",
+  "download": "http://bigota.d.miui.com/V10.0.13.0.PDLMIXM/daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz",
+  "filename": "daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz",
+  "version": "V10.0.13.0.PDLMIXM",
   "size": "1.6G"
  },
  {
@@ -327,9 +327,9 @@
   "android": "9.0",
   "codename": "jasmine_global",
   "device": "Mi A2",
-  "download": "http://bigota.d.miui.com/V10.0.12.0.PDIMIXM/jasmine_global_images_V10.0.12.0.PDIMIXM_20190712.0000.00_9.0_1e580ee45b.tgz",
-  "filename": "jasmine_global_images_V10.0.12.0.PDIMIXM_20190712.0000.00_9.0_1e580ee45b.tgz",
-  "version": "V10.0.12.0.PDIMIXM",
+  "download": "http://bigota.d.miui.com/V10.0.13.0.PDIMIXM/jasmine_global_images_V10.0.13.0.PDIMIXM_20190807.0000.00_9.0_9083804c9e.tgz",
+  "filename": "jasmine_global_images_V10.0.13.0.PDIMIXM_20190807.0000.00_9.0_9083804c9e.tgz",
+  "version": "V10.0.13.0.PDIMIXM",
   "size": "1687M"
  },
  {
@@ -426,18 +426,18 @@
   "android": "8.1",
   "codename": "lotus",
   "device": "Mi Play China",
-  "download": "https://bigota.d.miui.com/V10.3.3.0.OFICNXM/miui_MIPLAY_V10.3.3.0.OFICNXM_a3753aeffc_8.1.zip",
-  "filename": "miui_MIPLAY_V10.3.3.0.OFICNXM_a3753aeffc_8.1.zip",
-  "version": "V10.3.3.0.OFICNXM",
-  "size": "1.8G"
+  "download": "https://bigota.d.miui.com/V10.3.4.0.OFICNXM/miui_MIPLAY_V10.3.4.0.OFICNXM_b24f7caf65_8.1.zip",
+  "filename": "miui_MIPLAY_V10.3.4.0.OFICNXM_b24f7caf65_8.1.zip",
+  "version": "V10.3.4.0.OFICNXM",
+  "size": "1.7G"
  },
  {
   "android": "8.1",
   "codename": "lotus_global",
   "device": "Mi Play Global",
-  "download": "https://bigota.d.miui.com/V10.2.5.0.OFIMIXM/miui_MIPLAYGlobal_V10.2.5.0.OFIMIXM_fcc94aedaa_8.1.zip",
-  "filename": "miui_MIPLAYGlobal_V10.2.5.0.OFIMIXM_fcc94aedaa_8.1.zip",
-  "version": "V10.2.5.0.OFIMIXM",
+  "download": "https://bigota.d.miui.com/V10.3.3.0.OFIMIXM/miui_MIPLAYGlobal_V10.3.3.0.OFIMIXM_ef5407f28a_8.1.zip",
+  "filename": "miui_MIPLAYGlobal_V10.3.3.0.OFIMIXM_ef5407f28a_8.1.zip",
+  "version": "V10.3.3.0.OFIMIXM",
   "size": "1.4G"
  },
  {
@@ -579,10 +579,10 @@
   "android": "9.0",
   "codename": "pine_ru_global",
   "device": "Redmi 7A RU",
-  "download": "https://bigota.d.miui.com/V10.2.3.0.PCMRUXM/miui_PINERUGlobal_V10.2.3.0.PCMRUXM_2de7bfa7aa_9.0.zip",
-  "filename": "miui_PINERUGlobal_V10.2.3.0.PCMRUXM_2de7bfa7aa_9.0.zip",
-  "version": "V10.2.3.0.PCMRUXM",
-  "size": "1.5G"
+  "download": "https://bigota.d.miui.com/V10.2.4.0.PCMRUXM/miui_PINERUGlobal_V10.2.4.0.PCMRUXM_4dd352431f_9.0.zip",
+  "filename": "miui_PINERUGlobal_V10.2.4.0.PCMRUXM_4dd352431f_9.0.zip",
+  "version": "V10.2.4.0.PCMRUXM",
+  "size": "1.4G"
  },
  {
   "android": "9.0",
@@ -727,6 +727,15 @@
   "filename": "tiare_ru_global_images_V10.2.9.0.OCLRUXM_20190715.0000.00_8.1_b50ae04aea.tgz",
   "version": "V10.2.9.0.OCLRUXM",
   "size": "1.7G"
+ },
+ {
+  "android": "9.0",
+  "codename": "tissot",
+  "device": "Mi A1",
+  "download": "http://bigota.d.miui.com/V10.0.12.0.PDHMIXM/tissot_images_V10.0.12.0.PDHMIXM_20190812.0000.00_9.0_089486f35f.tgz",
+  "filename": "tissot_images_V10.0.12.0.PDHMIXM_20190812.0000.00_9.0_089486f35f.tgz",
+  "version": "V10.0.12.0.PDHMIXM",
+  "size": "1616M"
  },
  {
   "android": "9.0",
