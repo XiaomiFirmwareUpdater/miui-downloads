@@ -12,10 +12,10 @@
   "android": "9.0",
   "codename": "andromeda_eea_global",
   "device": "Mi MIX 3 5G EEA",
-  "download": "https://bigota.d.miui.com/V10.3.18.0.PEMEUXM/miui_ANDROMEDAEEAGlobal_V10.3.18.0.PEMEUXM_abc501ede2_9.0.zip",
-  "filename": "miui_ANDROMEDAEEAGlobal_V10.3.18.0.PEMEUXM_abc501ede2_9.0.zip",
-  "version": "V10.3.18.0.PEMEUXM",
-  "size": "1.9G"
+  "download": "https://bigota.d.miui.com/V10.3.19.0.PEMEUXM/miui_ANDROMEDAEEAGlobal_V10.3.19.0.PEMEUXM_595fd0a744_9.0.zip",
+  "filename": "miui_ANDROMEDAEEAGlobal_V10.3.19.0.PEMEUXM_595fd0a744_9.0.zip",
+  "version": "V10.3.19.0.PEMEUXM",
+  "size": "2.0G"
  },
  {
   "android": "9.0",
@@ -381,10 +381,10 @@
   "android": "9.0",
   "codename": "lavender_eea_global",
   "device": "Redmi Note 7 EEA",
-  "download": "https://bigota.d.miui.com/V10.3.5.0.PFGEUXM/miui_LAVENDEREEAGlobal_V10.3.5.0.PFGEUXM_934d66eec9_9.0.zip",
-  "filename": "miui_LAVENDEREEAGlobal_V10.3.5.0.PFGEUXM_934d66eec9_9.0.zip",
-  "version": "V10.3.5.0.PFGEUXM",
-  "size": "1.8G"
+  "download": "https://bigota.d.miui.com/V10.3.6.0.PFGEUXM/miui_LAVENDEREEAGlobal_V10.3.6.0.PFGEUXM_22704fdf84_9.0.zip",
+  "filename": "miui_LAVENDEREEAGlobal_V10.3.6.0.PFGEUXM_22704fdf84_9.0.zip",
+  "version": "V10.3.6.0.PFGEUXM",
+  "size": "1.7G"
  },
  {
   "android": "9.0",
@@ -694,15 +694,6 @@
  },
  {
   "android": "8.1",
-  "codename": "tiare_eea_global",
-  "device": "Redmi Go EEA",
-  "download": "http://bigota.d.miui.com/V10.2.8.0.OCLEUXM/tiare_eea_global_images_V10.2.8.0.OCLEUXM_20190719.0000.00_8.1_0c1b40ca2a.tgz",
-  "filename": "tiare_eea_global_images_V10.2.8.0.OCLEUXM_20190719.0000.00_8.1_0c1b40ca2a.tgz",
-  "version": "V10.2.8.0.OCLEUXM",
-  "size": "1.7G"
- },
- {
-  "android": "8.1",
   "codename": "tiare_global",
   "device": "Redmi Go Global",
   "download": "http://bigota.d.miui.com/V10.2.13.0.OCLMIXM/tiare_global_images_V10.2.13.0.OCLMIXM_20190726.0000.00_8.1_68dfec6ba2.tgz",
@@ -720,13 +711,13 @@
   "size": "1.7G"
  },
  {
-  "android": "8.1",
-  "codename": "tiare_ru_global",
-  "device": "Redmi Go Russia",
-  "download": "http://bigota.d.miui.com/V10.2.9.0.OCLRUXM/tiare_ru_global_images_V10.2.9.0.OCLRUXM_20190715.0000.00_8.1_b50ae04aea.tgz",
-  "filename": "tiare_ru_global_images_V10.2.9.0.OCLRUXM_20190715.0000.00_8.1_b50ae04aea.tgz",
-  "version": "V10.2.9.0.OCLRUXM",
-  "size": "1.7G"
+  "android": "9.0",
+  "codename": "tissot",
+  "device": "Mi A1",
+  "download": "http://bigota.d.miui.com/V10.0.12.0.PDHMIXM/tissot_images_V10.0.12.0.PDHMIXM_20190812.0000.00_9.0_089486f35f.tgz",
+  "filename": "tissot_images_V10.0.12.0.PDHMIXM_20190812.0000.00_9.0_089486f35f.tgz",
+  "version": "V10.0.12.0.PDHMIXM",
+  "size": "1616M"
  },
  {
   "android": "9.0",
