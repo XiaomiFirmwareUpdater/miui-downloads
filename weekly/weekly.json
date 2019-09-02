@@ -27,9 +27,9 @@
   "android": "7.0",
   "codename": "cappu",
   "device": "Mi Pad 3 China",
-  "download": "http://bigota.d.miui.com/9.8.22/miui_MIPAD3_9.8.22_9712ab2557_7.0.zip",
-  "filename": "miui_MIPAD3_9.8.22_9712ab2557_7.0.zip",
-  "version": "9.8.22"
+  "download": "http://bigota.d.miui.com/9.8.29/miui_MIPAD3_9.8.29_7a8c59b59e_7.0.zip",
+  "filename": "miui_MIPAD3_9.8.29_7a8c59b59e_7.0.zip",
+  "version": "9.8.29"
  },
  {
   "android": "8.0",
@@ -99,9 +99,9 @@
   "android": "8.1",
   "codename": "clover",
   "device": "Mi Pad 4 (Plus) China",
-  "download": "http://bigota.d.miui.com/9.8.22/miui_MIPAD4_9.8.22_5eca72382b_8.1.zip",
-  "filename": "miui_MIPAD4_9.8.22_5eca72382b_8.1.zip",
-  "version": "9.8.22"
+  "download": "http://bigota.d.miui.com/9.8.29/miui_MIPAD4_9.8.29_6647b25a58_8.1.zip",
+  "filename": "miui_MIPAD4_9.8.29_6647b25a58_8.1.zip",
+  "version": "9.8.29"
  },
  {
   "android": "9.0",
@@ -283,17 +283,17 @@
   "android": "7.1",
   "codename": "meri",
   "device": "Mi 5C China",
-  "download": "http://bigota.d.miui.com/9.8.22/miui_MI5C_9.8.22_900a287e6d_7.1.zip",
-  "filename": "miui_MI5C_9.8.22_900a287e6d_7.1.zip",
-  "version": "9.8.22"
+  "download": "http://bigota.d.miui.com/9.8.29/miui_MI5C_9.8.29_2d9b3e0799_7.1.zip",
+  "filename": "miui_MI5C_9.8.29_2d9b3e0799_7.1.zip",
+  "version": "9.8.29"
  },
  {
   "android": "7.0",
   "codename": "mido",
   "device": "Redmi Note 4 China",
-  "download": "http://bigota.d.miui.com/9.7.18/miui_HMNote4X_9.7.18_cd7e37cc5d_7.0.zip",
-  "filename": "miui_HMNote4X_9.7.18_cd7e37cc5d_7.0.zip",
-  "version": "9.7.18"
+  "download": "http://bigota.d.miui.com/9.8.29/miui_HMNote4X_9.8.29_362b2b9edd_7.0.zip",
+  "filename": "miui_HMNote4X_9.8.29_362b2b9edd_7.0.zip",
+  "version": "9.8.29"
  },
  {
   "android": "7.0",
@@ -363,9 +363,9 @@
   "android": "7.1",
   "codename": "oxygen",
   "device": "Mi Max 2 China",
-  "download": "http://bigota.d.miui.com/9.8.22/miui_MIMAX2_9.8.22_5bb0c950a5_7.1.zip",
-  "filename": "miui_MIMAX2_9.8.22_5bb0c950a5_7.1.zip",
-  "version": "9.8.22"
+  "download": "http://bigota.d.miui.com/9.8.29/miui_MIMAX2_9.8.29_a0ca14d327_7.1.zip",
+  "filename": "miui_MIMAX2_9.8.29_a0ca14d327_7.1.zip",
+  "version": "9.8.29"
  },
  {
   "android": "7.1",
@@ -467,9 +467,9 @@
   "android": "8.1",
   "codename": "rosy",
   "device": "Redmi 5 China",
-  "download": "http://bigota.d.miui.com/9.8.29/miui_HM5_9.8.29_1fd1181aca_8.1.zip",
-  "filename": "miui_HM5_9.8.29_1fd1181aca_8.1.zip",
-  "version": "9.8.29"
+  "download": "http://bigota.d.miui.com/9.8.22/miui_HM5_9.8.22_d94ebac453_8.1.zip",
+  "filename": "miui_HM5_9.8.22_d94ebac453_8.1.zip",
+  "version": "9.8.22"
  },
  {
   "android": "8.1",
@@ -515,9 +515,9 @@
   "android": "7.1",
   "codename": "santoni",
   "device": "Redmi 4X China",
-  "download": "http://bigota.d.miui.com/9.7.18/miui_HM4X_9.7.18_2bf391cf64_7.1.zip",
-  "filename": "miui_HM4X_9.7.18_2bf391cf64_7.1.zip",
-  "version": "9.7.18"
+  "download": "http://bigota.d.miui.com/9.8.29/miui_HM4X_9.8.29_72dee00fc2_7.1.zip",
+  "filename": "miui_HM4X_9.8.29_72dee00fc2_7.1.zip",
+  "version": "9.8.29"
  },
  {
   "android": "7.1",
@@ -571,9 +571,9 @@
   "android": "7.1",
   "codename": "ugg",
   "device": "Redmi Note 5A Prime China",
-  "download": "http://bigota.d.miui.com/9.7.18/miui_HMNote5A_9.7.18_d425f9f608_7.1.zip",
-  "filename": "miui_HMNote5A_9.7.18_d425f9f608_7.1.zip",
-  "version": "9.7.18"
+  "download": "http://bigota.d.miui.com/9.8.29/miui_HMNote5A_9.8.29_598a45ec9b_7.1.zip",
+  "filename": "miui_HMNote5A_9.8.29_598a45ec9b_7.1.zip",
+  "version": "9.8.29"
  },
  {
   "android": "7.1",
@@ -587,9 +587,9 @@
   "android": "7.1",
   "codename": "ugglite",
   "device": "Redmi Note 5A (2GB) China",
-  "download": "http://bigota.d.miui.com/9.7.18/miui_HMNote5ALITE_9.7.18_ca1d89194c_7.1.zip",
-  "filename": "miui_HMNote5ALITE_9.7.18_ca1d89194c_7.1.zip",
-  "version": "9.7.18"
+  "download": "http://bigota.d.miui.com/9.8.29/miui_HMNote5ALITE_9.8.29_aa358ff714_7.1.zip",
+  "filename": "miui_HMNote5ALITE_9.8.29_aa358ff714_7.1.zip",
+  "version": "9.8.29"
  },
  {
   "android": "7.1",
