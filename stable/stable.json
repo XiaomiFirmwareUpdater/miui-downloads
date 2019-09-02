@@ -408,10 +408,10 @@
   "android": "9.0",
   "codename": "lavender_ru_global",
   "device": "Redmi Note 7 Russia",
-  "download": "https://bigota.d.miui.com/V10.3.4.0.PFGRUXM/miui_LAVENDERRUGlobal_V10.3.4.0.PFGRUXM_1d7d672940_9.0.zip",
-  "filename": "miui_LAVENDERRUGlobal_V10.3.4.0.PFGRUXM_1d7d672940_9.0.zip",
-  "version": "V10.3.4.0.PFGRUXM",
-  "size": "1.8G"
+  "download": "https://bigota.d.miui.com/V10.3.5.0.PFGRUXM/miui_LAVENDERRUGlobal_V10.3.5.0.PFGRUXM_a3def11a76_9.0.zip",
+  "filename": "miui_LAVENDERRUGlobal_V10.3.5.0.PFGRUXM_a3def11a76_9.0.zip",
+  "version": "V10.3.5.0.PFGRUXM",
+  "size": "1.7G"
  },
  {
   "android": "8.0",
@@ -543,9 +543,9 @@
   "android": "9.0",
   "codename": "perseus_global",
   "device": "Mi MIX 3 Global",
-  "download": "https://bigota.d.miui.com/V10.3.2.0.PEEMIXM/miui_MIMIX3Global_V10.3.2.0.PEEMIXM_cf84891114_9.0.zip",
-  "filename": "miui_MIMIX3Global_V10.3.2.0.PEEMIXM_cf84891114_9.0.zip",
-  "version": "V10.3.2.0.PEEMIXM",
+  "download": "https://bigota.d.miui.com/V10.3.3.0.PEEMIXM/miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip",
+  "filename": "miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip",
+  "version": "V10.3.3.0.PEEMIXM",
   "size": "1.9G"
  },
  {
@@ -694,15 +694,6 @@
  },
  {
   "android": "8.1",
-  "codename": "tiare_eea_global",
-  "device": "Redmi Go EEA",
-  "download": "http://bigota.d.miui.com/V10.2.8.0.OCLEUXM/tiare_eea_global_images_V10.2.8.0.OCLEUXM_20190719.0000.00_8.1_0c1b40ca2a.tgz",
-  "filename": "tiare_eea_global_images_V10.2.8.0.OCLEUXM_20190719.0000.00_8.1_0c1b40ca2a.tgz",
-  "version": "V10.2.8.0.OCLEUXM",
-  "size": "1.7G"
- },
- {
-  "android": "8.1",
   "codename": "tiare_global",
   "device": "Redmi Go Global",
   "download": "http://bigota.d.miui.com/V10.2.13.0.OCLMIXM/tiare_global_images_V10.2.13.0.OCLMIXM_20190726.0000.00_8.1_68dfec6ba2.tgz",
@@ -720,31 +711,13 @@
   "size": "1.7G"
  },
  {
-  "android": "8.1",
-  "codename": "tiare_ru_global",
-  "device": "Redmi Go Russia",
-  "download": "http://bigota.d.miui.com/V10.2.9.0.OCLRUXM/tiare_ru_global_images_V10.2.9.0.OCLRUXM_20190715.0000.00_8.1_b50ae04aea.tgz",
-  "filename": "tiare_ru_global_images_V10.2.9.0.OCLRUXM_20190715.0000.00_8.1_b50ae04aea.tgz",
-  "version": "V10.2.9.0.OCLRUXM",
-  "size": "1.7G"
- },
- {
-  "android": "9.0",
-  "codename": "tissot",
-  "device": "Mi A1",
-  "download": "http://bigota.d.miui.com/V10.0.12.0.PDHMIXM/tissot_images_V10.0.12.0.PDHMIXM_20190812.0000.00_9.0_089486f35f.tgz",
-  "filename": "tissot_images_V10.0.12.0.PDHMIXM_20190812.0000.00_9.0_089486f35f.tgz",
-  "version": "V10.0.12.0.PDHMIXM",
-  "size": "1616M"
- },
- {
   "android": "9.0",
   "codename": "tulip_global",
   "device": "Redmi Note 6 Pro Global",
-  "download": "https://bigota.d.miui.com/V10.3.5.0.PEKMIXM/miui_HMNote6ProGlobal_V10.3.5.0.PEKMIXM_86500c4e9c_9.0.zip",
-  "filename": "miui_HMNote6ProGlobal_V10.3.5.0.PEKMIXM_86500c4e9c_9.0.zip",
-  "version": "V10.3.5.0.PEKMIXM",
-  "size": "1.7G"
+  "download": "https://bigota.d.miui.com/V10.3.6.0.PEKMIXM/miui_HMNote6ProGlobal_V10.3.6.0.PEKMIXM_554d91f8c7_9.0.zip",
+  "filename": "miui_HMNote6ProGlobal_V10.3.6.0.PEKMIXM_554d91f8c7_9.0.zip",
+  "version": "V10.3.6.0.PEKMIXM",
+  "size": "1.6G"
  },
  {
   "android": "8.1",
