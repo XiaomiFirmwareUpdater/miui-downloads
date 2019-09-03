@@ -11,9 +11,9 @@
   "android": "9.0",
   "codename": "cactus",
   "device": "Redmi 6A China",
-  "download": "http://bigota.d.miui.com/V10.4.3.0.PCBCNXM/miui_HM6A_V10.4.3.0.PCBCNXM_9a4aa642d2_9.0.zip",
-  "filename": "miui_HM6A_V10.4.3.0.PCBCNXM_9a4aa642d2_9.0.zip",
-  "version": "V10.4.3.0.PCBCNXM"
+  "download": "http://bigota.d.miui.com/V10.4.4.0.PCBCNXM/miui_HM6A_V10.4.4.0.PCBCNXM_bc994c3619_9.0.zip",
+  "filename": "miui_HM6A_V10.4.4.0.PCBCNXM_bc994c3619_9.0.zip",
+  "version": "V10.4.4.0.PCBCNXM"
  },
  {
   "android": "8.1",
@@ -179,9 +179,9 @@
   "android": "9.0",
   "codename": "dipper",
   "device": "Mi 8 China",
-  "download": "http://bigota.d.miui.com/V10.3.5.0.PEACNXM/miui_MI8_V10.3.5.0.PEACNXM_3ffa9b4255_9.0.zip",
-  "filename": "miui_MI8_V10.3.5.0.PEACNXM_3ffa9b4255_9.0.zip",
-  "version": "V10.3.5.0.PEACNXM"
+  "download": "http://bigota.d.miui.com/V10.3.6.0.PEACNXM/miui_MI8_V10.3.6.0.PEACNXM_e038f4ac7a_9.0.zip",
+  "filename": "miui_MI8_V10.3.6.0.PEACNXM_e038f4ac7a_9.0.zip",
+  "version": "V10.3.6.0.PEACNXM"
  },
  {
   "android": "9.0",
@@ -347,9 +347,9 @@
   "android": "9.0",
   "codename": "lavender_global",
   "device": "Redmi Note 7 Global",
-  "download": "http://bigota.d.miui.com/V10.3.9.0.PFGMIXM/miui_LAVENDERGlobal_V10.3.9.0.PFGMIXM_4c00d1cd45_9.0.zip",
-  "filename": "miui_LAVENDERGlobal_V10.3.9.0.PFGMIXM_4c00d1cd45_9.0.zip",
-  "version": "V10.3.9.0.PFGMIXM"
+  "download": "http://bigota.d.miui.com/V10.3.10.0.PFGMIXM/miui_LAVENDERGlobal_V10.3.10.0.PFGMIXM_730eb0aa6e_9.0.zip",
+  "filename": "miui_LAVENDERGlobal_V10.3.10.0.PFGMIXM_730eb0aa6e_9.0.zip",
+  "version": "V10.3.10.0.PFGMIXM"
  },
  {
   "android": "9.0",
@@ -611,9 +611,9 @@
   "android": "9.0",
   "codename": "polaris",
   "device": "Mi MIX 2S China",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.PDGCNXM/miui_MIMIX2S_V10.3.4.0.PDGCNXM_f9545a534a_9.0.zip",
-  "filename": "miui_MIMIX2S_V10.3.4.0.PDGCNXM_f9545a534a_9.0.zip",
-  "version": "V10.3.4.0.PDGCNXM"
+  "download": "http://bigota.d.miui.com/V10.3.5.0.PDGCNXM/miui_MIMIX2S_V10.3.5.0.PDGCNXM_02ca33aec8_9.0.zip",
+  "filename": "miui_MIMIX2S_V10.3.5.0.PDGCNXM_02ca33aec8_9.0.zip",
+  "version": "V10.3.5.0.PDGCNXM"
  },
  {
   "android": "9.0",
