@@ -489,9 +489,9 @@
   "android": "9.0",
   "codename": "nitrogen_global",
   "device": "Mi Max 3 Global",
-  "download": "https://bigota.d.miui.com/V10.3.3.0.PEDMIXM/miui_MIMAX3Global_V10.3.3.0.PEDMIXM_856043a2e8_9.0.zip",
-  "filename": "miui_MIMAX3Global_V10.3.3.0.PEDMIXM_856043a2e8_9.0.zip",
-  "version": "V10.3.3.0.PEDMIXM",
+  "download": "https://bigota.d.miui.com/V10.3.5.0.PEDMIXM/miui_MIMAX3Global_V10.3.5.0.PEDMIXM_12e2d94c20_9.0.zip",
+  "filename": "miui_MIMAX3Global_V10.3.5.0.PEDMIXM_12e2d94c20_9.0.zip",
+  "version": "V10.3.5.0.PEDMIXM",
   "size": "1.7G"
  },
  {
@@ -588,9 +588,9 @@
   "android": "9.0",
   "codename": "platina_global",
   "device": "Mi 8 Lite Global",
-  "download": "https://bigota.d.miui.com/V10.3.3.0.PDTMIXM/miui_MI8LiteGlobal_V10.3.3.0.PDTMIXM_7682e9daab_9.0.zip",
-  "filename": "miui_MI8LiteGlobal_V10.3.3.0.PDTMIXM_7682e9daab_9.0.zip",
-  "version": "V10.3.3.0.PDTMIXM",
+  "download": "https://bigota.d.miui.com/V10.3.5.0.PDTMIXM/miui_MI8LiteGlobal_V10.3.5.0.PDTMIXM_afba6c987e_9.0.zip",
+  "filename": "miui_MI8LiteGlobal_V10.3.5.0.PDTMIXM_afba6c987e_9.0.zip",
+  "version": "V10.3.5.0.PDTMIXM",
   "size": "1.7G"
  },
  {
@@ -727,6 +727,15 @@
   "filename": "tiare_ru_global_images_V10.2.9.0.OCLRUXM_20190715.0000.00_8.1_b50ae04aea.tgz",
   "version": "V10.2.9.0.OCLRUXM",
   "size": "1.7G"
+ },
+ {
+  "android": "9.0",
+  "codename": "tissot",
+  "device": "Mi A1",
+  "download": "http://bigota.d.miui.com/V10.0.12.0.PDHMIXM/tissot_images_V10.0.12.0.PDHMIXM_20190812.0000.00_9.0_089486f35f.tgz",
+  "filename": "tissot_images_V10.0.12.0.PDHMIXM_20190812.0000.00_9.0_089486f35f.tgz",
+  "version": "V10.0.12.0.PDHMIXM",
+  "size": "1616M"
  },
  {
   "android": "9.0",

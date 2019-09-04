@@ -237,10 +237,10 @@
   "android": "8.1",
   "codename": "lotus",
   "device": "Mi Play China",
-  "download": "https://bigota.d.miui.com/9.8.22/miui_MIPLAY_9.8.22_ce4acecbcd_8.1.zip",
-  "filename": "miui_MIPLAY_9.8.22_ce4acecbcd_8.1.zip",
-  "version": "9.8.22",
-  "size": "1.8G"
+  "download": "https://bigota.d.miui.com/9.9.2/miui_MIPLAY_9.9.2_06af52cf3d_8.1.zip",
+  "filename": "miui_MIPLAY_9.9.2_06af52cf3d_8.1.zip",
+  "version": "9.9.2",
+  "size": "1.9G"
  },
  {
   "android": "7.0",
