@@ -240,14 +240,6 @@
   "version": "9.3.28"
  },
  {
-  "android": "9.0",
-  "codename": "lavender",
-  "device": "Redmi Note 7 China",
-  "download": "http://bigota.d.miui.com/9.8.22/miui_LAVENDER_9.8.22_a31b0fcb7a_9.0.zip",
-  "filename": "miui_LAVENDER_9.8.22_a31b0fcb7a_9.0.zip",
-  "version": "9.8.22"
- },
- {
   "android": "8.0",
   "codename": "lithium",
   "device": "Mi MIX China",
@@ -267,9 +259,9 @@
   "android": "8.1",
   "codename": "lotus",
   "device": "Mi Play China",
-  "download": "http://bigota.d.miui.com/9.8.22/miui_MIPLAY_9.8.22_ce4acecbcd_8.1.zip",
-  "filename": "miui_MIPLAY_9.8.22_ce4acecbcd_8.1.zip",
-  "version": "9.8.22"
+  "download": "http://bigota.d.miui.com/9.9.2/miui_MIPLAY_9.9.2_06af52cf3d_8.1.zip",
+  "filename": "miui_MIPLAY_9.9.2_06af52cf3d_8.1.zip",
+  "version": "9.9.2"
  },
  {
   "android": "6.0",
@@ -467,9 +459,9 @@
   "android": "8.1",
   "codename": "rosy",
   "device": "Redmi 5 China",
-  "download": "http://bigota.d.miui.com/9.8.22/miui_HM5_9.8.22_d94ebac453_8.1.zip",
-  "filename": "miui_HM5_9.8.22_d94ebac453_8.1.zip",
-  "version": "9.8.22"
+  "download": "http://bigota.d.miui.com/9.9.2/miui_HM5_9.9.2_27258193f0_8.1.zip",
+  "filename": "miui_HM5_9.9.2_27258193f0_8.1.zip",
+  "version": "9.9.2"
  },
  {
   "android": "8.1",
@@ -611,9 +603,9 @@
   "android": "8.1",
   "codename": "vince",
   "device": "Redmi 5 Plus China",
-  "download": "http://bigota.d.miui.com/9.8.1/miui_HM5Plus_9.8.1_3a0c4b5cf9_8.1.zip",
-  "filename": "miui_HM5Plus_9.8.1_3a0c4b5cf9_8.1.zip",
-  "version": "9.8.1"
+  "download": "http://bigota.d.miui.com/9.9.2/miui_HM5Plus_9.9.2_38e86b99ac_8.1.zip",
+  "filename": "miui_HM5Plus_9.9.2_38e86b99ac_8.1.zip",
+  "version": "9.9.2"
  },
  {
   "android": "8.1",
@@ -622,14 +614,6 @@
   "download": "http://bigota.d.miui.com/8.11.15/miui_HM5PlusGlobal_8.11.15_dd40bfa136_8.1.zip",
   "filename": "miui_HM5PlusGlobal_8.11.15_dd40bfa136_8.1.zip",
   "version": "8.11.15"
- },
- {
-  "android": "9.0",
-  "codename": "violet",
-  "device": "Redmi Note 7 Pro China",
-  "download": "http://bigota.d.miui.com/9.8.22/miui_VIOLET_9.8.22_bdf4f2d7c1_9.0.zip",
-  "filename": "miui_VIOLET_9.8.22_bdf4f2d7c1_9.0.zip",
-  "version": "9.8.22"
  },
  {
   "android": "9.0",
