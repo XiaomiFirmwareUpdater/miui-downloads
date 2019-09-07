@@ -126,15 +126,6 @@
   "size": "1.5G"
  },
  {
-  "android": "4.4",
-  "codename": "gucci_global",
-  "device": "Redmi Note Prime Global",
-  "download": "https://bigota.d.miui.com/7.11.16/miui_HMNote1SGlobal_7.11.16_7804ba4108_4.4.zip",
-  "filename": "miui_HMNote1SGlobal_7.11.16_7804ba4108_4.4.zip",
-  "version": "7.11.16",
-  "size": "552M"
- },
- {
   "android": "7.0",
   "codename": "helium_global",
   "device": "Mi Max Prime Global",
