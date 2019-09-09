@@ -677,7 +677,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4 Global (India Version)",
+  "device": "Redmi 4X Global",
   "download": "https://bigota.d.miui.com/V10.3.1.0.NAMMIXM/miui_HM4XGlobal_V10.3.1.0.NAMMIXM_4129f29c8a_7.1.zip",
   "filename": "miui_HM4XGlobal_V10.3.1.0.NAMMIXM_4129f29c8a_7.1.zip",
   "version": "V10.3.1.0.NAMMIXM",
@@ -727,6 +727,15 @@
   "filename": "tiare_ru_global_images_V10.2.9.0.OCLRUXM_20190715.0000.00_8.1_b50ae04aea.tgz",
   "version": "V10.2.9.0.OCLRUXM",
   "size": "1.7G"
+ },
+ {
+  "android": "9.0",
+  "codename": "tissot",
+  "device": "Mi A1",
+  "download": "http://bigota.d.miui.com/V10.0.12.0.PDHMIXM/tissot_images_V10.0.12.0.PDHMIXM_20190812.0000.00_9.0_089486f35f.tgz",
+  "filename": "tissot_images_V10.0.12.0.PDHMIXM_20190812.0000.00_9.0_089486f35f.tgz",
+  "version": "V10.0.12.0.PDHMIXM",
+  "size": "1616M"
  },
  {
   "android": "9.0",
@@ -794,7 +803,7 @@
  {
   "android": "9.0",
   "codename": "whyred_global",
-  "device": "Redmi Note 5 Pro India",
+  "device": "Redmi Note 5 Global",
   "download": "https://bigota.d.miui.com/V10.3.2.0.PEIMIXM/miui_HMNote5Global_V10.3.2.0.PEIMIXM_7d750f3322_9.0.zip",
   "filename": "miui_HMNote5Global_V10.3.2.0.PEIMIXM_7d750f3322_9.0.zip",
   "version": "V10.3.2.0.PEIMIXM",

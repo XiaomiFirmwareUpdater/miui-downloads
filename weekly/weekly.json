@@ -371,7 +371,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4 Global (India Version)",
+  "device": "Redmi 4X Global",
   "download": "https://bigota.d.miui.com/9.6.27/miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip",
   "filename": "miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip",
   "version": "9.6.27",
@@ -443,7 +443,7 @@
  {
   "android": "9.0",
   "codename": "whyred_global",
-  "device": "Redmi Note 5 Pro India",
+  "device": "Redmi Note 5 Global",
   "download": "https://bigota.d.miui.com/9.6.27/miui_HMNote5Global_9.6.27_12689d10c2_9.0.zip",
   "filename": "miui_HMNote5Global_9.6.27_12689d10c2_9.0.zip",
   "version": "9.6.27",
