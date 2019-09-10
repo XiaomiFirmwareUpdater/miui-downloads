@@ -47,7 +47,7 @@
  {
   "android": "9.0",
   "codename": "beryllium_global",
-  "device": "POCO F1 Global",
+  "device": "POCOPHONE F1 Global",
   "download": "https://bigota.d.miui.com/V10.3.7.0.PEJMIXM/miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip",
   "filename": "miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip",
   "version": "V10.3.7.0.PEJMIXM",
@@ -56,7 +56,7 @@
  {
   "android": "8.1",
   "codename": "beryllium_ru_global",
-  "device": "POCO F1 Russia",
+  "device": "POCOPHONE F1 Russia",
   "download": "https://bigota.d.miui.com/V10.0.9.0.OEJRUXM/miui_POCOF1RUGlobal_V10.0.9.0.OEJRUXM_f65ae602bf_8.1.zip",
   "filename": "miui_POCOF1RUGlobal_V10.0.9.0.OEJRUXM_f65ae602bf_8.1.zip",
   "version": "V10.0.9.0.OEJRUXM",
