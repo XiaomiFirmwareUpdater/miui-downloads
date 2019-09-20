@@ -199,6 +199,15 @@
  },
  {
   "android": "9.0",
+  "codename": "davinciin_in_global",
+  "device": "Redmi K20 India",
+  "download": "https://bigota.d.miui.com/V10.3.8.0.PFJINXM/miui_DAVINCIININGlobal_V10.3.8.0.PFJINXM_207eaee662_9.0.zip",
+  "filename": "miui_DAVINCIININGlobal_V10.3.8.0.PFJINXM_207eaee662_9.0.zip",
+  "version": "V10.3.8.0.PFJINXM",
+  "size": "2.1G"
+ },
+ {
+  "android": "9.0",
   "codename": "dipper_global",
   "device": "Mi 8 Global",
   "download": "https://bigota.d.miui.com/V10.3.4.0.PEAMIXM/miui_MI8Global_V10.3.4.0.PEAMIXM_51a7ff309d_9.0.zip",
@@ -630,6 +639,33 @@
   "size": "1.4G"
  },
  {
+  "android": "9.0",
+  "codename": "raphael_eea_global",
+  "device": "Mi 9T Pro EEA",
+  "download": "https://bigota.d.miui.com/V10.3.3.0.PFKEUXM/miui_RAPHAELEEAGlobal_V10.3.3.0.PFKEUXM_52bd3959c9_9.0.zip",
+  "filename": "miui_RAPHAELEEAGlobal_V10.3.3.0.PFKEUXM_52bd3959c9_9.0.zip",
+  "version": "V10.3.3.0.PFKEUXM",
+  "size": "2.2G"
+ },
+ {
+  "android": "9.0",
+  "codename": "raphael_global",
+  "device": "Mi 9T Pro Global",
+  "download": "https://bigota.d.miui.com/V10.3.2.0.PFKMIXM/miui_RAPHAELGlobal_V10.3.2.0.PFKMIXM_55396ac730_9.0.zip",
+  "filename": "miui_RAPHAELGlobal_V10.3.2.0.PFKMIXM_55396ac730_9.0.zip",
+  "version": "V10.3.2.0.PFKMIXM",
+  "size": "2.2G"
+ },
+ {
+  "android": "9.0",
+  "codename": "raphaelin_in_global",
+  "device": "Redmi K20 Pro India",
+  "download": "https://bigota.d.miui.com/V10.3.5.0.PFKINXM/miui_RAPHAELININGlobal_V10.3.5.0.PFKINXM_f924323a4b_9.0.zip",
+  "filename": "miui_RAPHAELININGlobal_V10.3.5.0.PFKINXM_f924323a4b_9.0.zip",
+  "version": "V10.3.5.0.PFKINXM",
+  "size": "2.2G"
+ },
+ {
   "android": "8.1",
   "codename": "riva_global",
   "device": "Redmi 5A Global",
@@ -655,6 +691,15 @@
   "filename": "miui_HM5Global_V10.3.2.0.ODAMIXM_c9235681be_8.1.zip",
   "version": "V10.3.2.0.ODAMIXM",
   "size": "1.4G"
+ },
+ {
+  "android": "8.1",
+  "codename": "rosy_ru_global",
+  "device": "Redmi 5 Russia",
+  "download": "https://bigota.d.miui.com/V10.3.1.0.ODARUXM/miui_HM5RUGlobal_V10.3.1.0.ODARUXM_5feafbeb4e_8.1.zip",
+  "filename": "miui_HM5RUGlobal_V10.3.1.0.ODARUXM_5feafbeb4e_8.1.zip",
+  "version": "V10.3.1.0.ODARUXM",
+  "size": "1.3G"
  },
  {
   "android": "8.0",
