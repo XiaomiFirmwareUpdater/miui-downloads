@@ -59,14 +59,14 @@ def fetch_roms(device_id, url):
             if info['stable_rom']['rom_url']:
                 roms.append({'id': device_id, 'name': device,
                              'size': info['stable_rom']['size'],
-                             'download': info['stable_rom']['rom_url']})
+                             'download': info['stable_rom']['rom_url'].strip()})
         except KeyError:
             pass
         try:
             if info['developer_rom']['rom_url']:
                 roms.append({'id': device_id, 'name': device,
                              'size': info['developer_rom']['size'],
-                             'download': info['developer_rom']['rom_url']})
+                             'download': info['developer_rom']['rom_url'].strip()})
         except KeyError:
             pass
         for rom in roms:
