@@ -109,6 +109,11 @@
   "model": "DAVINCIRUGlobal",
   "id": "1700361"
  },
+ "davinciin_in_global": {
+  "name": "Redmi K20 India",
+  "model": "DAVINCIININGlobal",
+  "id": "1900373"
+ },
  "dipper_global": {
   "name": "Mi 8 Global",
   "model": "MI8Global",
@@ -208,6 +213,11 @@
   "name": "Redmi 3S/Prime Global",
   "model": "HM3SGlobal",
   "id": "1700303"
+ },
+ "laurel_sprout_global": {
+  "name": "Mi A3",
+  "model": "laurel_sprout_global",
+  "id": "1900372"
  },
  "lavender_eea_global": {
   "name": "Redmi Note 7 EEA",
@@ -354,6 +364,21 @@
   "model": "HM4Global",
   "id": "1700318"
  },
+ "raphael_global": {
+  "name": "Mi 9T Pro Global",
+  "model": "RAPHAELGlobal",
+  "id": "1700361"
+ },
+ "raphael_eea_global": {
+  "name": "Mi 9T Pro EEA",
+  "model": "RAPHAELEEAGlobal",
+  "id": "1700361"
+ },
+ "raphaelin_in_global": {
+  "name": "Redmi K20 Pro India",
+  "model": "RAPHAELININGlobal",
+  "id": "1900373"
+ },
  "riva_global": {
   "name": "Redmi 5A Global",
   "model": "HM5AGlobal",
@@ -367,6 +392,11 @@
  "rosy_global": {
   "name": "Redmi 5 Global",
   "model": "HM5Global",
+  "id": "1700340"
+ },
+ "rosy_ru_global": {
+  "name": "Redmi 5 Russia",
+  "model": "HM5RUGlobal",
   "id": "1700340"
  },
  "sagit_global": {
