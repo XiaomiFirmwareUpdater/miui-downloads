@@ -364,6 +364,21 @@
   "model": "HM4Global",
   "id": "1700318"
  },
+ "pyxis_global": {
+  "name": "Mi 9 Lite Global",
+  "model": "PYXISGlobal",
+  "id": "1900374"
+ },
+ "pyxis_eea_global": {
+  "name": "Mi 9 Lite EEA",
+  "model": "PYXISEEAGlobal",
+  "id": "1900374"
+ },
+ "pyxis_ru_global": {
+  "name": "Mi 9 Lite Russia",
+  "model": "PYXISRUGlobal",
+  "id": "1900374"
+ },
  "raphael_global": {
   "name": "Mi 9T Pro Global",
   "model": "RAPHAELGlobal",
