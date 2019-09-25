@@ -342,13 +342,13 @@
   "size": "1687M"
  },
  {
-  "android": "8.1",
+  "android": "9.0",
   "codename": "jason_global",
   "device": "Mi Note 3 Global",
-  "download": "https://bigota.d.miui.com/V10.3.2.0.OCHMIXM/miui_MINote3Global_V10.3.2.0.OCHMIXM_b4bcd991fd_8.1.zip",
-  "filename": "miui_MINote3Global_V10.3.2.0.OCHMIXM_b4bcd991fd_8.1.zip",
-  "version": "V10.3.2.0.OCHMIXM",
-  "size": "1.6G"
+  "download": "https://bigota.d.miui.com/V10.4.2.0.PCHMIXM/miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip",
+  "filename": "miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip",
+  "version": "V10.4.2.0.PCHMIXM",
+  "size": "1.7G"
  },
  {
   "android": "6.0",
