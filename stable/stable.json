@@ -272,20 +272,20 @@
   "version": "V10.2.2.0.NBCMIXM"
  },
  {
-  "android": "8.1",
+  "android": "9.0",
   "codename": "jason",
   "device": "Mi Note 3 China",
-  "download": "http://bigota.d.miui.com/V10.3.1.0.OCHCNXM/miui_MINote3_V10.3.1.0.OCHCNXM_4cac99ebc8_8.1.zip",
-  "filename": "miui_MINote3_V10.3.1.0.OCHCNXM_4cac99ebc8_8.1.zip",
-  "version": "V10.3.1.0.OCHCNXM"
+  "download": "http://bigota.d.miui.com/V10.4.2.0.PCHCNXM/miui_MINote3_V10.4.2.0.PCHCNXM_14b856e369_9.0.zip",
+  "filename": "miui_MINote3_V10.4.2.0.PCHCNXM_14b856e369_9.0.zip",
+  "version": "V10.4.2.0.PCHCNXM"
  },
  {
-  "android": "8.1",
+  "android": "9.0",
   "codename": "jason_global",
   "device": "Mi Note 3 Global",
-  "download": "http://bigota.d.miui.com/V10.3.2.0.OCHMIXM/miui_MINote3Global_V10.3.2.0.OCHMIXM_b4bcd991fd_8.1.zip",
-  "filename": "miui_MINote3Global_V10.3.2.0.OCHMIXM_b4bcd991fd_8.1.zip",
-  "version": "V10.3.2.0.OCHMIXM"
+  "download": "http://bigota.d.miui.com/V10.4.2.0.PCHMIXM/miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip",
+  "filename": "miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip",
+  "version": "V10.4.2.0.PCHMIXM"
  },
  {
   "android": "6.0",
