@@ -210,9 +210,9 @@
   "android": "9.0",
   "codename": "dipper_global",
   "device": "Mi 8 Global",
-  "download": "https://bigota.d.miui.com/V10.3.4.0.PEAMIXM/miui_MI8Global_V10.3.4.0.PEAMIXM_51a7ff309d_9.0.zip",
-  "filename": "miui_MI8Global_V10.3.4.0.PEAMIXM_51a7ff309d_9.0.zip",
-  "version": "V10.3.4.0.PEAMIXM",
+  "download": "https://bigota.d.miui.com/V10.3.5.0.PEAMIXM/miui_MI8Global_V10.3.5.0.PEAMIXM_db02d24cf1_9.0.zip",
+  "filename": "miui_MI8Global_V10.3.5.0.PEAMIXM_db02d24cf1_9.0.zip",
+  "version": "V10.3.5.0.PEAMIXM",
   "size": "1.8G"
  },
  {
@@ -228,9 +228,9 @@
   "android": "9.0",
   "codename": "equuleus_global",
   "device": "Mi 8 Pro Global",
-  "download": "https://bigota.d.miui.com/V10.3.5.0.PECMIXM/miui_MI8UDGlobal_V10.3.5.0.PECMIXM_6f56abd7d3_9.0.zip",
-  "filename": "miui_MI8UDGlobal_V10.3.5.0.PECMIXM_6f56abd7d3_9.0.zip",
-  "version": "V10.3.5.0.PECMIXM",
+  "download": "https://bigota.d.miui.com/V10.3.6.0.PECMIXM/miui_MI8UDGlobal_V10.3.6.0.PECMIXM_f192219ab1_9.0.zip",
+  "filename": "miui_MI8UDGlobal_V10.3.6.0.PECMIXM_f192219ab1_9.0.zip",
+  "version": "V10.3.6.0.PECMIXM",
   "size": "1.8G"
  },
  {
@@ -246,9 +246,9 @@
   "android": "9.0",
   "codename": "grus_eea_global",
   "device": "Mi 9 SE EEA",
-  "download": "https://bigota.d.miui.com/V10.3.4.0.PFBEUXM/miui_GRUSEEAGlobal_V10.3.4.0.PFBEUXM_409f6dbb6f_9.0.zip",
-  "filename": "miui_GRUSEEAGlobal_V10.3.4.0.PFBEUXM_409f6dbb6f_9.0.zip",
-  "version": "V10.3.4.0.PFBEUXM",
+  "download": "https://bigota.d.miui.com/V10.3.9.0.PFBEUXM/miui_GRUSEEAGlobal_V10.3.9.0.PFBEUXM_f1b6a0764f_9.0.zip",
+  "filename": "miui_GRUSEEAGlobal_V10.3.9.0.PFBEUXM_f1b6a0764f_9.0.zip",
+  "version": "V10.3.9.0.PFBEUXM",
   "size": "2.1G"
  },
  {
@@ -624,9 +624,9 @@
   "android": "9.0",
   "codename": "polaris_global",
   "device": "Mi MIX 2S Global",
-  "download": "https://bigota.d.miui.com/V10.3.5.0.PDGMIXM/miui_MIMIX2SGlobal_V10.3.5.0.PDGMIXM_640d089ad0_9.0.zip",
-  "filename": "miui_MIMIX2SGlobal_V10.3.5.0.PDGMIXM_640d089ad0_9.0.zip",
-  "version": "V10.3.5.0.PDGMIXM",
+  "download": "https://bigota.d.miui.com/V10.3.6.0.PDGMIXM/miui_MIMIX2SGlobal_V10.3.6.0.PDGMIXM_28cf3c6a67_9.0.zip",
+  "filename": "miui_MIMIX2SGlobal_V10.3.6.0.PDGMIXM_28cf3c6a67_9.0.zip",
+  "version": "V10.3.6.0.PDGMIXM",
   "size": "1.8G"
  },
  {
