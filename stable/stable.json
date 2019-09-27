@@ -187,9 +187,9 @@
   "android": "9.0",
   "codename": "dipper_global",
   "device": "Mi 8 Global",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.PEAMIXM/miui_MI8Global_V10.3.4.0.PEAMIXM_51a7ff309d_9.0.zip",
-  "filename": "miui_MI8Global_V10.3.4.0.PEAMIXM_51a7ff309d_9.0.zip",
-  "version": "V10.3.4.0.PEAMIXM"
+  "download": "http://bigota.d.miui.com/V10.3.5.0.PEAMIXM/miui_MI8Global_V10.3.5.0.PEAMIXM_db02d24cf1_9.0.zip",
+  "filename": "miui_MI8Global_V10.3.5.0.PEAMIXM_db02d24cf1_9.0.zip",
+  "version": "V10.3.5.0.PEAMIXM"
  },
  {
   "android": "9.0",
@@ -211,9 +211,9 @@
   "android": "9.0",
   "codename": "equuleus_global",
   "device": "Mi 8 Pro Global",
-  "download": "http://bigota.d.miui.com/V10.3.5.0.PECMIXM/miui_MI8UDGlobal_V10.3.5.0.PECMIXM_6f56abd7d3_9.0.zip",
-  "filename": "miui_MI8UDGlobal_V10.3.5.0.PECMIXM_6f56abd7d3_9.0.zip",
-  "version": "V10.3.5.0.PECMIXM"
+  "download": "http://bigota.d.miui.com/V10.3.6.0.PECMIXM/miui_MI8UDGlobal_V10.3.6.0.PECMIXM_f192219ab1_9.0.zip",
+  "filename": "miui_MI8UDGlobal_V10.3.6.0.PECMIXM_f192219ab1_9.0.zip",
+  "version": "V10.3.6.0.PECMIXM"
  },
  {
   "android": "9.0",
@@ -227,17 +227,17 @@
   "android": "9.0",
   "codename": "grus_eea_global",
   "device": "Mi 9 SE EEA Global",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.PFBEUXM/miui_GRUSEEAGlobal_V10.3.4.0.PFBEUXM_409f6dbb6f_9.0.zip",
-  "filename": "miui_GRUSEEAGlobal_V10.3.4.0.PFBEUXM_409f6dbb6f_9.0.zip",
-  "version": "V10.3.4.0.PFBEUXM"
+  "download": "http://bigota.d.miui.com/V10.3.9.0.PFBEUXM/miui_GRUSEEAGlobal_V10.3.9.0.PFBEUXM_f1b6a0764f_9.0.zip",
+  "filename": "miui_GRUSEEAGlobal_V10.3.9.0.PFBEUXM_f1b6a0764f_9.0.zip",
+  "version": "V10.3.9.0.PFBEUXM"
  },
  {
   "android": "9.0",
   "codename": "grus_global",
   "device": "Mi 9 SE Global",
-  "download": "http://bigota.d.miui.com/V10.3.3.0.PFBMIXM/miui_GRUSGlobal_V10.3.3.0.PFBMIXM_2842fe0d8f_9.0.zip",
-  "filename": "miui_GRUSGlobal_V10.3.3.0.PFBMIXM_2842fe0d8f_9.0.zip",
-  "version": "V10.3.3.0.PFBMIXM"
+  "download": "http://bigota.d.miui.com/V10.3.4.0.PFBMIXM/miui_GRUSGlobal_V10.3.4.0.PFBMIXM_1af3c0ea1e_9.0.zip",
+  "filename": "miui_GRUSGlobal_V10.3.4.0.PFBMIXM_1af3c0ea1e_9.0.zip",
+  "version": "V10.3.4.0.PFBMIXM"
  },
  {
   "android": "7.0",
@@ -619,9 +619,9 @@
   "android": "9.0",
   "codename": "polaris_global",
   "device": "Mi MIX 2S Global",
-  "download": "http://bigota.d.miui.com/V10.3.5.0.PDGMIXM/miui_MIMIX2SGlobal_V10.3.5.0.PDGMIXM_640d089ad0_9.0.zip",
-  "filename": "miui_MIMIX2SGlobal_V10.3.5.0.PDGMIXM_640d089ad0_9.0.zip",
-  "version": "V10.3.5.0.PDGMIXM"
+  "download": "http://bigota.d.miui.com/V10.3.6.0.PDGMIXM/miui_MIMIX2SGlobal_V10.3.6.0.PDGMIXM_28cf3c6a67_9.0.zip",
+  "filename": "miui_MIMIX2SGlobal_V10.3.6.0.PDGMIXM_28cf3c6a67_9.0.zip",
+  "version": "V10.3.6.0.PDGMIXM"
  },
  {
   "android": "8.0",
