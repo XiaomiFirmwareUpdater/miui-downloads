@@ -477,15 +477,6 @@
   "size": "1.4G"
  },
  {
-  "android": "7.0",
-  "codename": "mido_global",
-  "device": "Redmi Note 4X Global",
-  "download": "https://bigota.d.miui.com/V10.2.3.0.NCFMIXM/miui_HMNote4XGlobal_V10.2.3.0.NCFMIXM_e1a82195b6_7.0.zip",
-  "filename": "miui_HMNote4XGlobal_V10.2.3.0.NCFMIXM_e1a82195b6_7.0.zip",
-  "version": "V10.2.3.0.NCFMIXM",
-  "size": "1.5G"
- },
- {
   "android": "8.0",
   "codename": "natrium_global",
   "device": "Mi 5s Plus Global",

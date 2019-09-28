@@ -243,15 +243,6 @@
   "size": "1.9G"
  },
  {
-  "android": "7.0",
-  "codename": "mido_global",
-  "device": "Redmi Note 4X Global",
-  "download": "https://bigota.d.miui.com/8.12.20/miui_HMNote4XGlobal_8.12.20_43a9a2079c_7.0.zip",
-  "filename": "miui_HMNote4XGlobal_8.12.20_43a9a2079c_7.0.zip",
-  "version": "8.12.20",
-  "size": "1.5G"
- },
- {
   "android": "4.1",
   "codename": "mione_plus",
   "device": "Mi 1/1S China",
