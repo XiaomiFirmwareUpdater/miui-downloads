@@ -30,9 +30,9 @@
   "android": "5.0",
   "codename": "aries",
   "device": "Mi 2/2S China",
-  "download": "https://bigota.d.miui.com/V9.2.1.0.LXACNEK/miui_MI2_V9.2.1.0.LXACNEK_36cb11e179_5.0.zip",
-  "filename": "miui_MI2_V9.2.1.0.LXACNEK_36cb11e179_5.0.zip",
-  "version": "V9.2.1.0.LXACNEK",
+  "download": "https://bigota.d.miui.com/V9.2.3.0.LXACNEK/miui_MI2_V9.2.3.0.LXACNEK_68e064332d_5.0.zip",
+  "filename": "miui_MI2_V9.2.3.0.LXACNEK_68e064332d_5.0.zip",
+  "version": "V9.2.3.0.LXACNEK",
   "size": "512M"
  },
  {
@@ -255,9 +255,9 @@
   "android": "4.4",
   "codename": "gucci",
   "device": "Redmi Note Prime (Dual SIM) China",
-  "download": "https://bigota.d.miui.com/V9.2.1.0.KHKCNEK/miui_HMNote1S_V9.2.1.0.KHKCNEK_f05e79d280_4.4.zip",
-  "filename": "miui_HMNote1S_V9.2.1.0.KHKCNEK_f05e79d280_4.4.zip",
-  "version": "V9.2.1.0.KHKCNEK",
+  "download": "https://bigota.d.miui.com/V9.2.2.0.KHKCNEK/miui_HMNote1S_V9.2.2.0.KHKCNEK_5562fee1c4_4.4.zip",
+  "filename": "miui_HMNote1S_V9.2.2.0.KHKCNEK_5562fee1c4_4.4.zip",
+  "version": "V9.2.2.0.KHKCNEK",
   "size": "535M"
  },
  {
@@ -300,10 +300,10 @@
   "android": "5.0",
   "codename": "hermes_global",
   "device": "Redmi Note 2 Global",
-  "download": "https://bigota.d.miui.com/V9.6.1.0.LHMMIFD/miui_HMNote2Global_V9.6.1.0.LHMMIFD_96d338e2ba_5.0.zip",
-  "filename": "miui_HMNote2Global_V9.6.1.0.LHMMIFD_96d338e2ba_5.0.zip",
-  "version": "V9.6.1.0.LHMMIFD",
-  "size": "981M"
+  "download": "https://bigota.d.miui.com/V9.6.3.0.LHMMIFD/miui_HMNote2Global_V9.6.3.0.LHMMIFD_83711029cc_5.0.zip",
+  "filename": "miui_HMNote2Global_V9.6.3.0.LHMMIFD_83711029cc_5.0.zip",
+  "version": "V9.6.3.0.LHMMIFD",
+  "size": "960M"
  },
  {
   "android": "7.0",
@@ -327,10 +327,10 @@
   "android": "5.1",
   "codename": "ido_xhdpi_global",
   "device": "Redmi 3/Prime Global",
-  "download": "https://bigota.d.miui.com/V9.6.1.0.LAIMIFD/miui_HM3Global_V9.6.1.0.LAIMIFD_1554942108_5.1.zip",
-  "filename": "miui_HM3Global_V9.6.1.0.LAIMIFD_1554942108_5.1.zip",
-  "version": "V9.6.1.0.LAIMIFD",
-  "size": "959M"
+  "download": "https://bigota.d.miui.com/V9.6.2.0.LAIMIFD/miui_HM3Global_V9.6.2.0.LAIMIFD_99f034030c_5.1.zip",
+  "filename": "miui_HM3Global_V9.6.2.0.LAIMIFD_99f034030c_5.1.zip",
+  "version": "V9.6.2.0.LAIMIFD",
+  "size": "940M"
  },
  {
   "android": "9.0",
@@ -385,15 +385,6 @@
   "filename": "miui_HM3SGlobal_V10.2.2.0.MALMIXM_919500358f_6.0.zip",
   "version": "V10.2.2.0.MALMIXM",
   "size": "1.3G"
- },
- {
-  "android": "9.0",
-  "codename": "laurel_sprout_global",
-  "device": "Mi A3",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.PFQMIXM/laurel_sprout_global_images_V10.3.4.0.PFQMIXM_20190815.0000.00_9.0_00838b4c0e.tgz",
-  "filename": "laurel_sprout_global_images_V10.3.4.0.PFQMIXM_20190815.0000.00_9.0_00838b4c0e.tgz",
-  "version": "V10.3.4.0.PFQMIXM",
-  "size": ""
  },
  {
   "android": "9.0",
@@ -453,9 +444,9 @@
   "android": "8.1",
   "codename": "lotus_global",
   "device": "Mi Play Global",
-  "download": "https://bigota.d.miui.com/V10.3.3.0.OFIMIXM/miui_MIPLAYGlobal_V10.3.3.0.OFIMIXM_ef5407f28a_8.1.zip",
-  "filename": "miui_MIPLAYGlobal_V10.3.3.0.OFIMIXM_ef5407f28a_8.1.zip",
-  "version": "V10.3.3.0.OFIMIXM",
+  "download": "https://bigota.d.miui.com/V10.2.5.0.OFIMIXM/miui_MIPLAYGlobal_V10.2.5.0.OFIMIXM_fcc94aedaa_8.1.zip",
+  "filename": "miui_MIPLAYGlobal_V10.2.5.0.OFIMIXM_fcc94aedaa_8.1.zip",
+  "version": "V10.2.5.0.OFIMIXM",
   "size": "1.4G"
  },
  {
@@ -649,11 +640,29 @@
  },
  {
   "android": "9.0",
+  "codename": "pyxis_eea_global",
+  "device": "Mi 9 Lite/Mi CC 9 EEA",
+  "download": "https://bigota.d.miui.com/V10.3.6.0.PFCEUXM/miui_PYXISEEAGlobal_V10.3.6.0.PFCEUXM_3fe48940d7_9.0.zip",
+  "filename": "miui_PYXISEEAGlobal_V10.3.6.0.PFCEUXM_3fe48940d7_9.0.zip",
+  "version": "V10.3.6.0.PFCEUXM",
+  "size": "2.1G"
+ },
+ {
+  "android": "9.0",
   "codename": "pyxis_global",
   "device": "Mi 9 Lite/Mi CC 9 Global",
   "download": "https://bigota.d.miui.com/V10.3.1.0.PFCMIXM/miui_PYXISGlobal_V10.3.1.0.PFCMIXM_498ea52b22_9.0.zip",
   "filename": "miui_PYXISGlobal_V10.3.1.0.PFCMIXM_498ea52b22_9.0.zip",
   "version": "V10.3.1.0.PFCMIXM",
+  "size": "2.1G"
+ },
+ {
+  "android": "9.0",
+  "codename": "pyxis_ru_global",
+  "device": "Mi 9 Lite/Mi CC 9 RU",
+  "download": "https://bigota.d.miui.com/V10.3.1.0.PFCRUXM/miui_PYXISRUGlobal_V10.3.1.0.PFCRUXM_6cfd432584_9.0.zip",
+  "filename": "miui_PYXISRUGlobal_V10.3.1.0.PFCRUXM_6cfd432584_9.0.zip",
+  "version": "V10.3.1.0.PFCRUXM",
   "size": "2.1G"
  },
  {
@@ -757,15 +766,6 @@
  },
  {
   "android": "8.1",
-  "codename": "tiare_eea_global",
-  "device": "Redmi Go EEA",
-  "download": "http://bigota.d.miui.com/V10.2.8.0.OCLEUXM/tiare_eea_global_images_V10.2.8.0.OCLEUXM_20190719.0000.00_8.1_0c1b40ca2a.tgz",
-  "filename": "tiare_eea_global_images_V10.2.8.0.OCLEUXM_20190719.0000.00_8.1_0c1b40ca2a.tgz",
-  "version": "V10.2.8.0.OCLEUXM",
-  "size": "1.7G"
- },
- {
-  "android": "8.1",
   "codename": "tiare_global",
   "device": "Redmi Go Global",
   "download": "http://bigota.d.miui.com/V10.2.13.0.OCLMIXM/tiare_global_images_V10.2.13.0.OCLMIXM_20190726.0000.00_8.1_68dfec6ba2.tgz",
@@ -781,24 +781,6 @@
   "filename": "tiare_in_global_images_V10.2.10.0.OCLINXM_20190711.0000.00_8.1_ccbe9e67d3.tgz",
   "version": "V10.2.10.0.OCLINXM",
   "size": "1.7G"
- },
- {
-  "android": "8.1",
-  "codename": "tiare_ru_global",
-  "device": "Redmi Go Russia",
-  "download": "http://bigota.d.miui.com/V10.2.9.0.OCLRUXM/tiare_ru_global_images_V10.2.9.0.OCLRUXM_20190715.0000.00_8.1_b50ae04aea.tgz",
-  "filename": "tiare_ru_global_images_V10.2.9.0.OCLRUXM_20190715.0000.00_8.1_b50ae04aea.tgz",
-  "version": "V10.2.9.0.OCLRUXM",
-  "size": "1.7G"
- },
- {
-  "android": "9.0",
-  "codename": "tissot",
-  "device": "Mi A1",
-  "download": "http://bigota.d.miui.com/V10.0.12.0.PDHMIXM/tissot_images_V10.0.12.0.PDHMIXM_20190812.0000.00_9.0_089486f35f.tgz",
-  "filename": "tissot_images_V10.0.12.0.PDHMIXM_20190812.0000.00_9.0_089486f35f.tgz",
-  "version": "V10.0.12.0.PDHMIXM",
-  "size": "1616M"
  },
  {
   "android": "9.0",
@@ -885,36 +867,36 @@
   "android": "4.4",
   "codename": "wt88047",
   "device": "Redmi 2 China",
-  "download": "https://bigota.d.miui.com/V9.2.1.0.KHJCNEK/miui_HM2XWC_V9.2.1.0.KHJCNEK_cf7e83c261_4.4.zip",
-  "filename": "miui_HM2XWC_V9.2.1.0.KHJCNEK_cf7e83c261_4.4.zip",
-  "version": "V9.2.1.0.KHJCNEK",
+  "download": "https://bigota.d.miui.com/V9.2.3.0.KHJCNEK/miui_HM2XWC_V9.2.3.0.KHJCNEK_906f1865bf_4.4.zip",
+  "filename": "miui_HM2XWC_V9.2.3.0.KHJCNEK_906f1865bf_4.4.zip",
+  "version": "V9.2.3.0.KHJCNEK",
   "size": "473M"
  },
  {
   "android": "4.4",
   "codename": "wt88047_global",
   "device": "Redmi 2 4G Global",
-  "download": "https://bigota.d.miui.com/V9.2.2.0.KHJMIEK/miui_HM2XWCGlobal_V9.2.2.0.KHJMIEK_def25c2da8_4.4.zip",
-  "filename": "miui_HM2XWCGlobal_V9.2.2.0.KHJMIEK_def25c2da8_4.4.zip",
-  "version": "V9.2.2.0.KHJMIEK",
+  "download": "https://bigota.d.miui.com/V9.2.3.0.KHJMIEK/miui_HM2XWCGlobal_V9.2.3.0.KHJMIEK_3583345a16_4.4.zip",
+  "filename": "miui_HM2XWCGlobal_V9.2.3.0.KHJMIEK_3583345a16_4.4.zip",
+  "version": "V9.2.3.0.KHJMIEK",
   "size": "497M"
  },
  {
   "android": "5.1",
   "codename": "wt88047_pro",
   "device": "Redmi 2 Prime China",
-  "download": "https://bigota.d.miui.com/V9.2.1.0.LHJCNEK/miui_HM2XWCPro_V9.2.1.0.LHJCNEK_36af27f999_5.1.zip",
-  "filename": "miui_HM2XWCPro_V9.2.1.0.LHJCNEK_36af27f999_5.1.zip",
-  "version": "V9.2.1.0.LHJCNEK",
+  "download": "https://bigota.d.miui.com/V9.2.3.0.LHJCNEK/miui_HM2XWCPro_V9.2.3.0.LHJCNEK_77056c722f_5.1.zip",
+  "filename": "miui_HM2XWCPro_V9.2.3.0.LHJCNEK_77056c722f_5.1.zip",
+  "version": "V9.2.3.0.LHJCNEK",
   "size": "576M"
  },
  {
   "android": "5.1",
   "codename": "wt88047_pro_global",
   "device": "Redmi 2 Prime Global",
-  "download": "https://bigota.d.miui.com/V9.2.4.0.LHJMIEK/miui_HM2XWCProGlobal_V9.2.4.0.LHJMIEK_f4688a5495_5.1.zip",
-  "filename": "miui_HM2XWCProGlobal_V9.2.4.0.LHJMIEK_f4688a5495_5.1.zip",
-  "version": "V9.2.4.0.LHJMIEK",
+  "download": "https://bigota.d.miui.com/V9.2.5.0.LHJMIEK/miui_HM2XWCProGlobal_V9.2.5.0.LHJMIEK_cc5597e455_5.1.zip",
+  "filename": "miui_HM2XWCProGlobal_V9.2.5.0.LHJMIEK_cc5597e455_5.1.zip",
+  "version": "V9.2.5.0.LHJMIEK",
   "size": "617M"
  },
  {
