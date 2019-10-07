@@ -864,6 +864,42 @@
   "size": "1.7G"
  },
  {
+  "android": "4.4",
+  "codename": "wt88047",
+  "device": "Redmi 2 China",
+  "download": "https://bigota.d.miui.com/V9.2.3.0.KHJCNEK/miui_HM2XWC_V9.2.3.0.KHJCNEK_906f1865bf_4.4.zip",
+  "filename": "miui_HM2XWC_V9.2.3.0.KHJCNEK_906f1865bf_4.4.zip",
+  "version": "V9.2.3.0.KHJCNEK",
+  "size": "473M"
+ },
+ {
+  "android": "4.4",
+  "codename": "wt88047_global",
+  "device": "Redmi 2 4G Global",
+  "download": "https://bigota.d.miui.com/V9.2.3.0.KHJMIEK/miui_HM2XWCGlobal_V9.2.3.0.KHJMIEK_3583345a16_4.4.zip",
+  "filename": "miui_HM2XWCGlobal_V9.2.3.0.KHJMIEK_3583345a16_4.4.zip",
+  "version": "V9.2.3.0.KHJMIEK",
+  "size": "497M"
+ },
+ {
+  "android": "5.1",
+  "codename": "wt88047_pro",
+  "device": "Redmi 2 Prime China",
+  "download": "https://bigota.d.miui.com/V9.2.3.0.LHJCNEK/miui_HM2XWCPro_V9.2.3.0.LHJCNEK_77056c722f_5.1.zip",
+  "filename": "miui_HM2XWCPro_V9.2.3.0.LHJCNEK_77056c722f_5.1.zip",
+  "version": "V9.2.3.0.LHJCNEK",
+  "size": "576M"
+ },
+ {
+  "android": "5.1",
+  "codename": "wt88047_pro_global",
+  "device": "Redmi 2 Prime Global",
+  "download": "https://bigota.d.miui.com/V9.2.5.0.LHJMIEK/miui_HM2XWCProGlobal_V9.2.5.0.LHJMIEK_cc5597e455_5.1.zip",
+  "filename": "miui_HM2XWCProGlobal_V9.2.5.0.LHJMIEK_cc5597e455_5.1.zip",
+  "version": "V9.2.5.0.LHJMIEK",
+  "size": "617M"
+ },
+ {
   "android": "9.0",
   "codename": "ysl_global",
   "device": "Redmi S2/Y2 Global",
