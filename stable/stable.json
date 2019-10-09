@@ -12,10 +12,10 @@
   "android": "9.0",
   "codename": "andromeda_eea_global",
   "device": "Mi MIX 3 5G EEA",
-  "download": "https://bigota.d.miui.com/V10.3.19.0.PEMEUXM/miui_ANDROMEDAEEAGlobal_V10.3.19.0.PEMEUXM_595fd0a744_9.0.zip",
-  "filename": "miui_ANDROMEDAEEAGlobal_V10.3.19.0.PEMEUXM_595fd0a744_9.0.zip",
-  "version": "V10.3.19.0.PEMEUXM",
-  "size": "2.0G"
+  "download": "https://bigota.d.miui.com/V10.3.20.0.PEMEUXM/miui_ANDROMEDAEEAGlobal_V10.3.20.0.PEMEUXM_36a6223a3d_9.0.zip",
+  "filename": "miui_ANDROMEDAEEAGlobal_V10.3.20.0.PEMEUXM_36a6223a3d_9.0.zip",
+  "version": "V10.3.20.0.PEMEUXM",
+  "size": "1.9G"
  },
  {
   "android": "9.0",
@@ -48,9 +48,9 @@
   "android": "9.0",
   "codename": "beryllium_global",
   "device": "POCOPHONE F1 Global",
-  "download": "https://bigota.d.miui.com/V10.3.7.0.PEJMIXM/miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip",
-  "filename": "miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip",
-  "version": "V10.3.7.0.PEJMIXM",
+  "download": "https://bigota.d.miui.com/V10.3.8.0.PEJMIXM/miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip",
+  "filename": "miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip",
+  "version": "V10.3.8.0.PEJMIXM",
   "size": "1.8G"
  },
  {
@@ -120,28 +120,28 @@
   "android": "9.0",
   "codename": "cepheus_global",
   "device": "Mi 9 Global",
-  "download": "https://bigota.d.miui.com/V10.2.13.0.PFAMIXM/miui_CEPHEUSGlobal_V10.2.13.0.PFAMIXM_b529c3de07_9.0.zip",
-  "filename": "miui_CEPHEUSGlobal_V10.2.13.0.PFAMIXM_b529c3de07_9.0.zip",
-  "version": "V10.2.13.0.PFAMIXM",
+  "download": "https://bigota.d.miui.com/V10.2.14.0.PFAMIXM/miui_CEPHEUSGlobal_V10.2.14.0.PFAMIXM_f17b321377_9.0.zip",
+  "filename": "miui_CEPHEUSGlobal_V10.2.14.0.PFAMIXM_f17b321377_9.0.zip",
+  "version": "V10.2.14.0.PFAMIXM",
   "size": "2.2G"
  },
  {
   "android": "9.0",
   "codename": "cepheus_ru_global",
   "device": "Mi 9 Russia",
-  "download": "https://bigota.d.miui.com/V10.2.8.0.PFARUXM/miui_CEPHEUSRUGlobal_V10.2.8.0.PFARUXM_9ca26d3b6c_9.0.zip",
-  "filename": "miui_CEPHEUSRUGlobal_V10.2.8.0.PFARUXM_9ca26d3b6c_9.0.zip",
-  "version": "V10.2.8.0.PFARUXM",
+  "download": "https://bigota.d.miui.com/V10.2.9.0.PFARUXM/miui_CEPHEUSRUGlobal_V10.2.9.0.PFARUXM_59dfb3a262_9.0.zip",
+  "filename": "miui_CEPHEUSRUGlobal_V10.2.9.0.PFARUXM_59dfb3a262_9.0.zip",
+  "version": "V10.2.9.0.PFARUXM",
   "size": "2.2G"
  },
  {
-  "android": "8.1",
+  "android": "9.0",
   "codename": "cereus_global",
   "device": "Redmi 6 Global",
-  "download": "https://bigota.d.miui.com/V10.3.6.0.OCGMIXM/miui_HM6Global_V10.3.6.0.OCGMIXM_85f41684de_8.1.zip",
-  "filename": "miui_HM6Global_V10.3.6.0.OCGMIXM_85f41684de_8.1.zip",
-  "version": "V10.3.6.0.OCGMIXM",
-  "size": "1.2G"
+  "download": "https://bigota.d.miui.com/V10.4.4.0.PCGMIXM/miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip",
+  "filename": "miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip",
+  "version": "V10.4.4.0.PCGMIXM",
+  "size": "1.3G"
  },
  {
   "android": "8.1",
