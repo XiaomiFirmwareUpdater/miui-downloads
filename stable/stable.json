@@ -775,6 +775,15 @@
  },
  {
   "android": "8.1",
+  "codename": "tiare_eea_global",
+  "device": "Redmi Go EEA",
+  "download": "http://bigota.d.miui.com/V10.2.8.0.OCLEUXM/tiare_eea_global_images_V10.2.8.0.OCLEUXM_20190719.0000.00_8.1_0c1b40ca2a.tgz",
+  "filename": "tiare_eea_global_images_V10.2.8.0.OCLEUXM_20190719.0000.00_8.1_0c1b40ca2a.tgz",
+  "version": "V10.2.8.0.OCLEUXM",
+  "size": "1.7G"
+ },
+ {
+  "android": "8.1",
   "codename": "tiare_global",
   "device": "Redmi Go Global",
   "download": "http://bigota.d.miui.com/V10.2.13.0.OCLMIXM/tiare_global_images_V10.2.13.0.OCLMIXM_20190726.0000.00_8.1_68dfec6ba2.tgz",
