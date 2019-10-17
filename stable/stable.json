@@ -139,9 +139,9 @@
   "android": "9.0",
   "codename": "davinci",
   "device": "Redmi K20 China",
-  "download": "http://bigota.d.miui.com/V10.3.15.0.PFJCNXM/miui_DAVINCI_V10.3.15.0.PFJCNXM_d8545c3ae5_9.0.zip",
-  "filename": "miui_DAVINCI_V10.3.15.0.PFJCNXM_d8545c3ae5_9.0.zip",
-  "version": "V10.3.15.0.PFJCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.PFJCNXM/miui_DAVINCI_V11.0.3.0.PFJCNXM_104ec46429_9.0.zip",
+  "filename": "miui_DAVINCI_V11.0.3.0.PFJCNXM_104ec46429_9.0.zip",
+  "version": "V11.0.3.0.PFJCNXM"
  },
  {
   "android": "9.0",
@@ -179,9 +179,9 @@
   "android": "9.0",
   "codename": "dipper",
   "device": "Mi 8 China",
-  "download": "http://bigota.d.miui.com/V10.3.6.0.PEACNXM/miui_MI8_V10.3.6.0.PEACNXM_e038f4ac7a_9.0.zip",
-  "filename": "miui_MI8_V10.3.6.0.PEACNXM_e038f4ac7a_9.0.zip",
-  "version": "V10.3.6.0.PEACNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.PEACNXM/miui_MI8_V11.0.3.0.PEACNXM_56a5fadf39_9.0.zip",
+  "filename": "miui_MI8_V11.0.3.0.PEACNXM_56a5fadf39_9.0.zip",
+  "version": "V11.0.3.0.PEACNXM"
  },
  {
   "android": "9.0",
@@ -219,9 +219,9 @@
   "android": "9.0",
   "codename": "grus",
   "device": "Mi 9 SE China",
-  "download": "http://bigota.d.miui.com/V10.3.6.0.PFBCNXM/miui_GRUS_V10.3.6.0.PFBCNXM_71316d435a_9.0.zip",
-  "filename": "miui_GRUS_V10.3.6.0.PFBCNXM_71316d435a_9.0.zip",
-  "version": "V10.3.6.0.PFBCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.PFBCNXM/miui_GRUS_V11.0.3.0.PFBCNXM_798b0ceef1_9.0.zip",
+  "filename": "miui_GRUS_V11.0.3.0.PFBCNXM_798b0ceef1_9.0.zip",
+  "version": "V11.0.3.0.PFBCNXM"
  },
  {
   "android": "9.0",
@@ -483,9 +483,9 @@
   "android": "9.0",
   "codename": "nitrogen",
   "device": "Mi Max 3 China",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.PEDCNXM/miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip",
-  "filename": "miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip",
-  "version": "V10.3.4.0.PEDCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.PEDCNXM/miui_MIMAX3_V11.0.2.0.PEDCNXM_a3394bcd85_9.0.zip",
+  "filename": "miui_MIMAX3_V11.0.2.0.PEDCNXM_a3394bcd85_9.0.zip",
+  "version": "V11.0.2.0.PEDCNXM"
  },
  {
   "android": "9.0",
@@ -587,9 +587,9 @@
   "android": "9.0",
   "codename": "platina",
   "device": "Mi 8 Lite China",
-  "download": "http://bigota.d.miui.com/V10.3.7.0.PDTCNXM/miui_MI8Lite_V10.3.7.0.PDTCNXM_334c92b05b_9.0.zip",
-  "filename": "miui_MI8Lite_V10.3.7.0.PDTCNXM_334c92b05b_9.0.zip",
-  "version": "V10.3.7.0.PDTCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.PDTCNXM/miui_MI8Lite_V11.0.2.0.PDTCNXM_3106234dfc_9.0.zip",
+  "filename": "miui_MI8Lite_V11.0.2.0.PDTCNXM_3106234dfc_9.0.zip",
+  "version": "V11.0.2.0.PDTCNXM"
  },
  {
   "android": "9.0",
@@ -611,9 +611,9 @@
   "android": "9.0",
   "codename": "polaris",
   "device": "Mi MIX 2S China",
-  "download": "http://bigota.d.miui.com/V10.3.5.0.PDGCNXM/miui_MIMIX2S_V10.3.5.0.PDGCNXM_02ca33aec8_9.0.zip",
-  "filename": "miui_MIMIX2S_V10.3.5.0.PDGCNXM_02ca33aec8_9.0.zip",
-  "version": "V10.3.5.0.PDGCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.PDGCNXM/miui_MIMIX2S_V11.0.2.0.PDGCNXM_3926e4c6ec_9.0.zip",
+  "filename": "miui_MIMIX2S_V11.0.2.0.PDGCNXM_3926e4c6ec_9.0.zip",
+  "version": "V11.0.2.0.PDGCNXM"
  },
  {
   "android": "9.0",
@@ -779,9 +779,9 @@
   "android": "9.0",
   "codename": "sirius",
   "device": "Mi 8 SE China",
-  "download": "http://bigota.d.miui.com/V10.3.2.0.PEBCNXM/miui_MI8SE_V10.3.2.0.PEBCNXM_7a3acfc714_9.0.zip",
-  "filename": "miui_MI8SE_V10.3.2.0.PEBCNXM_7a3acfc714_9.0.zip",
-  "version": "V10.3.2.0.PEBCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.PEBCNXM/miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip",
+  "filename": "miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip",
+  "version": "V11.0.3.0.PEBCNXM"
  },
  {
   "android": "8.1",
