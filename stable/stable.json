@@ -46,6 +46,24 @@
   },
   {
    "android": "9.0",
+   "codename": "begonia_eea_global",
+   "device": "Redmi Note 8 Pro EEA",
+   "download": "https://bigota.d.miui.com/V10.4.5.0.PGGEUXM/miui_BEGONIAEEAGlobal_V10.4.5.0.PGGEUXM_0453419db7_9.0.zip",
+   "filename": "miui_BEGONIAEEAGlobal_V10.4.5.0.PGGEUXM_0453419db7_9.0.zip",
+   "version": "V10.4.5.0.PGGEUXM",
+   "size": "1.9G"
+  },
+  {
+   "android": "9.0",
+   "codename": "begonia_ru_global",
+   "device": "Redmi Note 8 Pro RU",
+   "download": "https://bigota.d.miui.com/V10.4.2.0.PGGRUXM/miui_BEGONIARUGlobal_V10.4.2.0.PGGRUXM_b1d2707ade_9.0.zip",
+   "filename": "miui_BEGONIARUGlobal_V10.4.2.0.PGGRUXM_b1d2707ade_9.0.zip",
+   "version": "V10.4.2.0.PGGRUXM",
+   "size": "1.9G"
+  },
+  {
+   "android": "9.0",
    "codename": "beryllium_global",
    "device": "POCOPHONE F1 Global",
    "download": "https://bigota.d.miui.com/V10.3.8.0.PEJMIXM/miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip",
@@ -241,6 +259,15 @@
    "filename": "miui_MI5Global_V10.2.2.0.OAAMIXM_d16c808eba_8.0.zip",
    "version": "V10.2.2.0.OAAMIXM",
    "size": "1.4G"
+  },
+  {
+   "android": "9.0",
+   "codename": "ginkgo_global",
+   "device": "Redmi Note 8 Global",
+   "download": "https://bigota.d.miui.com/V10.3.2.0.PCOMIXM/miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip",
+   "filename": "miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip",
+   "version": "V10.3.2.0.PCOMIXM",
+   "size": "1.8G"
   },
   {
    "android": "9.0",
@@ -520,6 +547,15 @@
    "filename": "miui_NITROGENRUGlobal_V10.2.3.0.OEDRUXM_30c885910e_8.1.zip",
    "version": "V10.2.3.0.OEDRUXM",
    "size": "1.7G"
+  },
+  {
+   "android": "9.0",
+   "codename": "olivelite_in_global",
+   "device": "Redmi 8A India",
+   "download": "https://bigota.d.miui.com/V10.3.1.0.PCPINXM/miui_OLIVELITEINGlobal_V10.3.1.0.PCPINXM_cf5a4b94a3_9.0.zip",
+   "filename": "miui_OLIVELITEINGlobal_V10.3.1.0.PCPINXM_cf5a4b94a3_9.0.zip",
+   "version": "V10.3.1.0.PCPINXM",
+   "size": "1.6G"
   },
   {
    "android": "9.0",
