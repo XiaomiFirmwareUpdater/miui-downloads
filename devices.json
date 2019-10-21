@@ -4,35 +4,10 @@
   "model": "ANDROMEDA",
   "pid": ""
  },
- "andromeda_global": {
-  "name": "Mi MIX 3 5G Global",
-  "model": "ANDROMEDAGlobal",
-  "pid": ""
- },
- "andromeda_eea_global": {
-  "name": "Mi MIX 3 5G EEA Global",
-  "model": "ANDROMEDAEEAGlobal",
-  "pid": ""
- },
- "beryllium_global": {
-  "name": "Poco F1 Global",
-  "model": "POCOF1Global",
-  "pid": "355"
- },
  "cactus": {
   "name": "Redmi 6A China",
   "model": "HM6A",
   "pid": "348"
- },
- "cactus_global": {
-  "name": "Redmi 6A Global",
-  "model": "HM6AGlobal",
-  "pid": "349"
- },
- "cactus_ru_global": {
-  "name": "Redmi 6A Russian",
-  "model": "HM6ARUGlobal",
-  "pid": "349"
  },
  "cappu": {
   "name": "Mi Pad 3 China",
@@ -44,90 +19,30 @@
   "model": "MI5S",
   "pid": "319"
  },
- "capricorn_global": {
-  "name": "Mi 5s Global",
-  "model": "MI5SGlobal",
-  "pid": "314"
- },
  "cereus": {
   "name": "Redmi 6 China",
   "model": "HM6",
   "pid": "348"
- },
- "cereus_global": {
-  "name": "Redmi 6 Global",
-  "model": "HM6Global",
-  "pid": "349"
- },
- "cereus_ru_global": {
-  "name": "Redmi 6 Russian",
-  "model": "HM6RUGlobal",
-  "pid": "349"
  },
  "cepheus": {
   "name": "Mi 9 China",
   "model": "CEPHEUS",
   "pid": "357"
  },
- "cepheus_global": {
-  "name": "Mi 9 Global",
-  "model": "CEPHEUSGlobal",
-  "pid": "361"
- },
- "cepheus_eea_global": {
-  "name": "Mi 9 Global EEA",
-  "model": "CEPHEUSEEAGlobal",
-  "pid": "361"
- },
- "cepheus_ru_global": {
-  "name": "Mi 9 Russian",
-  "model": "CEPHEUSRUGlobal",
-  "pid": "361"
- },
  "chiron": {
   "name": "Mi MIX 2 China",
   "model": "MIMIX2",
   "pid": "337"
- },
- "chiron_global": {
-  "name": "Mi MIX 2 Global",
-  "model": "MIMIX2Global",
-  "pid": "334"
  },
  "clover": {
   "name": "Mi Pad 4 (Plus) China",
   "model": "MIPAD4",
   "pid": "349"
  },
- "daisy_global": {
-  "name": "Mi A2 Lite",
-  "model": "DAISYGlobal",
-  "pid": "354"
- },
  "davinci": {
   "name": "Redmi K20 China",
   "model": "DAVINCI",
   "pid": "360"
- },
- "davinci_global": {
-  "name": "Mi 9T Global",
-  "model": "DAVINCIGlobal",
-  "pid": "361"
- },
- "davinci_eea_global": {
-  "name": "Mi 9T EEA Global",
-  "model": "DAVINCIEEAGlobal",
-  "pid": "361"
- },
- "davinci_ru_global": {
-  "name": "Mi 9T EEA Russia",
-  "model": "DAVINCIRUGlobal",
-  "pid": "361"
- },
- "davinciin_in_global": {
-  "name": "Redmi K20 India",
-  "model": "DAVINCIININGlobal",
-  "pid": "361"
  },
  "dipper": {
   "name": "Mi 8 China",
@@ -149,145 +64,55 @@
   "model": "MI8UD",
   "pid": "345"
  },
- "equuleus_global": {
-  "name": "Mi 8 Pro Global",
-  "model": "MI8UDGlobal",
-  "pid": "346"
- },
  "grus": {
   "name": "Mi 9 SE China",
   "model": "GRUS",
   "pid": "358"
- },
- "grus_global": {
-  "name": "Mi 9 SE Global",
-  "model": "GRUSGlobal",
-  "pid": "361"
- },
- "grus_eea_global": {
-  "name": "Mi 9 SE EEA Global",
-  "model": "GRUSEEAGlobal",
-  "pid": "361"
  },
  "helium": {
   "name": "Mi Max Prime China",
   "model": "MIMAX652",
   "pid": "315"
  },
- "helium_global": {
-  "name": "Mi Max Prime Global",
-  "model": "MIMAX652Global",
-  "pid": "302"
- },
  "hydrogen": {
   "name": "Mi Max China",
   "model": "MIMAX",
   "pid": "315"
- },
- "hydrogen_global": {
-  "name": "Mi Max Global",
-  "model": "MIMAXGlobal",
-  "pid": "302"
- },
- "jasmine_global": {
-  "name": "Mi A2",
-  "model": "JASMINEGlobal",
-  "pid": "353"
  },
  "jason": {
   "name": "Mi Note 3 China",
   "model": "MINote3",
   "pid": "336"
  },
- "jason_global": {
-  "name": "Mi Note 3 Global",
-  "model": "MINote3Global",
-  "pid": "336"
- },
- "kate_global": {
-  "name": "Redmi Note 3 SE Global",
-  "model": "HMNote3ProtwGlobal",
-  "pid": "301"
- },
  "kenzo": {
   "name": "Redmi Note 3 China",
   "model": "HMNote3Pro",
   "pid": "308"
- },
- "kenzo_global": {
-  "name": "Redmi Note 3 Global",
-  "model": "HMNote3ProGlobal",
-  "pid": "301"
  },
  "land": {
   "name": "Redmi 3S China",
   "model": "HM3S",
   "pid": "316"
  },
- "land_global": {
-  "name": "Redmi 3S/Prime/3X Global",
-  "model": "HM3SGlobal",
-  "pid": "303"
- },
  "lavender": {
   "name": "Redmi Note 7 China",
   "model": "LAVENDER",
   "pid": "356"
- },
- "lavender_global": {
-  "name": "Redmi Note 7 Global",
-  "model": "LAVENDERGlobal",
-  "pid": "360"
- },
- "lavender_eea_global": {
-  "name": "Redmi Note 7 EEA Global",
-  "model": "LAVENDEREEAGlobal",
-  "pid": "360"
- },
- "lavender_in_global": {
-  "name": "Redmi Note 7 India",
-  "model": "LAVENDERINGlobal",
-  "pid": "360"
- },
- "lavender_ru_global": {
-  "name": "Redmi Note 7 Russian",
-  "model": "LAVENDERRUGlobal",
-  "pid": "360"
  },
  "lithium": {
   "name": "Mi MIX China",
   "model": "MIMIX",
   "pid": "323"
  },
- "lithium_global": {
-  "name": "Mi MIX Global",
-  "model": "MIMIXGlobal",
-  "pid": "317"
- },
  "lotus": {
   "name": "Mi Play China",
   "model": "MIPLAY",
   "pid": "355"
  },
- "lotus_global": {
-  "name": "Mi Play Global",
-  "model": "MIPLAYGlobal",
-  "pid": "362"
- },
- "lotus_ru_global": {
-  "name": "Mi Play Russian",
-  "model": "MIPLAYRUGlobal",
-  "pid": "362"
- },
  "markw": {
   "name": "Redmi 4 Prime China",
   "model": "HM4Pro",
   "pid": "324"
- },
- "markw_global": {
-  "name": "Redmi 4 Prime Global",
-  "model": "HM4ProGlobal",
-  "pid": "320"
  },
  "meri": {
   "name": "Mi 5C China",
@@ -299,70 +124,25 @@
   "model": "HMNote4X",
   "pid": "326"
  },
- "mido_global": {
-  "name": "Redmi Note 4 Global",
-  "model": "HMNote4XGlobal",
-  "pid": "321"
- },
  "natrium": {
   "name": "Mi 5s Plus China",
   "model": "MI5SPlus",
   "pid": "320"
- },
- "natrium_global": {
-  "name": "Mi 5s Plus Global",
-  "model": "MI5SPlusGlobal",
-  "pid": "315"
  },
  "nikel": {
   "name": "Redmi Note 4 MTK China",
   "model": "HMNote4",
   "pid": "318"
  },
- "nikel_global": {
-  "name": "Redmi Note 4 MTK Global",
-  "model": "HMNote4Global",
-  "pid": "309"
- },
  "nitrogen": {
   "name": "Mi Max 3 China",
   "model": "MIMAX3",
   "pid": "352"
  },
- "nitrogen_global": {
-  "name": "Mi Max 3 Global",
-  "model": "MIMAX3Global",
-  "pid": "351"
- },
- "nitrogen_ru_global": {
-  "name": "Mi Max 3 Russian",
-  "model": "NITROGENRUGlobal",
-  "pid": "351"
- },
  "onclite": {
   "name": "Redmi 7 China",
   "model": "ONCLITE",
   "pid": "348"
- },
- "onclite_global": {
-  "name": "Redmi 7 Global",
-  "model": "ONCLITEGlobal",
-  "pid": "366"
- },
- "onclite_eea_global": {
-  "name": "Redmi 7 EEA Global",
-  "model": "ONCLITEEEAGlobal",
-  "pid": "366"
- },
- "onclite_in_global": {
-  "name": "Redmi 7 India",
-  "model": "ONCLITEINGlobal",
-  "pid": ""
- },
- "onc_in_global": {
-  "name": "Redmi Y3 India",
-  "model": "ONCINGlobal",
-  "pid": "367"
  },
  "omega": {
   "name": "Redmi Pro China",
@@ -374,20 +154,10 @@
   "model": "MIMAX2",
   "pid": "331"
  },
- "oxygen_global": {
-  "name": "Mi Max 2 Global",
-  "model": "MIMAX2Global",
-  "pid": "328"
- },
  "perseus": {
   "name": "Mi MIX 3 China",
   "model": "MIMIX3",
   "pid": "354"
- },
- "perseus_global": {
-  "name": "Mi MIX 3 Global",
-  "model": "MIMIX3Global",
-  "pid": "357"
  },
  "pine": {
   "name": "Redmi 7A China",
@@ -399,40 +169,15 @@
   "model": "MI8Lite",
   "pid": "353"
  },
- "platina_global": {
-  "name": "Mi 8 Lite Global",
-  "model": "MI8LiteGlobal",
-  "pid": "346"
- },
- "platina_ru_global": {
-  "name": "Mi 8 Lite Russian",
-  "model": "PLATINARUGlobal",
-  "pid": "346"
- },
  "polaris": {
   "name": "Mi MIX 2S China",
   "model": "MIMIX2S",
   "pid": "342"
  },
- "polaris_global": {
-  "name": "Mi MIX 2S Global",
-  "model": "MIMIX2SGlobal",
-  "pid": "343"
- },
- "polaris_ru_global": {
-  "name": "Mi MIX 2S Russian",
-  "model": "MIMIX2SRUGlobal",
-  "pid": "343"
- },
  "prada": {
   "name": "Redmi 4 China",
   "model": "HM4",
   "pid": "324"
- },
- "prada_global": {
-  "name": "Redmi 4 Global",
-  "model": "HM4Global",
-  "pid": "318"
  },
   "raphael": {
   "name": "Redmi K20 Pro China",
@@ -444,100 +189,40 @@
   "model": "HM5A",
   "pid": "338"
  },
- "riva_global": {
-  "name": "Redmi 5A Global",
-  "model": "HM5AGlobal",
-  "pid": "338"
- },
  "rolex": {
   "name": "Redmi 4A China",
   "model": "HM4A",
   "pid": "325"
- },
- "rolex_global": {
-  "name": "Redmi 4A Global",
-  "model": "HM4AGlobal",
-  "pid": "319"
  },
  "rosy": {
   "name": "Redmi 5 China",
   "model": "HM5",
   "pid": "339"
  },
- "rosy_global": {
-  "name": "Redmi 5 Global",
-  "model": "HM5Global",
-  "pid": "340"
- },
- "rosy_ru_global": {
-  "name": "Redmi 5 Russian",
-  "model": "HM5RUGlobal",
-  "pid": "340"
- },
  "sagit": {
   "name": "Mi 6 China",
   "model": "MI6",
   "pid": "330"
- },
- "sagit_global": {
-  "name": "Mi 6 Global",
-  "model": "MI6Global",
-  "pid": "326"
  },
  "sakura": {
   "name": "Redmi 6 Pro China",
   "model": "HM6Pro",
   "pid": "351"
  },
- "sakura_india_global": {
-  "name": "Redmi 6 Pro India",
-  "model": "HM6ProINGlobal",
-  "pid": "349"
- },
  "santoni": {
   "name": "Redmi 4X China",
   "model": "HM4X",
   "pid": "328"
- },
- "santoni_global": {
-  "name": "Redmi 4X Global",
-  "model": "HM4XGlobal",
-  "pid": "323"
  },
  "scorpio": {
   "name": "Mi Note 2 China",
   "model": "MINote2",
   "pid": "321"
  },
- "scorpio_global": {
-  "name": "Mi Note 2 Global",
-  "model": "MINote2Global",
-  "pid": "316"
- },
  "sirius": {
   "name": "Mi 8 SE China",
   "model": "MI8SE",
   "pid": "346"
- },
- "tiare_eea_global": {
-  "name": "Redmi Go EEA Global",
-  "model": "TIAREEEAGlobal",
-  "pid": "365"
- },
- "tiare_global": {
-  "name": "Redmi Go Global",
-  "model": "TIAREGlobal",
-  "pid": "365"
- },
- "tiare_in_global": {
-  "name": "Redmi Go India",
-  "model": "TIAREINGlobal",
-  "pid": "365"
- },
- "tiare_ru_global": {
-  "name": "Redmi Go Russia",
-  "model": "TIARERUGlobal",
-  "pid": "365"
  },
  "tiffany": {
   "name": "Mi 5X China",
@@ -549,35 +234,15 @@
   "model": "TISSOT",
   "pid": "333"
  },
- "tulip_global": {
-  "name": "Redmi Note 6 Pro Global",
-  "model": "HMNote6ProGlobal",
-  "pid": "356"
- },
- "tulip_ru_global": {
-  "name": "Redmi Note 6 Pro Russian",
-  "model": "HMNote6ProRUGlobal",
-  "pid": "356"
- },
  "ugg": {
   "name": "Redmi Note 5A Prime China",
   "model": "HMNote5A",
   "pid": "335"
  },
- "ugg_global": {
-  "name": "Redmi Note 5A Prime Global",
-  "model": "HMNote5AGlobal",
-  "pid": "332"
- },
  "ugglite": {
   "name": "Redmi Note 5A (2GB) China",
   "model": "HMNote5ALITE",
   "pid": "335"
- },
- "ugglite_global": {
-  "name": "Redmi Note 5A Global",
-  "model": "HMNote5ALITEGlobal",
-  "pid": "332"
  },
  "ursa": {
   "name": "Mi 8 Explorer China",
@@ -589,25 +254,10 @@
   "model": "HM5Plus",
   "pid": "340"
  },
- "vince_global": {
-  "name": "Redmi 5 Plus Global / Note 5 India",
-  "model": "HM5PlusGlobal",
-  "pid": "340"
- },
- "vince_ru_global": {
-  "name": "Redmi 5 Plus Russian",
-  "model": "HM5PlusRUGlobal",
-  "pid": "340"
- },
  "violet": {
   "name": "Redmi Note 7 Pro China",
   "model": "VIOLET",
   "pid": "356"
- },
- "violet_in_global": {
-  "name": "Redmi Note 7 Pro India",
-  "model": "VIOLETINGlobal",
-  "pid": "360"
  },
  "wayne": {
   "name": "Mi 6X China",
@@ -619,29 +269,9 @@
   "model": "HMNote5",
   "pid": "341"
  },
- "whyred_global": {
-  "name": "Redmi Note 5 Global / 5 Pro India",
-  "model": "HMNote5Global",
-  "pid": "342"
- },
- "whyred_ru_global": {
-  "name": "Redmi Note 5 Russian",
-  "model": "HMNote5RUGlobal",
-  "pid": "342"
- },
  "ysl": {
   "name": "Redmi S2 China",
   "model": "HMS2",
   "pid": "347"
- },
- "ysl_global": {
-  "name": "Redmi S2/Y2 Global",
-  "model": "HMS2Global",
-  "pid": "345"
- },
- "ysl_ru_global": {
-  "name": "Redmi S2/Y2 Russian",
-  "model": "HMS2RUGlobal",
-  "pid": "345"
  }
 }

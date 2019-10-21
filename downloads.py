@@ -23,10 +23,7 @@ def fetch(codename, pid):
     :param pid: device pid on downloads site
     :return: roms - a list of links
     """
-    url = f'http://en.miui.com/download-{pid}.html'
-
-    if '_' not in codename:  # switch to china website if codename has no region
-        url = url.replace('en.', '')
+    url = f'http://miui.com/download-{pid}.html'
     try:
         response = requests.get(url)
     except requests.exceptions.ConnectionError:
@@ -103,14 +100,11 @@ def main():
     """
     fetched = {}
     print('Fetching latest downloads')
+    site = 'cn'
     for codename, info in DEVICES.items():
         if not info['pid']:
             continue
         pid = info['pid']
-        if 'China' in info['name']:
-            site = 'cn'
-        else:
-            site = 'en'
         if {pid_: region for pid_, region in fetched.items() if pid == pid_ and site == region}:
             continue
         roms = fetch(codename, pid)
