@@ -81,13 +81,13 @@
   "size": "1.7G"
  },
  {
-  "android": "8.1",
+  "android": "9.0",
   "codename": "cactus_global",
   "device": "Redmi 6A Global",
-  "download": "https://bigota.d.miui.com/V10.3.6.0.OCBMIXM/miui_HM6AGlobal_V10.3.6.0.OCBMIXM_48dad8ce05_8.1.zip",
-  "filename": "miui_HM6AGlobal_V10.3.6.0.OCBMIXM_48dad8ce05_8.1.zip",
-  "version": "V10.3.6.0.OCBMIXM",
-  "size": "1.2G"
+  "download": "https://bigota.d.miui.com/V10.4.4.0.PCBMIXM/miui_HM6AGlobal_V10.4.4.0.PCBMIXM_7b8c7f6a23_9.0.zip",
+  "filename": "miui_HM6AGlobal_V10.4.4.0.PCBMIXM_7b8c7f6a23_9.0.zip",
+  "version": "V10.4.4.0.PCBMIXM",
+  "size": "1.3G"
  },
  {
   "android": "8.1",
