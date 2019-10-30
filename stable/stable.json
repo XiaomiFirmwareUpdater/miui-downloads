@@ -264,9 +264,9 @@
   "android": "9.0",
   "codename": "ginkgo_global",
   "device": "Redmi Note 8 Global",
-  "download": "https://bigota.d.miui.com/V10.3.2.0.PCOMIXM/miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip",
-  "filename": "miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip",
-  "version": "V10.3.2.0.PCOMIXM",
+  "download": "https://bigota.d.miui.com/V10.3.5.0.PCOMIXM/miui_GINKGOGlobal_V10.3.5.0.PCOMIXM_b06466d774_9.0.zip",
+  "filename": "miui_GINKGOGlobal_V10.3.5.0.PCOMIXM_b06466d774_9.0.zip",
+  "version": "V10.3.5.0.PCOMIXM",
   "size": "1.8G"
  },
  {
@@ -570,10 +570,10 @@
   "android": "9.0",
   "codename": "onclite_eea_global",
   "device": "Redmi 7 EEA",
-  "download": "https://bigota.d.miui.com/V10.3.4.0.PFLEUXM/miui_ONCLITEEEAGlobal_V10.3.4.0.PFLEUXM_e6aa0ea182_9.0.zip",
-  "filename": "miui_ONCLITEEEAGlobal_V10.3.4.0.PFLEUXM_e6aa0ea182_9.0.zip",
-  "version": "V10.3.4.0.PFLEUXM",
-  "size": "1.6G"
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PFLEUXM/miui_ONCLITEEEAGlobal_V11.0.3.0.PFLEUXM_354f31965f_9.0.zip",
+  "filename": "miui_ONCLITEEEAGlobal_V11.0.3.0.PFLEUXM_354f31965f_9.0.zip",
+  "version": "V11.0.3.0.PFLEUXM",
+  "size": "1.7G"
  },
  {
   "android": "9.0",
