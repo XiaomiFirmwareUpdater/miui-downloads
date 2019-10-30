@@ -40,12 +40,12 @@
   "version": "V10.4.3.0.PCGCNXM"
  },
  {
-  "android": "8.0",
+  "android": "9.0",
   "codename": "chiron",
   "device": "Mi MIX 2 China",
-  "download": "http://bigota.d.miui.com/V10.3.1.0.ODECNXM/miui_MIMIX2_V10.3.1.0.ODECNXM_2fecb5a6ab_8.0.zip",
-  "filename": "miui_MIMIX2_V10.3.1.0.ODECNXM_2fecb5a6ab_8.0.zip",
-  "version": "V10.3.1.0.ODECNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.PDECNXM/miui_MIMIX2_V11.0.2.0.PDECNXM_8172246504_9.0.zip",
+  "filename": "miui_MIMIX2_V11.0.2.0.PDECNXM_8172246504_9.0.zip",
+  "version": "V11.0.2.0.PDECNXM"
  },
  {
   "android": "8.1",
@@ -131,9 +131,9 @@
   "android": "9.0",
   "codename": "lavender",
   "device": "Redmi Note 7 China",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.PFGCNXM/miui_LAVENDER_V10.3.4.0.PFGCNXM_93db02ebf6_9.0.zip",
-  "filename": "miui_LAVENDER_V10.3.4.0.PFGCNXM_93db02ebf6_9.0.zip",
-  "version": "V10.3.4.0.PFGCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.PFGCNXM/miui_LAVENDER_V11.0.3.0.PFGCNXM_ab65268313_9.0.zip",
+  "filename": "miui_LAVENDER_V11.0.3.0.PFGCNXM_ab65268313_9.0.zip",
+  "version": "V11.0.3.0.PFGCNXM"
  },
  {
   "android": "8.0",
