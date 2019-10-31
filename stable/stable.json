@@ -24,12 +24,12 @@
   "version": "V10.2.2.0.OAGCNXM"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "cepheus",
   "device": "Mi 9 China",
-  "download": "http://bigota.d.miui.com/V10.2.35.0.PFACNXM/miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip",
-  "filename": "miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip",
-  "version": "V10.2.35.0.PFACNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.QFACNXM/miui_CEPHEUS_V11.0.2.0.QFACNXM_eb6e5d0b57_10.0.zip",
+  "filename": "miui_CEPHEUS_V11.0.2.0.QFACNXM_eb6e5d0b57_10.0.zip",
+  "version": "V11.0.2.0.QFACNXM"
  },
  {
   "android": "9.0",
@@ -195,9 +195,9 @@
   "android": "9.0",
   "codename": "nitrogen",
   "device": "Mi Max 3 China",
-  "download": "http://bigota.d.miui.com/V11.0.2.0.PEDCNXM/miui_MIMAX3_V11.0.2.0.PEDCNXM_a3394bcd85_9.0.zip",
-  "filename": "miui_MIMAX3_V11.0.2.0.PEDCNXM_a3394bcd85_9.0.zip",
-  "version": "V11.0.2.0.PEDCNXM"
+  "download": "http://bigota.d.miui.com/V10.3.4.0.PEDCNXM/miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip",
+  "filename": "miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip",
+  "version": "V10.3.4.0.PEDCNXM"
  },
  {
   "android": "6.0",
@@ -264,12 +264,12 @@
   "version": "V10.2.2.0.MCECNXM"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "raphael",
   "device": "Redmi K20 Pro China",
-  "download": "http://bigota.d.miui.com/V10.3.17.0.PFKCNXM/miui_RAPHAEL_V10.3.17.0.PFKCNXM_ccf13bbd55_9.0.zip",
-  "filename": "miui_RAPHAEL_V10.3.17.0.PFKCNXM_ccf13bbd55_9.0.zip",
-  "version": "V10.3.17.0.PFKCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.QFKCNXM/miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip",
+  "filename": "miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip",
+  "version": "V11.0.2.0.QFKCNXM"
  },
  {
   "android": "8.1",
@@ -307,9 +307,9 @@
   "android": "9.0",
   "codename": "sakura",
   "device": "Redmi 6 Pro China",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.PDICNXM/miui_HM6Pro_V10.3.4.0.PDICNXM_dbb5b8a730_9.0.zip",
-  "filename": "miui_HM6Pro_V10.3.4.0.PDICNXM_dbb5b8a730_9.0.zip",
-  "version": "V10.3.4.0.PDICNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.PDICNXM/miui_HM6Pro_V11.0.3.0.PDICNXM_54e60c9a33_9.0.zip",
+  "filename": "miui_HM6Pro_V11.0.3.0.PDICNXM_54e60c9a33_9.0.zip",
+  "version": "V11.0.3.0.PDICNXM"
  },
  {
   "android": "7.1",
