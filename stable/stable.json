@@ -81,13 +81,13 @@
   "size": "1.7G"
  },
  {
-  "android": "8.1",
+  "android": "9.0",
   "codename": "cactus_global",
   "device": "Redmi 6A Global",
-  "download": "https://bigota.d.miui.com/V10.3.6.0.OCBMIXM/miui_HM6AGlobal_V10.3.6.0.OCBMIXM_48dad8ce05_8.1.zip",
-  "filename": "miui_HM6AGlobal_V10.3.6.0.OCBMIXM_48dad8ce05_8.1.zip",
-  "version": "V10.3.6.0.OCBMIXM",
-  "size": "1.2G"
+  "download": "https://bigota.d.miui.com/V10.4.4.0.PCBMIXM/miui_HM6AGlobal_V10.4.4.0.PCBMIXM_7b8c7f6a23_9.0.zip",
+  "filename": "miui_HM6AGlobal_V10.4.4.0.PCBMIXM_7b8c7f6a23_9.0.zip",
+  "version": "V10.4.4.0.PCBMIXM",
+  "size": "1.3G"
  },
  {
   "android": "8.1",
@@ -192,10 +192,10 @@
   "android": "9.0",
   "codename": "davinci_eea_global",
   "device": "Mi 9T EEA",
-  "download": "https://bigota.d.miui.com/V10.3.15.0.PFJEUXM/miui_DAVINCIEEAGlobal_V10.3.15.0.PFJEUXM_b6738621e2_9.0.zip",
-  "filename": "miui_DAVINCIEEAGlobal_V10.3.15.0.PFJEUXM_b6738621e2_9.0.zip",
-  "version": "V10.3.15.0.PFJEUXM",
-  "size": "2.1G"
+  "download": "https://bigota.d.miui.com/V11.0.2.0.PFJEUXM/miui_DAVINCIEEAGlobal_V11.0.2.0.PFJEUXM_e32b086df3_9.0.zip",
+  "filename": "miui_DAVINCIEEAGlobal_V11.0.2.0.PFJEUXM_e32b086df3_9.0.zip",
+  "version": "V11.0.2.0.PFJEUXM",
+  "size": "2.2G"
  },
  {
   "android": "9.0",
@@ -219,10 +219,10 @@
   "android": "9.0",
   "codename": "davinciin_in_global",
   "device": "Redmi K20 India",
-  "download": "https://bigota.d.miui.com/V10.3.8.0.PFJINXM/miui_DAVINCIININGlobal_V10.3.8.0.PFJINXM_207eaee662_9.0.zip",
-  "filename": "miui_DAVINCIININGlobal_V10.3.8.0.PFJINXM_207eaee662_9.0.zip",
-  "version": "V10.3.8.0.PFJINXM",
-  "size": "2.1G"
+  "download": "https://bigota.d.miui.com/V11.0.2.0.PFJINXM/miui_DAVINCIININGlobal_V11.0.2.0.PFJINXM_45b2a8ac93_9.0.zip",
+  "filename": "miui_DAVINCIININGlobal_V11.0.2.0.PFJINXM_45b2a8ac93_9.0.zip",
+  "version": "V11.0.2.0.PFJINXM",
+  "size": "2.2G"
  },
  {
   "android": "9.0",
@@ -264,9 +264,9 @@
   "android": "9.0",
   "codename": "ginkgo_global",
   "device": "Redmi Note 8 Global",
-  "download": "https://bigota.d.miui.com/V10.3.2.0.PCOMIXM/miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip",
-  "filename": "miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip",
-  "version": "V10.3.2.0.PCOMIXM",
+  "download": "https://bigota.d.miui.com/V10.3.5.0.PCOMIXM/miui_GINKGOGlobal_V10.3.5.0.PCOMIXM_b06466d774_9.0.zip",
+  "filename": "miui_GINKGOGlobal_V10.3.5.0.PCOMIXM_b06466d774_9.0.zip",
+  "version": "V10.3.5.0.PCOMIXM",
   "size": "1.8G"
  },
  {
@@ -552,9 +552,9 @@
   "android": "9.0",
   "codename": "olivelite_in_global",
   "device": "Redmi 8A India",
-  "download": "https://bigota.d.miui.com/V10.3.1.0.PCPINXM/miui_OLIVELITEINGlobal_V10.3.1.0.PCPINXM_cf5a4b94a3_9.0.zip",
-  "filename": "miui_OLIVELITEINGlobal_V10.3.1.0.PCPINXM_cf5a4b94a3_9.0.zip",
-  "version": "V10.3.1.0.PCPINXM",
+  "download": "https://bigota.d.miui.com/V10.3.3.0.PCPINXM/miui_OLIVELITEINGlobal_V10.3.3.0.PCPINXM_d2ca3db3eb_9.0.zip",
+  "filename": "miui_OLIVELITEINGlobal_V10.3.3.0.PCPINXM_d2ca3db3eb_9.0.zip",
+  "version": "V10.3.3.0.PCPINXM",
   "size": "1.6G"
  },
  {
@@ -570,10 +570,10 @@
   "android": "9.0",
   "codename": "onclite_eea_global",
   "device": "Redmi 7 EEA",
-  "download": "https://bigota.d.miui.com/V10.3.4.0.PFLEUXM/miui_ONCLITEEEAGlobal_V10.3.4.0.PFLEUXM_e6aa0ea182_9.0.zip",
-  "filename": "miui_ONCLITEEEAGlobal_V10.3.4.0.PFLEUXM_e6aa0ea182_9.0.zip",
-  "version": "V10.3.4.0.PFLEUXM",
-  "size": "1.6G"
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PFLEUXM/miui_ONCLITEEEAGlobal_V11.0.3.0.PFLEUXM_354f31965f_9.0.zip",
+  "filename": "miui_ONCLITEEEAGlobal_V11.0.3.0.PFLEUXM_354f31965f_9.0.zip",
+  "version": "V11.0.3.0.PFLEUXM",
+  "size": "1.7G"
  },
  {
   "android": "9.0",
@@ -786,9 +786,9 @@
   "android": "9.0",
   "codename": "sakura_india_global",
   "device": "Redmi 6 Pro Indian",
-  "download": "https://bigota.d.miui.com/V10.3.3.0.PDMMIXM/miui_HM6ProINGlobal_V10.3.3.0.PDMMIXM_e632cbefd0_9.0.zip",
-  "filename": "miui_HM6ProINGlobal_V10.3.3.0.PDMMIXM_e632cbefd0_9.0.zip",
-  "version": "V10.3.3.0.PDMMIXM",
+  "download": "https://bigota.d.miui.com/V10.3.8.0.PDMMIXM/miui_HM6ProINGlobal_V10.3.8.0.PDMMIXM_e536e6effd_9.0.zip",
+  "filename": "miui_HM6ProINGlobal_V10.3.8.0.PDMMIXM_e536e6effd_9.0.zip",
+  "version": "V10.3.8.0.PDMMIXM",
   "size": "1.6G"
  },
  {
