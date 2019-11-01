@@ -55,6 +55,15 @@
  },
  {
   "android": "9.0",
+  "codename": "begonia_global",
+  "device": "Redmi Note 8 Pro Global",
+  "download": "https://bigota.d.miui.com/V10.4.2.0.PGGMIXM/miui_BEGONIAGlobal_V10.4.2.0.PGGMIXM_2c8481c740_9.0.zip",
+  "filename": "miui_BEGONIAGlobal_V10.4.2.0.PGGMIXM_2c8481c740_9.0.zip",
+  "version": "V10.4.2.0.PGGMIXM",
+  "size": "1.9G"
+ },
+ {
+  "android": "9.0",
   "codename": "begonia_ru_global",
   "device": "Redmi Note 8 Pro RU",
   "download": "https://bigota.d.miui.com/V10.4.2.0.PGGRUXM/miui_BEGONIARUGlobal_V10.4.2.0.PGGRUXM_b1d2707ade_9.0.zip",
@@ -547,6 +556,42 @@
   "filename": "miui_NITROGENRUGlobal_V10.2.3.0.OEDRUXM_30c885910e_8.1.zip",
   "version": "V10.2.3.0.OEDRUXM",
   "size": "1.7G"
+ },
+ {
+  "android": "9.0",
+  "codename": "olive_eea_global",
+  "device": "Redmi 8 EEA",
+  "download": "https://bigota.d.miui.com/V10.3.2.0.PCNEUXM/miui_OLIVEEEAGlobal_V10.3.2.0.PCNEUXM_40f8b66bd5_9.0.zip",
+  "filename": "miui_OLIVEEEAGlobal_V10.3.2.0.PCNEUXM_40f8b66bd5_9.0.zip",
+  "version": "V10.3.2.0.PCNEUXM",
+  "size": "1.9G"
+ },
+ {
+  "android": "9.0",
+  "codename": "olive_global",
+  "device": "Redmi 8 Global",
+  "download": "https://bigota.d.miui.com/V10.3.3.0.PCNMIXM/miui_OLIVEGlobal_V10.3.3.0.PCNMIXM_b3c0ffa746_9.0.zip",
+  "filename": "miui_OLIVEGlobal_V10.3.3.0.PCNMIXM_b3c0ffa746_9.0.zip",
+  "version": "V10.3.3.0.PCNMIXM",
+  "size": "1.9G"
+ },
+ {
+  "android": "9.0",
+  "codename": "olivelite_eea_global",
+  "device": "Redmi 8A EEA",
+  "download": "https://bigota.d.miui.com/V10.3.3.0.PCPEUXM/miui_OLIVELITEEEAGlobal_V10.3.3.0.PCPEUXM_af97ad4db3_9.0.zip",
+  "filename": "miui_OLIVELITEEEAGlobal_V10.3.3.0.PCPEUXM_af97ad4db3_9.0.zip",
+  "version": "V10.3.3.0.PCPEUXM",
+  "size": "1.6G"
+ },
+ {
+  "android": "9.0",
+  "codename": "olivelite_global",
+  "device": "Redmi 8A Global",
+  "download": "https://bigota.d.miui.com/V10.3.3.0.PCPMIXM/miui_OLIVELITEGlobal_V10.3.3.0.PCPMIXM_37ee218dfc_9.0.zip",
+  "filename": "miui_OLIVELITEGlobal_V10.3.3.0.PCPMIXM_37ee218dfc_9.0.zip",
+  "version": "V10.3.3.0.PCPMIXM",
+  "size": "1.6G"
  },
  {
   "android": "9.0",
