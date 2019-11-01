@@ -577,6 +577,15 @@
  },
  {
   "android": "9.0",
+  "codename": "olive_in_global",
+  "device": "Redmi 8 India",
+  "download": "https://bigota.d.miui.com/V10.3.3.0.PCNINXM/miui_OLIVEINGlobal_V10.3.3.0.PCNINXM_06bcef5cfb_9.0.zip",
+  "filename": "miui_OLIVEINGlobal_V10.3.3.0.PCNINXM_06bcef5cfb_9.0.zip",
+  "version": "V10.3.3.0.PCNINXM",
+  "size": "1.8G"
+ },
+ {
+  "android": "9.0",
   "codename": "olivelite_eea_global",
   "device": "Redmi 8A EEA",
   "download": "https://bigota.d.miui.com/V10.3.3.0.PCPEUXM/miui_OLIVELITEEEAGlobal_V10.3.3.0.PCPEUXM_af97ad4db3_9.0.zip",
