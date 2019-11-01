@@ -34,6 +34,11 @@
   "model": "BEGONIAEEAGlobal",
   "id": "1900375"
  },
+ "begonia_global": {
+  "name": "Redmi Note 8 Pro Global",
+  "model": "BEGONIAGlobal",
+  "id": "1900375"
+ },
  "begonia_ru_global": {
   "name": "Redmi Note 8 Pro RU",
   "model": "BEGONIARUGlobal",
@@ -314,6 +319,26 @@
   "model": "NITROGENRUGlobal",
   "id": "1700351"
  },
+ "olive_eea_global": {
+  "name": "Redmi 8 EEA",
+  "model": "OLIVEEEAGlobal",
+  "id": "1900376"
+ },
+ "olive_global": {
+  "name": "Redmi 8 Global",
+  "model": "OLIVEGlobal",
+  "id": "1900376"
+ },
+ "olivelite_eea_global": {
+  "name": "Redmi 8A EEA",
+  "model": "OLIVELITEEEAGlobal",
+  "id": "1900376"
+ },
+ "olivelite_global": {
+  "name": "Redmi 8A Global",
+  "model": "OLIVELITEGlobal",
+  "id": "1900376"
+ },
  "olivelite_in_global": {
   "name": "Redmi 8A India",
   "model": "OLIVELITEINGlobal",
@@ -414,9 +439,9 @@
   "model": "RAPHAELEEAGlobal",
   "id": "1700361"
  },
- "raphael_global": {
-  "name": "Mi 9T Pro Global",
-  "model": "RAPHAELGlobal",
+ "raphael_ru_global": {
+  "name": "Mi 9T Pro Russia",
+  "model": "RAPHAELRUGlobal",
   "id": "1700361"
  },
  "raphaelin_in_global": {
