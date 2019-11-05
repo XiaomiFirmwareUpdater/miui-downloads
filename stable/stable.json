@@ -347,17 +347,17 @@
   "android": "7.1",
   "codename": "ugg",
   "device": "Redmi Note 5A Prime China",
-  "download": "http://bigota.d.miui.com/V10.3.2.0.NDKCNXM/miui_HMNote5A_V10.3.2.0.NDKCNXM_f313d19937_7.1.zip",
-  "filename": "miui_HMNote5A_V10.3.2.0.NDKCNXM_f313d19937_7.1.zip",
-  "version": "V10.3.2.0.NDKCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.1.0.NDKCNXM/miui_HMNote5A_V11.0.1.0.NDKCNXM_34686dccfa_7.1.zip",
+  "filename": "miui_HMNote5A_V11.0.1.0.NDKCNXM_34686dccfa_7.1.zip",
+  "version": "V11.0.1.0.NDKCNXM"
  },
  {
   "android": "7.1",
   "codename": "ugglite",
   "device": "Redmi Note 5A (2GB) China",
-  "download": "http://bigota.d.miui.com/V10.3.2.0.NDFCNXM/miui_HMNote5ALITE_V10.3.2.0.NDFCNXM_1db4fef31b_7.1.zip",
-  "filename": "miui_HMNote5ALITE_V10.3.2.0.NDFCNXM_1db4fef31b_7.1.zip",
-  "version": "V10.3.2.0.NDFCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.NDFCNXM/miui_HMNote5ALITE_V11.0.2.0.NDFCNXM_531a889895_7.1.zip",
+  "filename": "miui_HMNote5ALITE_V11.0.2.0.NDFCNXM_531a889895_7.1.zip",
+  "version": "V11.0.2.0.NDFCNXM"
  },
  {
   "android": "9.0",
