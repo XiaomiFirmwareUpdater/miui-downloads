@@ -66,18 +66,18 @@
   "android": "9.0",
   "codename": "begonia_ru_global",
   "device": "Redmi Note 8 Pro RU",
-  "download": "https://bigota.d.miui.com/V10.4.2.0.PGGRUXM/miui_BEGONIARUGlobal_V10.4.2.0.PGGRUXM_b1d2707ade_9.0.zip",
-  "filename": "miui_BEGONIARUGlobal_V10.4.2.0.PGGRUXM_b1d2707ade_9.0.zip",
-  "version": "V10.4.2.0.PGGRUXM",
+  "download": "https://bigota.d.miui.com/V10.4.3.0.PGGRUXM/miui_BEGONIARUGlobal_V10.4.3.0.PGGRUXM_97cfbb1273_9.0.zip",
+  "filename": "miui_BEGONIARUGlobal_V10.4.3.0.PGGRUXM_97cfbb1273_9.0.zip",
+  "version": "V10.4.3.0.PGGRUXM",
   "size": "1.9G"
  },
  {
   "android": "9.0",
   "codename": "beryllium_global",
   "device": "POCOPHONE F1 Global",
-  "download": "https://bigota.d.miui.com/V10.3.8.0.PEJMIXM/miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip",
-  "filename": "miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip",
-  "version": "V10.3.8.0.PEJMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PEJMIXM/miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip",
+  "filename": "miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip",
+  "version": "V11.0.5.0.PEJMIXM",
   "size": "1.8G"
  },
  {
@@ -135,22 +135,22 @@
   "size": "1.4G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "cepheus_eea_global",
   "device": "Mi 9 EEA",
-  "download": "https://bigota.d.miui.com/V10.2.30.0.PFAEUXM/miui_CEPHEUSEEAGlobal_V10.2.30.0.PFAEUXM_82c5904459_9.0.zip",
-  "filename": "miui_CEPHEUSEEAGlobal_V10.2.30.0.PFAEUXM_82c5904459_9.0.zip",
-  "version": "V10.2.30.0.PFAEUXM",
-  "size": "2.2G"
+  "download": "https://bigota.d.miui.com/V11.0.5.0.QFAEUXM/miui_CEPHEUSEEAGlobal_V11.0.5.0.QFAEUXM_b75c33b811_10.0.zip",
+  "filename": "miui_CEPHEUSEEAGlobal_V11.0.5.0.QFAEUXM_b75c33b811_10.0.zip",
+  "version": "V11.0.5.0.QFAEUXM",
+  "size": "2.3G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "cepheus_global",
   "device": "Mi 9 Global",
-  "download": "https://bigota.d.miui.com/V10.2.14.0.PFAMIXM/miui_CEPHEUSGlobal_V10.2.14.0.PFAMIXM_f17b321377_9.0.zip",
-  "filename": "miui_CEPHEUSGlobal_V10.2.14.0.PFAMIXM_f17b321377_9.0.zip",
-  "version": "V10.2.14.0.PFAMIXM",
-  "size": "2.2G"
+  "download": "https://bigota.d.miui.com/V11.0.2.0.QFAMIXM/miui_CEPHEUSGlobal_V11.0.2.0.QFAMIXM_38f824197c_10.0.zip",
+  "filename": "miui_CEPHEUSGlobal_V11.0.2.0.QFAMIXM_38f824197c_10.0.zip",
+  "version": "V11.0.2.0.QFAMIXM",
+  "size": "2.3G"
  },
  {
   "android": "9.0",
@@ -586,6 +586,15 @@
  },
  {
   "android": "9.0",
+  "codename": "olive_ru_global",
+  "device": "Redmi 8 RU",
+  "download": "https://bigota.d.miui.com/V10.3.3.0.PCNRUXM/miui_OLIVERUGlobal_V10.3.3.0.PCNRUXM_2feaf4a7cc_9.0.zip",
+  "filename": "miui_OLIVERUGlobal_V10.3.3.0.PCNRUXM_2feaf4a7cc_9.0.zip",
+  "version": "V10.3.3.0.PCNRUXM",
+  "size": "1.9G"
+ },
+ {
+  "android": "9.0",
   "codename": "olivelite_eea_global",
   "device": "Redmi 8A EEA",
   "download": "https://bigota.d.miui.com/V10.3.3.0.PCPEUXM/miui_OLIVELITEEEAGlobal_V10.3.3.0.PCPEUXM_af97ad4db3_9.0.zip",
@@ -609,6 +618,15 @@
   "download": "https://bigota.d.miui.com/V10.3.3.0.PCPINXM/miui_OLIVELITEINGlobal_V10.3.3.0.PCPINXM_d2ca3db3eb_9.0.zip",
   "filename": "miui_OLIVELITEINGlobal_V10.3.3.0.PCPINXM_d2ca3db3eb_9.0.zip",
   "version": "V10.3.3.0.PCPINXM",
+  "size": "1.6G"
+ },
+ {
+  "android": "9.0",
+  "codename": "olivelite_ru_global",
+  "device": "Redmi 8A RU",
+  "download": "https://bigota.d.miui.com/V10.3.3.0.PCPRUXM/miui_OLIVELITERUGlobal_V10.3.3.0.PCPRUXM_6bf7b382d6_9.0.zip",
+  "filename": "miui_OLIVELITERUGlobal_V10.3.3.0.PCPRUXM_6bf7b382d6_9.0.zip",
+  "version": "V10.3.3.0.PCPRUXM",
   "size": "1.6G"
  },
  {
