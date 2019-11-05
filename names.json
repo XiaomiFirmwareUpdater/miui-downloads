@@ -334,6 +334,11 @@
   "model": "OLIVEINGlobal",
   "id": "1900376"
  },
+ "olive_ru_global": {
+  "name": "Redmi 8 Russia",
+  "model": "OLIVERUGlobal",
+  "id": "1900376"
+ },
  "olivelite_eea_global": {
   "name": "Redmi 8A EEA",
   "model": "OLIVELITEEEAGlobal",
@@ -347,6 +352,11 @@
  "olivelite_in_global": {
   "name": "Redmi 8A India",
   "model": "OLIVELITEINGlobal",
+  "id": "1900376"
+ },
+ "olivelite_ru_global": {
+  "name": "Redmi 8A Russia",
+  "model": "OLIVELITERUGlobal",
   "id": "1900376"
  },
  "onc_in_global": {
