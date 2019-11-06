@@ -235,9 +235,9 @@
   "android": "9.0",
   "codename": "pine",
   "device": "Redmi 7A China",
-  "download": "http://bigota.d.miui.com/V10.2.14.0.PCMCNXM/miui_PINE_V10.2.14.0.PCMCNXM_fa762a99f7_9.0.zip",
-  "filename": "miui_PINE_V10.2.14.0.PCMCNXM_fa762a99f7_9.0.zip",
-  "version": "V10.2.14.0.PCMCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.1.0.PCMCNXM/miui_PINE_V11.0.1.0.PCMCNXM_94700e00ff_9.0.zip",
+  "filename": "miui_PINE_V11.0.1.0.PCMCNXM_94700e00ff_9.0.zip",
+  "version": "V11.0.1.0.PCMCNXM"
  },
  {
   "android": "9.0",
@@ -379,9 +379,9 @@
   "android": "9.0",
   "codename": "violet",
   "device": "Redmi Note 7 Pro China",
-  "download": "http://bigota.d.miui.com/V11.0.3.0.PFHCNXM/miui_VIOLET_V11.0.3.0.PFHCNXM_38ac3021fa_9.0.zip",
-  "filename": "miui_VIOLET_V11.0.3.0.PFHCNXM_38ac3021fa_9.0.zip",
-  "version": "V11.0.3.0.PFHCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.4.0.PFHCNXM/miui_VIOLET_V11.0.4.0.PFHCNXM_64c00b1368_9.0.zip",
+  "filename": "miui_VIOLET_V11.0.4.0.PFHCNXM_64c00b1368_9.0.zip",
+  "version": "V11.0.4.0.PFHCNXM"
  },
  {
   "android": "9.0",
