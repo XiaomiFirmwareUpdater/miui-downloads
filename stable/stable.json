@@ -210,10 +210,10 @@
   "android": "9.0",
   "codename": "davinci_global",
   "device": "Mi 9T Global",
-  "download": "https://bigota.d.miui.com/V10.3.11.0.PFJMIXM/miui_DAVINCIGlobal_V10.3.11.0.PFJMIXM_a63c8d3d93_9.0.zip",
-  "filename": "miui_DAVINCIGlobal_V10.3.11.0.PFJMIXM_a63c8d3d93_9.0.zip",
-  "version": "V10.3.11.0.PFJMIXM",
-  "size": "2.1G"
+  "download": "https://bigota.d.miui.com/V11.0.1.0.PFJMIXM/miui_DAVINCIGlobal_V11.0.1.0.PFJMIXM_de37c81233_9.0.zip",
+  "filename": "miui_DAVINCIGlobal_V11.0.1.0.PFJMIXM_de37c81233_9.0.zip",
+  "version": "V11.0.1.0.PFJMIXM",
+  "size": "2.2G"
  },
  {
   "android": "9.0",
@@ -246,10 +246,10 @@
   "android": "9.0",
   "codename": "dipper_ru_global",
   "device": "Mi 8 Russia",
-  "download": "https://bigota.d.miui.com/V10.1.3.0.PEARUXM/miui_MI8RUGlobal_V10.1.3.0.PEARUXM_3ca23f9cdd_9.0.zip",
-  "filename": "miui_MI8RUGlobal_V10.1.3.0.PEARUXM_3ca23f9cdd_9.0.zip",
-  "version": "V10.1.3.0.PEARUXM",
-  "size": "1.7G"
+  "download": "https://bigota.d.miui.com/V11.0.6.0.PEARUXM/miui_MI8RUGlobal_V11.0.6.0.PEARUXM_99fd810f76_9.0.zip",
+  "filename": "miui_MI8RUGlobal_V11.0.6.0.PEARUXM_99fd810f76_9.0.zip",
+  "version": "V11.0.6.0.PEARUXM",
+  "size": "1.9G"
  },
  {
   "android": "9.0",
@@ -720,22 +720,22 @@
   "size": "1.7G"
  },
  {
-  "android": "8.1",
+  "android": "9.0",
   "codename": "platina_ru_global",
   "device": "Mi 8 Lite Russia",
-  "download": "https://bigota.d.miui.com/V10.2.1.0.ODTRUXM/miui_PLATINARUGlobal_V10.2.1.0.ODTRUXM_d8a71a6ef4_8.1.zip",
-  "filename": "miui_PLATINARUGlobal_V10.2.1.0.ODTRUXM_d8a71a6ef4_8.1.zip",
-  "version": "V10.2.1.0.ODTRUXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PDTRUXM/miui_PLATINARUGlobal_V11.0.5.0.PDTRUXM_7cf5452571_9.0.zip",
+  "filename": "miui_PLATINARUGlobal_V11.0.5.0.PDTRUXM_7cf5452571_9.0.zip",
+  "version": "V11.0.5.0.PDTRUXM",
   "size": "1.7G"
  },
  {
   "android": "9.0",
   "codename": "polaris_global",
   "device": "Mi MIX 2S Global",
-  "download": "https://bigota.d.miui.com/V10.3.6.0.PDGMIXM/miui_MIMIX2SGlobal_V10.3.6.0.PDGMIXM_28cf3c6a67_9.0.zip",
-  "filename": "miui_MIMIX2SGlobal_V10.3.6.0.PDGMIXM_28cf3c6a67_9.0.zip",
-  "version": "V10.3.6.0.PDGMIXM",
-  "size": "1.8G"
+  "download": "https://bigota.d.miui.com/V11.0.4.0.PDGMIXM/miui_MIMIX2SGlobal_V11.0.4.0.PDGMIXM_a8d3e1096f_9.0.zip",
+  "filename": "miui_MIMIX2SGlobal_V11.0.4.0.PDGMIXM_a8d3e1096f_9.0.zip",
+  "version": "V11.0.4.0.PDGMIXM",
+  "size": "1.9G"
  },
  {
   "android": "8.0",
