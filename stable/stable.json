@@ -67,17 +67,17 @@
   "android": "9.0",
   "codename": "dipper",
   "device": "Mi 8 China",
-  "download": "http://bigota.d.miui.com/V11.0.3.0.PEACNXM/miui_MI8_V11.0.3.0.PEACNXM_56a5fadf39_9.0.zip",
-  "filename": "miui_MI8_V11.0.3.0.PEACNXM_56a5fadf39_9.0.zip",
-  "version": "V11.0.3.0.PEACNXM"
+  "download": "http://bigota.d.miui.com/V11.0.4.0.PEACNXM/miui_MI8_V11.0.4.0.PEACNXM_93fe86f258_9.0.zip",
+  "filename": "miui_MI8_V11.0.4.0.PEACNXM_93fe86f258_9.0.zip",
+  "version": "V11.0.4.0.PEACNXM"
  },
  {
   "android": "9.0",
   "codename": "equuleus",
   "device": "Mi 8 Pro China",
-  "download": "http://bigota.d.miui.com/V11.0.2.0.PECCNXM/miui_MI8UD_V11.0.2.0.PECCNXM_f25bf7dc55_9.0.zip",
-  "filename": "miui_MI8UD_V11.0.2.0.PECCNXM_f25bf7dc55_9.0.zip",
-  "version": "V11.0.2.0.PECCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.PECCNXM/miui_MI8UD_V11.0.3.0.PECCNXM_88e4eae066_9.0.zip",
+  "filename": "miui_MI8UD_V11.0.3.0.PECCNXM_88e4eae066_9.0.zip",
+  "version": "V11.0.3.0.PECCNXM"
  },
  {
   "android": "9.0",
@@ -251,9 +251,9 @@
   "android": "9.0",
   "codename": "polaris",
   "device": "Mi MIX 2S China",
-  "download": "http://bigota.d.miui.com/V11.0.2.0.PDGCNXM/miui_MIMIX2S_V11.0.2.0.PDGCNXM_3926e4c6ec_9.0.zip",
-  "filename": "miui_MIMIX2S_V11.0.2.0.PDGCNXM_3926e4c6ec_9.0.zip",
-  "version": "V11.0.2.0.PDGCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.PDGCNXM/miui_MIMIX2S_V11.0.3.0.PDGCNXM_fb0c7228bf_9.0.zip",
+  "filename": "miui_MIMIX2S_V11.0.3.0.PDGCNXM_fb0c7228bf_9.0.zip",
+  "version": "V11.0.3.0.PDGCNXM"
  },
  {
   "android": "6.0",
@@ -363,9 +363,9 @@
   "android": "9.0",
   "codename": "ursa",
   "device": "Mi 8 Explorer China",
-  "download": "http://bigota.d.miui.com/V11.0.2.0.PEHCNXM/miui_MI8Explorer_V11.0.2.0.PEHCNXM_d379552ffb_9.0.zip",
-  "filename": "miui_MI8Explorer_V11.0.2.0.PEHCNXM_d379552ffb_9.0.zip",
-  "version": "V11.0.2.0.PEHCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.PEHCNXM/miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip",
+  "filename": "miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip",
+  "version": "V11.0.3.0.PEHCNXM"
  },
  {
   "android": "8.1",
