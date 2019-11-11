@@ -219,9 +219,9 @@
   "android": "7.1",
   "codename": "oxygen",
   "device": "Mi Max 2 China",
-  "download": "http://bigota.d.miui.com/V10.3.1.0.NDDCNXM/miui_MIMAX2_V10.3.1.0.NDDCNXM_e4dbc2e566_7.1.zip",
-  "filename": "miui_MIMAX2_V10.3.1.0.NDDCNXM_e4dbc2e566_7.1.zip",
-  "version": "V10.3.1.0.NDDCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.NDDCNXM/miui_MIMAX2_V11.0.2.0.NDDCNXM_192ff3e011_7.1.zip",
+  "filename": "miui_MIMAX2_V11.0.2.0.NDDCNXM_192ff3e011_7.1.zip",
+  "version": "V11.0.2.0.NDDCNXM"
  },
  {
   "android": "9.0",
@@ -315,9 +315,9 @@
   "android": "7.1",
   "codename": "santoni",
   "device": "Redmi 4X China",
-  "download": "http://bigota.d.miui.com/V10.3.1.0.NAMCNXM/miui_HM4X_V10.3.1.0.NAMCNXM_99ef57f239_7.1.zip",
-  "filename": "miui_HM4X_V10.3.1.0.NAMCNXM_99ef57f239_7.1.zip",
-  "version": "V10.3.1.0.NAMCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.1.0.NAMCNXM/miui_HM4X_V11.0.1.0.NAMCNXM_7e7448fe6d_7.1.zip",
+  "filename": "miui_HM4X_V11.0.1.0.NAMCNXM_7e7448fe6d_7.1.zip",
+  "version": "V11.0.1.0.NAMCNXM"
  },
  {
   "android": "8.0",
@@ -395,9 +395,9 @@
   "android": "9.0",
   "codename": "whyred",
   "device": "Redmi Note 5 China",
-  "download": "http://bigota.d.miui.com/V10.3.5.0.PEICNXM/miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip",
-  "filename": "miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip",
-  "version": "V10.3.5.0.PEICNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.PEICNXM/miui_HMNote5_V11.0.2.0.PEICNXM_918af93cae_9.0.zip",
+  "filename": "miui_HMNote5_V11.0.2.0.PEICNXM_918af93cae_9.0.zip",
+  "version": "V11.0.2.0.PEICNXM"
  },
  {
   "android": "9.0",
