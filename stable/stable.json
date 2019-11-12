@@ -714,9 +714,9 @@
   "android": "9.0",
   "codename": "platina_global",
   "device": "Mi 8 Lite Global",
-  "download": "https://bigota.d.miui.com/V10.3.5.0.PDTMIXM/miui_MI8LiteGlobal_V10.3.5.0.PDTMIXM_afba6c987e_9.0.zip",
-  "filename": "miui_MI8LiteGlobal_V10.3.5.0.PDTMIXM_afba6c987e_9.0.zip",
-  "version": "V10.3.5.0.PDTMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PDTMIXM/miui_MI8LiteGlobal_V11.0.5.0.PDTMIXM_7464e6f6d2_9.0.zip",
+  "filename": "miui_MI8LiteGlobal_V11.0.5.0.PDTMIXM_7464e6f6d2_9.0.zip",
+  "version": "V11.0.5.0.PDTMIXM",
   "size": "1.7G"
  },
  {
@@ -783,13 +783,13 @@
   "size": "2.1G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "raphael_eea_global",
   "device": "Mi 9T Pro EEA",
-  "download": "https://bigota.d.miui.com/V10.3.4.0.PFKEUXM/miui_RAPHAELEEAGlobal_V10.3.4.0.PFKEUXM_964826982c_9.0.zip",
-  "filename": "miui_RAPHAELEEAGlobal_V10.3.4.0.PFKEUXM_964826982c_9.0.zip",
-  "version": "V10.3.4.0.PFKEUXM",
-  "size": "2.2G"
+  "download": "https://bigota.d.miui.com/V11.0.3.0.QFKEUXM/miui_RAPHAELEEAGlobal_V11.0.3.0.QFKEUXM_153f9511ae_10.0.zip",
+  "filename": "miui_RAPHAELEEAGlobal_V11.0.3.0.QFKEUXM_153f9511ae_10.0.zip",
+  "version": "V11.0.3.0.QFKEUXM",
+  "size": "2.3G"
  },
  {
   "android": "9.0",
@@ -831,9 +831,9 @@
   "android": "8.1",
   "codename": "rosy_global",
   "device": "Redmi 5 Global",
-  "download": "https://bigota.d.miui.com/V10.3.2.0.ODAMIXM/miui_HM5Global_V10.3.2.0.ODAMIXM_c9235681be_8.1.zip",
-  "filename": "miui_HM5Global_V10.3.2.0.ODAMIXM_c9235681be_8.1.zip",
-  "version": "V10.3.2.0.ODAMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.1.0.ODAMIXM/miui_HM5Global_V11.0.1.0.ODAMIXM_54e03286b9_8.1.zip",
+  "filename": "miui_HM5Global_V11.0.1.0.ODAMIXM_54e03286b9_8.1.zip",
+  "version": "V11.0.1.0.ODAMIXM",
   "size": "1.4G"
  },
  {
@@ -930,18 +930,18 @@
   "android": "7.1",
   "codename": "ugg_global",
   "device": "Redmi Note 5A Prime Global",
-  "download": "https://bigota.d.miui.com/V10.3.1.0.NDKMIXM/miui_HMNote5AGlobal_V10.3.1.0.NDKMIXM_060f945975_7.1.zip",
-  "filename": "miui_HMNote5AGlobal_V10.3.1.0.NDKMIXM_060f945975_7.1.zip",
-  "version": "V10.3.1.0.NDKMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.NDKMIXM/miui_HMNote5AGlobal_V11.0.2.0.NDKMIXM_dd519c8e33_7.1.zip",
+  "filename": "miui_HMNote5AGlobal_V11.0.2.0.NDKMIXM_dd519c8e33_7.1.zip",
+  "version": "V11.0.2.0.NDKMIXM",
   "size": "1.5G"
  },
  {
   "android": "7.1",
   "codename": "ugglite_global",
   "device": "Redmi Note 5A Global",
-  "download": "https://bigota.d.miui.com/V10.3.1.0.NDFMIXM/miui_HMNote5ALITEGlobal_V10.3.1.0.NDFMIXM_01c4a48be7_7.1.zip",
-  "filename": "miui_HMNote5ALITEGlobal_V10.3.1.0.NDFMIXM_01c4a48be7_7.1.zip",
-  "version": "V10.3.1.0.NDFMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.NDFMIXM/miui_HMNote5ALITEGlobal_V11.0.3.0.NDFMIXM_542160087b_7.1.zip",
+  "filename": "miui_HMNote5ALITEGlobal_V11.0.3.0.NDFMIXM_542160087b_7.1.zip",
+  "version": "V11.0.3.0.NDFMIXM",
   "size": "1.5G"
  },
  {
