@@ -471,9 +471,9 @@
   "android": "8.0",
   "codename": "lithium_global",
   "device": "Mi MIX Global",
-  "download": "https://bigota.d.miui.com/V10.2.1.0.OAHMIXM/miui_MIMIXGlobal_V10.2.1.0.OAHMIXM_25679d5790_8.0.zip",
-  "filename": "miui_MIMIXGlobal_V10.2.1.0.OAHMIXM_25679d5790_8.0.zip",
-  "version": "V10.2.1.0.OAHMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.OAHMIXM/miui_MIMIXGlobal_V11.0.2.0.OAHMIXM_6e058c6d8f_8.0.zip",
+  "filename": "miui_MIMIXGlobal_V11.0.2.0.OAHMIXM_6e058c6d8f_8.0.zip",
+  "version": "V11.0.2.0.OAHMIXM",
   "size": "1.51G"
  },
  {
@@ -615,10 +615,10 @@
   "android": "9.0",
   "codename": "olivelite_in_global",
   "device": "Redmi 8A India",
-  "download": "https://bigota.d.miui.com/V10.3.3.0.PCPINXM/miui_OLIVELITEINGlobal_V10.3.3.0.PCPINXM_d2ca3db3eb_9.0.zip",
-  "filename": "miui_OLIVELITEINGlobal_V10.3.3.0.PCPINXM_d2ca3db3eb_9.0.zip",
-  "version": "V10.3.3.0.PCPINXM",
-  "size": "1.6G"
+  "download": "https://bigota.d.miui.com/V11.0.1.0.PCPINXM/miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip",
+  "filename": "miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip",
+  "version": "V11.0.1.0.PCPINXM",
+  "size": "1.7G"
  },
  {
   "android": "9.0",
@@ -840,10 +840,10 @@
   "android": "8.1",
   "codename": "rosy_ru_global",
   "device": "Redmi 5 Russia",
-  "download": "https://bigota.d.miui.com/V10.3.1.0.ODARUXM/miui_HM5RUGlobal_V10.3.1.0.ODARUXM_5feafbeb4e_8.1.zip",
-  "filename": "miui_HM5RUGlobal_V10.3.1.0.ODARUXM_5feafbeb4e_8.1.zip",
-  "version": "V10.3.1.0.ODARUXM",
-  "size": "1.3G"
+  "download": "https://bigota.d.miui.com/V11.0.1.0.ODARUXM/miui_HM5RUGlobal_V11.0.1.0.ODARUXM_0fe3699e6f_8.1.zip",
+  "filename": "miui_HM5RUGlobal_V11.0.1.0.ODARUXM_0fe3699e6f_8.1.zip",
+  "version": "V11.0.1.0.ODARUXM",
+  "size": "1.4G"
  },
  {
   "android": "9.0",
@@ -876,9 +876,9 @@
   "android": "8.0",
   "codename": "scorpio_global",
   "device": "Mi Note 2 Global",
-  "download": "https://bigota.d.miui.com/V10.2.1.0.OADMIXM/miui_MINote2Global_V10.2.1.0.OADMIXM_168d567062_8.0.zip",
-  "filename": "miui_MINote2Global_V10.2.1.0.OADMIXM_168d567062_8.0.zip",
-  "version": "V10.2.1.0.OADMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.OADMIXM/miui_MINote2Global_V11.0.2.0.OADMIXM_6353b7fa7e_8.0.zip",
+  "filename": "miui_MINote2Global_V11.0.2.0.OADMIXM_6353b7fa7e_8.0.zip",
+  "version": "V11.0.2.0.OADMIXM",
   "size": "1.5G"
  },
  {
@@ -981,12 +981,12 @@
   "size": "1.6G"
  },
  {
-  "android": "8.1",
+  "android": "9.0",
   "codename": "whyred_ru_global",
   "device": "Redmi Note 5 Russia",
-  "download": "https://bigota.d.miui.com/V10.3.1.0.OEIRUXM/miui_HMNote5RUGlobal_V10.3.1.0.OEIRUXM_8bcdf96179_8.1.zip",
-  "filename": "miui_HMNote5RUGlobal_V10.3.1.0.OEIRUXM_8bcdf96179_8.1.zip",
-  "version": "V10.3.1.0.OEIRUXM",
+  "download": "https://bigota.d.miui.com/V11.0.1.0.PEIRUXM/miui_HMNote5RUGlobal_V11.0.1.0.PEIRUXM_d5db2891d8_9.0.zip",
+  "filename": "miui_HMNote5RUGlobal_V11.0.1.0.PEIRUXM_d5db2891d8_9.0.zip",
+  "version": "V11.0.1.0.PEIRUXM",
   "size": "1.7G"
  },
  {
