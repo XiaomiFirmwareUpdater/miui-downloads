@@ -3,9 +3,9 @@
   "android": "9.0",
   "codename": "cactus",
   "device": "Redmi 6A China",
-  "download": "http://bigota.d.miui.com/V10.4.4.0.PCBCNXM/miui_HM6A_V10.4.4.0.PCBCNXM_bc994c3619_9.0.zip",
-  "filename": "miui_HM6A_V10.4.4.0.PCBCNXM_bc994c3619_9.0.zip",
-  "version": "V10.4.4.0.PCBCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.4.0.PCBCNXM/miui_HM6A_V11.0.4.0.PCBCNXM_8e0eba0f64_9.0.zip",
+  "filename": "miui_HM6A_V11.0.4.0.PCBCNXM_8e0eba0f64_9.0.zip",
+  "version": "V11.0.4.0.PCBCNXM"
  },
  {
   "android": "7.0",
@@ -291,9 +291,9 @@
   "android": "8.1",
   "codename": "rosy",
   "device": "Redmi 5 China",
-  "download": "http://bigota.d.miui.com/V10.3.3.0.ODACNXM/miui_HM5_V10.3.3.0.ODACNXM_c9b69061c6_8.1.zip",
-  "filename": "miui_HM5_V10.3.3.0.ODACNXM_c9b69061c6_8.1.zip",
-  "version": "V10.3.3.0.ODACNXM"
+  "download": "http://bigota.d.miui.com/V11.0.1.0.ODACNXM/miui_HM5_V11.0.1.0.ODACNXM_8972c44138_8.1.zip",
+  "filename": "miui_HM5_V11.0.1.0.ODACNXM_8972c44138_8.1.zip",
+  "version": "V11.0.1.0.ODACNXM"
  },
  {
   "android": "9.0",
@@ -323,9 +323,9 @@
   "android": "8.0",
   "codename": "scorpio",
   "device": "Mi Note 2 China",
-  "download": "http://bigota.d.miui.com/V10.2.1.0.OADCNFK/miui_MINote2_V10.2.1.0.OADCNFK_cebfab5bf7_8.0.zip",
-  "filename": "miui_MINote2_V10.2.1.0.OADCNFK_cebfab5bf7_8.0.zip",
-  "version": "V10.2.1.0.OADCNFK"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.OADCNXM/miui_MINote2_V11.0.2.0.OADCNXM_7224e431a4_8.0.zip",
+  "filename": "miui_MINote2_V11.0.2.0.OADCNXM_7224e431a4_8.0.zip",
+  "version": "V11.0.2.0.OADCNXM"
  },
  {
   "android": "9.0",
@@ -339,9 +339,9 @@
   "android": "8.1",
   "codename": "tiffany",
   "device": "Mi 5X China",
-  "download": "http://bigota.d.miui.com/V10.3.2.0.ODBCNXM/miui_MI5X_V10.3.2.0.ODBCNXM_9f034804a8_8.1.zip",
-  "filename": "miui_MI5X_V10.3.2.0.ODBCNXM_9f034804a8_8.1.zip",
-  "version": "V10.3.2.0.ODBCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.ODBCNXM/miui_MI5X_V11.0.2.0.ODBCNXM_909421a08e_8.1.zip",
+  "filename": "miui_MI5X_V11.0.2.0.ODBCNXM_909421a08e_8.1.zip",
+  "version": "V11.0.2.0.ODBCNXM"
  },
  {
   "android": "7.1",
