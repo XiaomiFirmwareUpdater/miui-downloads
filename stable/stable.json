@@ -381,9 +381,9 @@
   "android": "9.0",
   "codename": "jason_global",
   "device": "Mi Note 3 Global",
-  "download": "https://bigota.d.miui.com/V10.4.2.0.PCHMIXM/miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip",
-  "filename": "miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip",
-  "version": "V10.4.2.0.PCHMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PCHMIXM/miui_MINote3Global_V11.0.3.0.PCHMIXM_c980ddca40_9.0.zip",
+  "filename": "miui_MINote3Global_V11.0.3.0.PCHMIXM_c980ddca40_9.0.zip",
+  "version": "V11.0.3.0.PCHMIXM",
   "size": "1.7G"
  },
  {
@@ -696,10 +696,10 @@
   "android": "9.0",
   "codename": "pine_global",
   "device": "Redmi 7A Global",
-  "download": "https://bigota.d.miui.com/V10.2.5.0.PCMMIXM/miui_PINEGlobal_V10.2.5.0.PCMMIXM_7380681456_9.0.zip",
-  "filename": "miui_PINEGlobal_V10.2.5.0.PCMMIXM_7380681456_9.0.zip",
-  "version": "V10.2.5.0.PCMMIXM",
-  "size": "1.4G"
+  "download": "https://bigota.d.miui.com/V11.0.4.0.PCMMIXM/miui_PINEGlobal_V11.0.4.0.PCMMIXM_674ed79f0b_9.0.zip",
+  "filename": "miui_PINEGlobal_V11.0.4.0.PCMMIXM_674ed79f0b_9.0.zip",
+  "version": "V11.0.4.0.PCMMIXM",
+  "size": "1.5G"
  },
  {
   "android": "9.0",
@@ -858,10 +858,10 @@
   "android": "9.0",
   "codename": "sakura_india_global",
   "device": "Redmi 6 Pro Indian",
-  "download": "https://bigota.d.miui.com/V10.3.8.0.PDMMIXM/miui_HM6ProINGlobal_V10.3.8.0.PDMMIXM_e536e6effd_9.0.zip",
-  "filename": "miui_HM6ProINGlobal_V10.3.8.0.PDMMIXM_e536e6effd_9.0.zip",
-  "version": "V10.3.8.0.PDMMIXM",
-  "size": "1.6G"
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PDMMIXM/miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip",
+  "filename": "miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip",
+  "version": "V11.0.3.0.PDMMIXM",
+  "size": "1.7G"
  },
  {
   "android": "7.1",
