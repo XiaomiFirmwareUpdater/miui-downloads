@@ -107,9 +107,9 @@
   "android": "9.0",
   "codename": "jason",
   "device": "Mi Note 3 China",
-  "download": "http://bigota.d.miui.com/V10.4.2.0.PCHCNXM/miui_MINote3_V10.4.2.0.PCHCNXM_14b856e369_9.0.zip",
-  "filename": "miui_MINote3_V10.4.2.0.PCHCNXM_14b856e369_9.0.zip",
-  "version": "V10.4.2.0.PCHCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.PCHCNXM/miui_MINote3_V11.0.2.0.PCHCNXM_a6755ad154_9.0.zip",
+  "filename": "miui_MINote3_V11.0.2.0.PCHCNXM_a6755ad154_9.0.zip",
+  "version": "V11.0.2.0.PCHCNXM"
  },
  {
   "android": "6.0",
@@ -139,9 +139,9 @@
   "android": "8.0",
   "codename": "lithium",
   "device": "Mi MIX China",
-  "download": "http://bigota.d.miui.com/V10.2.1.0.OAHCNFK/miui_MIMIX_V10.2.1.0.OAHCNFK_90b6156a40_8.0.zip",
-  "filename": "miui_MIMIX_V10.2.1.0.OAHCNFK_90b6156a40_8.0.zip",
-  "version": "V10.2.1.0.OAHCNFK"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.OAHCNXM/miui_MIMIX_V11.0.2.0.OAHCNXM_4b2fbb5687_8.0.zip",
+  "filename": "miui_MIMIX_V11.0.2.0.OAHCNXM_4b2fbb5687_8.0.zip",
+  "version": "V11.0.2.0.OAHCNXM"
  },
  {
   "android": "8.1",
@@ -179,9 +179,9 @@
   "android": "8.0",
   "codename": "natrium",
   "device": "Mi 5s Plus China",
-  "download": "http://bigota.d.miui.com/V10.2.2.0.OBGCNXM/miui_MI5SPlus_V10.2.2.0.OBGCNXM_fbf6314396_8.0.zip",
-  "filename": "miui_MI5SPlus_V10.2.2.0.OBGCNXM_fbf6314396_8.0.zip",
-  "version": "V10.2.2.0.OBGCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.OBGCNXM/miui_MI5SPlus_V11.0.2.0.OBGCNXM_a423c56184_8.0.zip",
+  "filename": "miui_MI5SPlus_V11.0.2.0.OBGCNXM_a423c56184_8.0.zip",
+  "version": "V11.0.2.0.OBGCNXM"
  },
  {
   "android": "6.0",
