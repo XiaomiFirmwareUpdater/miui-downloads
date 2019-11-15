@@ -35,9 +35,9 @@
   "android": "9.0",
   "codename": "cereus",
   "device": "Redmi 6 China",
-  "download": "http://bigota.d.miui.com/V10.4.3.0.PCGCNXM/miui_HM6_V10.4.3.0.PCGCNXM_5149257674_9.0.zip",
-  "filename": "miui_HM6_V10.4.3.0.PCGCNXM_5149257674_9.0.zip",
-  "version": "V10.4.3.0.PCGCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.PCGCNXM/miui_HM6_V11.0.3.0.PCGCNXM_6b13efe095_9.0.zip",
+  "filename": "miui_HM6_V11.0.3.0.PCGCNXM_6b13efe095_9.0.zip",
+  "version": "V11.0.3.0.PCGCNXM"
  },
  {
   "android": "9.0",
@@ -147,9 +147,9 @@
   "android": "8.1",
   "codename": "lotus",
   "device": "Mi Play China",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.OFICNXM/miui_MIPLAY_V10.3.4.0.OFICNXM_b24f7caf65_8.1.zip",
-  "filename": "miui_MIPLAY_V10.3.4.0.OFICNXM_b24f7caf65_8.1.zip",
-  "version": "V10.3.4.0.OFICNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.OFICNXM/miui_MIPLAY_V11.0.2.0.OFICNXM_65549c8604_8.1.zip",
+  "filename": "miui_MIPLAY_V11.0.2.0.OFICNXM_65549c8604_8.1.zip",
+  "version": "V11.0.2.0.OFICNXM"
  },
  {
   "android": "6.0",
@@ -275,9 +275,9 @@
   "android": "8.1",
   "codename": "riva",
   "device": "Redmi 5A China",
-  "download": "http://bigota.d.miui.com/V10.3.2.0.OCKCNXM/miui_HM5A_V10.3.2.0.OCKCNXM_3b96f7e49b_8.1.zip",
-  "filename": "miui_HM5A_V10.3.2.0.OCKCNXM_3b96f7e49b_8.1.zip",
-  "version": "V10.3.2.0.OCKCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.OCKCNXM/miui_HM5A_V11.0.2.0.OCKCNXM_2019238fe9_8.1.zip",
+  "filename": "miui_HM5A_V11.0.2.0.OCKCNXM_2019238fe9_8.1.zip",
+  "version": "V11.0.2.0.OCKCNXM"
  },
  {
   "android": "6.0",
@@ -371,9 +371,9 @@
   "android": "8.1",
   "codename": "vince",
   "device": "Redmi 5 Plus China",
-  "download": "http://bigota.d.miui.com/V10.3.2.0.OEGCNXM/miui_HM5Plus_V10.3.2.0.OEGCNXM_156e7d5f6c_8.1.zip",
-  "filename": "miui_HM5Plus_V10.3.2.0.OEGCNXM_156e7d5f6c_8.1.zip",
-  "version": "V10.3.2.0.OEGCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.OEGCNXM/miui_HM5Plus_V11.0.2.0.OEGCNXM_972a72bf51_8.1.zip",
+  "filename": "miui_HM5Plus_V11.0.2.0.OEGCNXM_972a72bf51_8.1.zip",
+  "version": "V11.0.2.0.OEGCNXM"
  },
  {
   "android": "9.0",
