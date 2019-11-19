@@ -498,10 +498,10 @@
   "android": "8.1",
   "codename": "lotus_ru_global",
   "device": "Mi Play RU",
-  "download": "https://bigota.d.miui.com/V10.2.4.0.OFIRUXM/miui_MIPLAYRUGlobal_V10.2.4.0.OFIRUXM_8d75f47f0e_8.1.zip",
-  "filename": "miui_MIPLAYRUGlobal_V10.2.4.0.OFIRUXM_8d75f47f0e_8.1.zip",
-  "version": "V10.2.4.0.OFIRUXM",
-  "size": "1.4G"
+  "download": "https://bigota.d.miui.com/V11.0.1.0.OFIRUXM/miui_MIPLAYRUGlobal_V11.0.1.0.OFIRUXM_7006766733_8.1.zip",
+  "filename": "miui_MIPLAYRUGlobal_V11.0.1.0.OFIRUXM_7006766733_8.1.zip",
+  "version": "V11.0.1.0.OFIRUXM",
+  "size": "1.5G"
  },
  {
   "android": "6.0",
@@ -516,9 +516,9 @@
   "android": "7.0",
   "codename": "mido_global",
   "device": "Redmi Note 4X Global",
-  "download": "https://bigota.d.miui.com/V10.2.3.0.NCFMIXM/miui_HMNote4XGlobal_V10.2.3.0.NCFMIXM_e1a82195b6_7.0.zip",
-  "filename": "miui_HMNote4XGlobal_V10.2.3.0.NCFMIXM_e1a82195b6_7.0.zip",
-  "version": "V10.2.3.0.NCFMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.NCFMIXM/miui_HMNote4XGlobal_V11.0.2.0.NCFMIXM_83170d3e3a_7.0.zip",
+  "filename": "miui_HMNote4XGlobal_V11.0.2.0.NCFMIXM_83170d3e3a_7.0.zip",
+  "version": "V11.0.2.0.NCFMIXM",
   "size": "1.5G"
  },
  {
@@ -975,10 +975,10 @@
   "android": "9.0",
   "codename": "whyred_global",
   "device": "Redmi Note 5 Global",
-  "download": "https://bigota.d.miui.com/V10.3.2.0.PEIMIXM/miui_HMNote5Global_V10.3.2.0.PEIMIXM_7d750f3322_9.0.zip",
-  "filename": "miui_HMNote5Global_V10.3.2.0.PEIMIXM_7d750f3322_9.0.zip",
-  "version": "V10.3.2.0.PEIMIXM",
-  "size": "1.6G"
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PEIMIXM/miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
+  "filename": "miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
+  "version": "V11.0.3.0.PEIMIXM",
+  "size": "1.7G"
  },
  {
   "android": "9.0",
