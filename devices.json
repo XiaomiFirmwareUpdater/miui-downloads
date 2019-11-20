@@ -94,6 +94,11 @@
   "model": "HM3S",
   "pid": "316"
  },
+ "laurus": {
+  "name": "Mi CC 9e China",
+  "model": "LAURUS",
+  "pid": "361"
+ },
  "lavender": {
   "name": "Redmi Note 7 China",
   "model": "LAVENDER",
@@ -163,6 +168,11 @@
   "name": "Redmi 7A China",
   "model": "PINE",
   "pid": "348"
+ },
+ "pyxis": {
+  "name": "Mi CC 9 China",
+  "model": "PYXIS",
+  "pid": "361"
  },
  "platina": {
   "name": "Mi 8 Lite China",
@@ -234,6 +244,11 @@
   "model": "TISSOT",
   "pid": "333"
  },
+ "tucana": {
+  "name": "Mi CC 9 Pro China",
+  "model": "TUCANA",
+  "pid": "361"
+ },
  "ugg": {
   "name": "Redmi Note 5A Prime China",
   "model": "HMNote5A",
@@ -248,6 +263,11 @@
   "name": "Mi 8 Explorer China",
   "model": "MI8Explorer",
   "pid": "345"
+ },
+ "vela": {
+  "name": "Mi CC 9 Meitu China",
+  "model": "VELA",
+  "pid": "361"
  },
  "vince": {
   "name": "Redmi 5 Plus China",
