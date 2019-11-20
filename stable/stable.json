@@ -129,6 +129,14 @@
  },
  {
   "android": "9.0",
+  "codename": "laurus",
+  "device": "Mi CC 9e China",
+  "download": "http://bigota.d.miui.com/V11.0.2.0.PFMCNXM/miui_LAURUS_V11.0.2.0.PFMCNXM_09f596a24c_9.0.zip",
+  "filename": "miui_LAURUS_V11.0.2.0.PFMCNXM_09f596a24c_9.0.zip",
+  "version": "V11.0.2.0.PFMCNXM"
+ },
+ {
+  "android": "9.0",
   "codename": "lavender",
   "device": "Redmi Note 7 China",
   "download": "http://bigota.d.miui.com/V11.0.3.0.PFGCNXM/miui_LAVENDER_V11.0.3.0.PFGCNXM_ab65268313_9.0.zip",
@@ -264,6 +272,14 @@
   "version": "V10.2.2.0.MCECNXM"
  },
  {
+  "android": "9.0",
+  "codename": "pyxis",
+  "device": "Mi CC 9 China",
+  "download": "http://bigota.d.miui.com/V11.3.2.0.PFCCNXM/miui_PYXIS_V11.3.2.0.PFCCNXM_fafea063c1_9.0.zip",
+  "filename": "miui_PYXIS_V11.3.2.0.PFCCNXM_fafea063c1_9.0.zip",
+  "version": "V11.3.2.0.PFCCNXM"
+ },
+ {
   "android": "10.0",
   "codename": "raphael",
   "device": "Redmi K20 Pro China",
@@ -344,6 +360,14 @@
   "version": "V11.0.2.0.ODBCNXM"
  },
  {
+  "android": "9.0",
+  "codename": "tucana",
+  "device": "Mi CC 9 Pro China",
+  "download": "http://bigota.d.miui.com/V11.0.3.0.PFDCNXM/miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip",
+  "filename": "miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip",
+  "version": "V11.0.3.0.PFDCNXM"
+ },
+ {
   "android": "7.1",
   "codename": "ugg",
   "device": "Redmi Note 5A Prime China",
@@ -366,6 +390,14 @@
   "download": "http://bigota.d.miui.com/V11.0.3.0.PEHCNXM/miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip",
   "filename": "miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip",
   "version": "V11.0.3.0.PEHCNXM"
+ },
+ {
+  "android": "9.0",
+  "codename": "vela",
+  "device": "Mi CC 9 Meitu China",
+  "download": "http://bigota.d.miui.com/V11.3.1.0.PFECNXM/miui_VELA_V11.3.1.0.PFECNXM_51cd61f80d_9.0.zip",
+  "filename": "miui_VELA_V11.3.1.0.PFECNXM_51cd61f80d_9.0.zip",
+  "version": "V11.3.1.0.PFECNXM"
  },
  {
   "android": "8.1",
