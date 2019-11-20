@@ -669,10 +669,10 @@
   "android": "9.0",
   "codename": "perseus_global",
   "device": "Mi MIX 3 Global",
-  "download": "https://bigota.d.miui.com/V10.3.3.0.PEEMIXM/miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip",
-  "filename": "miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip",
-  "version": "V10.3.3.0.PEEMIXM",
-  "size": "1.9G"
+  "download": "https://bigota.d.miui.com/V11.0.4.0.PEEMIXM/miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip",
+  "filename": "miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip",
+  "version": "V11.0.4.0.PEEMIXM",
+  "size": "2.0G"
  },
  {
   "android": "9.0",
@@ -1029,10 +1029,10 @@
   "android": "9.0",
   "codename": "ysl_global",
   "device": "Redmi S2/Y2 Global",
-  "download": "https://bigota.d.miui.com/V10.3.3.0.PEFMIXM/miui_HMS2Global_V10.3.3.0.PEFMIXM_340dd43b5c_9.0.zip",
-  "filename": "miui_HMS2Global_V10.3.3.0.PEFMIXM_340dd43b5c_9.0.zip",
-  "version": "V10.3.3.0.PEFMIXM",
-  "size": "1.4G"
+  "download": "https://bigota.d.miui.com/V11.0.2.0.PEFMIXM/miui_HMS2Global_V11.0.2.0.PEFMIXM_9b41feaa9c_9.0.zip",
+  "filename": "miui_HMS2Global_V11.0.2.0.PEFMIXM_9b41feaa9c_9.0.zip",
+  "version": "V11.0.2.0.PEFMIXM",
+  "size": "1.5G"
  },
  {
   "android": "9.0",
