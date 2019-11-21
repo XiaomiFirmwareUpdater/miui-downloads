@@ -4,6 +4,11 @@
   "model": "ANDROMEDA",
   "pid": ""
  },
+ "begonia": {
+  "name": "Redmi Note 8 Pro China",
+  "model": "BEGONIA",
+  "pid": "363"
+ },
  "cactus": {
   "name": "Redmi 6A China",
   "model": "HM6A",
@@ -63,6 +68,11 @@
   "name": "Mi 8 Pro China",
   "model": "MI8UD",
   "pid": "345"
+ },
+ "ginkgo": {
+  "name": "Redmi Note 8 China",
+  "model": "GINKGO",
+  "pid": "363"
  },
  "grus": {
   "name": "Mi 9 SE China",
@@ -143,6 +153,16 @@
   "name": "Mi Max 3 China",
   "model": "MIMAX3",
   "pid": "352"
+ },
+ "olive": {
+  "name": "Redmi 8 China",
+  "model": "OLIVE",
+  "pid": "362"
+ },
+ "olivelite": {
+  "name": "Redmi 8A China",
+  "model": "OLIVELITE",
+  "pid": "362"
  },
  "onclite": {
   "name": "Redmi 7 China",
