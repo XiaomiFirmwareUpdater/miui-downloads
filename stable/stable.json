@@ -65,6 +65,14 @@
  },
  {
   "android": "9.0",
+  "codename": "crux",
+  "device": "Mi 9 Pro 5G China",
+  "download": "http://bigota.d.miui.com/V11.0.2.0.PFXCNXM/miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip",
+  "filename": "miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip",
+  "version": "V11.0.2.0.PFXCNXM"
+ },
+ {
+  "android": "9.0",
   "codename": "davinci",
   "device": "Redmi K20 China",
   "download": "http://bigota.d.miui.com/V11.0.3.0.PFJCNXM/miui_DAVINCI_V11.0.3.0.PFJCNXM_104ec46429_9.0.zip",
