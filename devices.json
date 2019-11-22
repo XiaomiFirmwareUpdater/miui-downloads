@@ -44,6 +44,11 @@
   "model": "MIPAD4",
   "pid": "349"
  },
+ "crux": {
+  "name": "Mi 9 Pro 5G China",
+  "model": "CRUX",
+  "pid": "357"
+ },
  "davinci": {
   "name": "Redmi K20 China",
   "model": "DAVINCI",
