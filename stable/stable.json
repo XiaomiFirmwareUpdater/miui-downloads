@@ -910,6 +910,24 @@
  },
  {
   "android": "9.0",
+  "codename": "tucana_eea_global",
+  "device": "Mi Note 10 EEA",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PFDEUXM/miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip",
+  "filename": "miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip",
+  "version": "V11.0.5.0.PFDEUXM",
+  "size": "2.5G"
+ },
+ {
+  "android": "9.0",
+  "codename": "tucana_global",
+  "device": "Mi Note 10 Global",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PFDMIXM/miui_TUCANAGlobal_V11.0.3.0.PFDMIXM_3a07de6538_9.0.zip",
+  "filename": "miui_TUCANAGlobal_V11.0.3.0.PFDMIXM_3a07de6538_9.0.zip",
+  "version": "V11.0.3.0.PFDMIXM",
+  "size": "2.5G"
+ },
+ {
+  "android": "9.0",
   "codename": "tulip_global",
   "device": "Redmi Note 6 Pro Global",
   "download": "https://bigota.d.miui.com/V10.3.6.0.PEKMIXM/miui_HMNote6ProGlobal_V10.3.6.0.PEKMIXM_554d91f8c7_9.0.zip",
