@@ -524,6 +524,26 @@
   "model": "tiare",
   "id": "1700365"
  },
+ "tucana_eea_global": {
+  "name": "Mi Note 10 EEA",
+  "model": "TUCANAEEAGlobal",
+  "id": "1900377"
+ },
+ "tucana_global": {
+  "name": "Mi Note 10 Global",
+  "model": "TUCANAGlobal",
+  "id": "1900377"
+ },
+ "tucana_in_global": {
+  "name": "Mi Note 10 India",
+  "model": "TUCANAINGlobal",
+  "id": "1900377"
+ },
+ "tucana_ru_global": {
+  "name": "Mi Note 10 Russia",
+  "model": "TUCANAGlobal",
+  "id": "1900377"
+ },
  "tulip_global": {
   "name": "Redmi Note 6 Pro Global",
   "model": "HMNote6ProGlobal",
@@ -558,6 +578,16 @@
   "name": "Redmi Note 7 Pro India",
   "model": "VIOLETINGlobal",
   "id": "1700360"
+ },
+ "willow_global": {
+  "name": "Redmi Note 8T Global",
+  "model": "WILLOWGlobal",
+  "id": "1900375"
+ },
+ "willow_eea_global": {
+  "name": "Redmi Note 8T EEA",
+  "model": "WILLOWEEAGlobal",
+  "id": "1900375"
  },
  "whyred_global": {
   "name": "Redmi Note 5 Global",
