@@ -81,13 +81,13 @@
   "size": "1.8G"
  },
  {
-  "android": "8.1",
+  "android": "9.0",
   "codename": "beryllium_ru_global",
   "device": "POCOPHONE F1 Russia",
-  "download": "https://bigota.d.miui.com/V10.0.9.0.OEJRUXM/miui_POCOF1RUGlobal_V10.0.9.0.OEJRUXM_f65ae602bf_8.1.zip",
-  "filename": "miui_POCOF1RUGlobal_V10.0.9.0.OEJRUXM_f65ae602bf_8.1.zip",
-  "version": "V10.0.9.0.OEJRUXM",
-  "size": "1.7G"
+  "download": "https://bigota.d.miui.com/V11.0.1.0.PEJRUXM/miui_POCOF1RUGlobal_V11.0.1.0.PEJRUXM_875d335936_9.0.zip",
+  "filename": "miui_POCOF1RUGlobal_V11.0.1.0.PEJRUXM_875d335936_9.0.zip",
+  "version": "V11.0.1.0.PEJRUXM",
+  "size": "1.8G"
  },
  {
   "android": "9.0",
@@ -273,10 +273,10 @@
   "android": "9.0",
   "codename": "ginkgo_global",
   "device": "Redmi Note 8 Global",
-  "download": "https://bigota.d.miui.com/V10.3.5.0.PCOMIXM/miui_GINKGOGlobal_V10.3.5.0.PCOMIXM_b06466d774_9.0.zip",
-  "filename": "miui_GINKGOGlobal_V10.3.5.0.PCOMIXM_b06466d774_9.0.zip",
-  "version": "V10.3.5.0.PCOMIXM",
-  "size": "1.8G"
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PCOMIXM/miui_GINKGOGlobal_V11.0.3.0.PCOMIXM_1b9baa227b_9.0.zip",
+  "filename": "miui_GINKGOGlobal_V11.0.3.0.PCOMIXM_1b9baa227b_9.0.zip",
+  "version": "V11.0.3.0.PCOMIXM",
+  "size": "1.9G"
  },
  {
   "android": "9.0",
