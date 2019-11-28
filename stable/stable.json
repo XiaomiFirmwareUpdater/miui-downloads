@@ -201,9 +201,9 @@
   "android": "9.0",
   "codename": "davinci_eea_global",
   "device": "Mi 9T EEA",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.PFJEUXM/miui_DAVINCIEEAGlobal_V11.0.2.0.PFJEUXM_e32b086df3_9.0.zip",
-  "filename": "miui_DAVINCIEEAGlobal_V11.0.2.0.PFJEUXM_e32b086df3_9.0.zip",
-  "version": "V11.0.2.0.PFJEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PFJEUXM/miui_DAVINCIEEAGlobal_V11.0.3.0.PFJEUXM_222331be17_9.0.zip",
+  "filename": "miui_DAVINCIEEAGlobal_V11.0.3.0.PFJEUXM_222331be17_9.0.zip",
+  "version": "V11.0.3.0.PFJEUXM",
   "size": "2.2G"
  },
  {
@@ -489,10 +489,10 @@
   "android": "8.1",
   "codename": "lotus_global",
   "device": "Mi Play Global",
-  "download": "https://bigota.d.miui.com/V10.2.5.0.OFIMIXM/miui_MIPLAYGlobal_V10.2.5.0.OFIMIXM_fcc94aedaa_8.1.zip",
-  "filename": "miui_MIPLAYGlobal_V10.2.5.0.OFIMIXM_fcc94aedaa_8.1.zip",
-  "version": "V10.2.5.0.OFIMIXM",
-  "size": "1.4G"
+  "download": "https://bigota.d.miui.com/V11.0.1.0.OFIMIXM/miui_MIPLAYGlobal_V11.0.1.0.OFIMIXM_7ca29041b1_8.1.zip",
+  "filename": "miui_MIPLAYGlobal_V11.0.1.0.OFIMIXM_7ca29041b1_8.1.zip",
+  "version": "V11.0.1.0.OFIMIXM",
+  "size": "1.5G"
  },
  {
   "android": "8.1",
