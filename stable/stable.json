@@ -561,9 +561,9 @@
   "android": "9.0",
   "codename": "olive_eea_global",
   "device": "Redmi 8 EEA",
-  "download": "https://bigota.d.miui.com/V10.3.2.0.PCNEUXM/miui_OLIVEEEAGlobal_V10.3.2.0.PCNEUXM_40f8b66bd5_9.0.zip",
-  "filename": "miui_OLIVEEEAGlobal_V10.3.2.0.PCNEUXM_40f8b66bd5_9.0.zip",
-  "version": "V10.3.2.0.PCNEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.1.0.PCNEUXM/miui_OLIVEEEAGlobal_V11.0.1.0.PCNEUXM_1a4ec8d8c6_9.0.zip",
+  "filename": "miui_OLIVEEEAGlobal_V11.0.1.0.PCNEUXM_1a4ec8d8c6_9.0.zip",
+  "version": "V11.0.1.0.PCNEUXM",
   "size": "1.9G"
  },
  {
@@ -606,18 +606,18 @@
   "android": "9.0",
   "codename": "olivelite_global",
   "device": "Redmi 8A Global",
-  "download": "https://bigota.d.miui.com/V10.3.3.0.PCPMIXM/miui_OLIVELITEGlobal_V10.3.3.0.PCPMIXM_37ee218dfc_9.0.zip",
-  "filename": "miui_OLIVELITEGlobal_V10.3.3.0.PCPMIXM_37ee218dfc_9.0.zip",
-  "version": "V10.3.3.0.PCPMIXM",
-  "size": "1.6G"
+  "download": "https://bigota.d.miui.com/V11.0.1.0.PCPMIXM/miui_OLIVELITEGlobal_V11.0.1.0.PCPMIXM_163c56b0b8_9.0.zip",
+  "filename": "miui_OLIVELITEGlobal_V11.0.1.0.PCPMIXM_163c56b0b8_9.0.zip",
+  "version": "V11.0.1.0.PCPMIXM",
+  "size": "1.7G"
  },
  {
   "android": "9.0",
   "codename": "olivelite_in_global",
   "device": "Redmi 8A India",
-  "download": "https://bigota.d.miui.com/V11.0.1.0.PCPINXM/miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip",
-  "filename": "miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip",
-  "version": "V11.0.1.0.PCPINXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PCPINXM/miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip",
+  "filename": "miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip",
+  "version": "V11.0.3.0.PCPINXM",
   "size": "1.7G"
  },
  {
@@ -912,9 +912,9 @@
   "android": "9.0",
   "codename": "tucana_eea_global",
   "device": "Mi Note 10 EEA",
-  "download": "https://bigota.d.miui.com/V11.0.5.0.PFDEUXM/miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip",
-  "filename": "miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip",
-  "version": "V11.0.5.0.PFDEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.9.0.PFDEUXM/miui_TUCANAEEAGlobal_V11.0.9.0.PFDEUXM_63b5cb970d_9.0.zip",
+  "filename": "miui_TUCANAEEAGlobal_V11.0.9.0.PFDEUXM_63b5cb970d_9.0.zip",
+  "version": "V11.0.9.0.PFDEUXM",
   "size": "2.5G"
  },
  {
