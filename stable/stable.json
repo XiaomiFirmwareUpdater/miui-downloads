@@ -3,9 +3,9 @@
   "android": "9.0",
   "codename": "begonia",
   "device": "Redmi Note 8 Pro China",
-  "download": "http://bigota.d.miui.com/V11.0.1.0.PGGCNXM/miui_BEGONIA_V11.0.1.0.PGGCNXM_675d7b8a9e_9.0.zip",
-  "filename": "miui_BEGONIA_V11.0.1.0.PGGCNXM_675d7b8a9e_9.0.zip",
-  "version": "V11.0.1.0.PGGCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.PGGCNXM/miui_BEGONIA_V11.0.2.0.PGGCNXM_7a4e709b1a_9.0.zip",
+  "filename": "miui_BEGONIA_V11.0.2.0.PGGCNXM_7a4e709b1a_9.0.zip",
+  "version": "V11.0.2.0.PGGCNXM"
  },
  {
   "android": "9.0",
@@ -179,9 +179,9 @@
   "android": "8.1",
   "codename": "lotus",
   "device": "Mi Play China",
-  "download": "http://bigota.d.miui.com/V11.0.2.0.OFICNXM/miui_MIPLAY_V11.0.2.0.OFICNXM_65549c8604_8.1.zip",
-  "filename": "miui_MIPLAY_V11.0.2.0.OFICNXM_65549c8604_8.1.zip",
-  "version": "V11.0.2.0.OFICNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.OFICNXM/miui_MIPLAY_V11.0.3.0.OFICNXM_8bbf9b0c3c_8.1.zip",
+  "filename": "miui_MIPLAY_V11.0.3.0.OFICNXM_8bbf9b0c3c_8.1.zip",
+  "version": "V11.0.3.0.OFICNXM"
  },
  {
   "android": "6.0",
@@ -363,9 +363,9 @@
   "android": "9.0",
   "codename": "sakura",
   "device": "Redmi 6 Pro China",
-  "download": "http://bigota.d.miui.com/V11.0.3.0.PDICNXM/miui_HM6Pro_V11.0.3.0.PDICNXM_54e60c9a33_9.0.zip",
-  "filename": "miui_HM6Pro_V11.0.3.0.PDICNXM_54e60c9a33_9.0.zip",
-  "version": "V11.0.3.0.PDICNXM"
+  "download": "http://bigota.d.miui.com/V11.0.4.0.PDICNXM/miui_HM6Pro_V11.0.4.0.PDICNXM_45526f173b_9.0.zip",
+  "filename": "miui_HM6Pro_V11.0.4.0.PDICNXM_45526f173b_9.0.zip",
+  "version": "V11.0.4.0.PDICNXM"
  },
  {
   "android": "7.1",
@@ -395,9 +395,9 @@
   "android": "8.1",
   "codename": "tiffany",
   "device": "Mi 5X China",
-  "download": "http://bigota.d.miui.com/V11.0.2.0.ODBCNXM/miui_MI5X_V11.0.2.0.ODBCNXM_909421a08e_8.1.zip",
-  "filename": "miui_MI5X_V11.0.2.0.ODBCNXM_909421a08e_8.1.zip",
-  "version": "V11.0.2.0.ODBCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.ODBCNXM/miui_MI5X_V11.0.3.0.ODBCNXM_704b2e39b0_8.1.zip",
+  "filename": "miui_MI5X_V11.0.3.0.ODBCNXM_704b2e39b0_8.1.zip",
+  "version": "V11.0.3.0.ODBCNXM"
  },
  {
   "android": "9.0",
