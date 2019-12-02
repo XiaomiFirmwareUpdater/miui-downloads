@@ -228,9 +228,9 @@
   "android": "9.0",
   "codename": "davinciin_in_global",
   "device": "Redmi K20 India",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.PFJINXM/miui_DAVINCIININGlobal_V11.0.2.0.PFJINXM_45b2a8ac93_9.0.zip",
-  "filename": "miui_DAVINCIININGlobal_V11.0.2.0.PFJINXM_45b2a8ac93_9.0.zip",
-  "version": "V11.0.2.0.PFJINXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PFJINXM/miui_DAVINCIININGlobal_V11.0.3.0.PFJINXM_ef8c64eb0f_9.0.zip",
+  "filename": "miui_DAVINCIININGlobal_V11.0.3.0.PFJINXM_ef8c64eb0f_9.0.zip",
+  "version": "V11.0.3.0.PFJINXM",
   "size": "2.2G"
  },
  {
@@ -480,9 +480,9 @@
   "android": "8.1",
   "codename": "lotus",
   "device": "Mi Play China",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.OFICNXM/miui_MIPLAY_V11.0.2.0.OFICNXM_65549c8604_8.1.zip",
-  "filename": "miui_MIPLAY_V11.0.2.0.OFICNXM_65549c8604_8.1.zip",
-  "version": "V11.0.2.0.OFICNXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.OFICNXM/miui_MIPLAY_V11.0.3.0.OFICNXM_8bbf9b0c3c_8.1.zip",
+  "filename": "miui_MIPLAY_V11.0.3.0.OFICNXM_8bbf9b0c3c_8.1.zip",
+  "version": "V11.0.3.0.OFICNXM",
   "size": "1.9G"
  },
  {
@@ -543,10 +543,10 @@
   "android": "9.0",
   "codename": "nitrogen_global",
   "device": "Mi Max 3 Global",
-  "download": "https://bigota.d.miui.com/V10.3.5.0.PEDMIXM/miui_MIMAX3Global_V10.3.5.0.PEDMIXM_12e2d94c20_9.0.zip",
-  "filename": "miui_MIMAX3Global_V10.3.5.0.PEDMIXM_12e2d94c20_9.0.zip",
-  "version": "V10.3.5.0.PEDMIXM",
-  "size": "1.7G"
+  "download": "https://bigota.d.miui.com/V11.0.6.0.PEDMIXM/miui_MIMAX3Global_V11.0.6.0.PEDMIXM_26b9783b2a_9.0.zip",
+  "filename": "miui_MIMAX3Global_V11.0.6.0.PEDMIXM_26b9783b2a_9.0.zip",
+  "version": "V11.0.6.0.PEDMIXM",
+  "size": "1.8G"
  },
  {
   "android": "8.1",
@@ -921,9 +921,9 @@
   "android": "9.0",
   "codename": "tucana_global",
   "device": "Mi Note 10 Global",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PFDMIXM/miui_TUCANAGlobal_V11.0.3.0.PFDMIXM_3a07de6538_9.0.zip",
-  "filename": "miui_TUCANAGlobal_V11.0.3.0.PFDMIXM_3a07de6538_9.0.zip",
-  "version": "V11.0.3.0.PFDMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PFDMIXM/miui_TUCANAGlobal_V11.0.5.0.PFDMIXM_40dcdd8711_9.0.zip",
+  "filename": "miui_TUCANAGlobal_V11.0.5.0.PFDMIXM_40dcdd8711_9.0.zip",
+  "version": "V11.0.5.0.PFDMIXM",
   "size": "2.5G"
  },
  {
@@ -939,10 +939,10 @@
   "android": "9.0",
   "codename": "tulip_global",
   "device": "Redmi Note 6 Pro Global",
-  "download": "https://bigota.d.miui.com/V10.3.6.0.PEKMIXM/miui_HMNote6ProGlobal_V10.3.6.0.PEKMIXM_554d91f8c7_9.0.zip",
-  "filename": "miui_HMNote6ProGlobal_V10.3.6.0.PEKMIXM_554d91f8c7_9.0.zip",
-  "version": "V10.3.6.0.PEKMIXM",
-  "size": "1.6G"
+  "download": "https://bigota.d.miui.com/V11.0.1.0.PEKMIXM/miui_HMNote6ProGlobal_V11.0.1.0.PEKMIXM_5c9f74315c_9.0.zip",
+  "filename": "miui_HMNote6ProGlobal_V11.0.1.0.PEKMIXM_5c9f74315c_9.0.zip",
+  "version": "V11.0.1.0.PEKMIXM",
+  "size": "1.7G"
  },
  {
   "android": "8.1",
