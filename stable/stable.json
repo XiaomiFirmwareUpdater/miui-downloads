@@ -227,9 +227,9 @@
   "android": "9.0",
   "codename": "nitrogen",
   "device": "Mi Max 3 China",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.PEDCNXM/miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip",
-  "filename": "miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip",
-  "version": "V10.3.4.0.PEDCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.PEDCNXM/miui_MIMAX3_V11.0.3.0.PEDCNXM_457d3fe0a7_9.0.zip",
+  "filename": "miui_MIMAX3_V11.0.3.0.PEDCNXM_457d3fe0a7_9.0.zip",
+  "version": "V11.0.3.0.PEDCNXM"
  },
  {
   "android": "9.0",
@@ -443,9 +443,9 @@
   "android": "8.1",
   "codename": "vince",
   "device": "Redmi 5 Plus China",
-  "download": "http://bigota.d.miui.com/V11.0.2.0.OEGCNXM/miui_HM5Plus_V11.0.2.0.OEGCNXM_972a72bf51_8.1.zip",
-  "filename": "miui_HM5Plus_V11.0.2.0.OEGCNXM_972a72bf51_8.1.zip",
-  "version": "V11.0.2.0.OEGCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.OEGCNXM/miui_HM5Plus_V11.0.3.0.OEGCNXM_e47aba1020_8.1.zip",
+  "filename": "miui_HM5Plus_V11.0.3.0.OEGCNXM_e47aba1020_8.1.zip",
+  "version": "V11.0.3.0.OEGCNXM"
  },
  {
   "android": "9.0",
