@@ -283,9 +283,9 @@
   "android": "9.0",
   "codename": "pine",
   "device": "Redmi 7A China",
-  "download": "http://bigota.d.miui.com/V11.0.1.0.PCMCNXM/miui_PINE_V11.0.1.0.PCMCNXM_94700e00ff_9.0.zip",
-  "filename": "miui_PINE_V11.0.1.0.PCMCNXM_94700e00ff_9.0.zip",
-  "version": "V11.0.1.0.PCMCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.PCMCNXM/miui_PINE_V11.0.2.0.PCMCNXM_fb68c600ed_9.0.zip",
+  "filename": "miui_PINE_V11.0.2.0.PCMCNXM_fb68c600ed_9.0.zip",
+  "version": "V11.0.2.0.PCMCNXM"
  },
  {
   "android": "9.0",
@@ -315,9 +315,9 @@
   "android": "9.0",
   "codename": "pyxis",
   "device": "Mi CC 9 China",
-  "download": "http://bigota.d.miui.com/V11.3.2.0.PFCCNXM/miui_PYXIS_V11.3.2.0.PFCCNXM_fafea063c1_9.0.zip",
-  "filename": "miui_PYXIS_V11.3.2.0.PFCCNXM_fafea063c1_9.0.zip",
-  "version": "V11.3.2.0.PFCCNXM"
+  "download": "http://bigota.d.miui.com/V11.3.3.0.PFCCNXM/miui_PYXIS_V11.3.3.0.PFCCNXM_c02239b14d_9.0.zip",
+  "filename": "miui_PYXIS_V11.3.3.0.PFCCNXM_c02239b14d_9.0.zip",
+  "version": "V11.3.3.0.PFCCNXM"
  },
  {
   "android": "10.0",
