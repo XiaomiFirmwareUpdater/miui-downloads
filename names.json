@@ -159,6 +159,21 @@
   "model": "GINKGOGlobal",
   "id": "1900375"
  },
+ "ginkgo_in_global": {
+  "name": "Redmi Note 8 India",
+  "model": "GINKGOINGlobal",
+  "id": "1900375"
+ },
+ "ginkgo_id_global": {
+  "name": "Redmi Note 8 Indonesia",
+  "model": "GINKGOIDGlobal",
+  "id": "1900375"
+ },
+ "grus_global": {
+  "name": "Mi 9 SE Global",
+  "model": "GRUSGlobal",
+  "id": "1700361"
+ },
  "grus_eea_global": {
   "name": "Mi 9 SE EEA",
   "model": "GRUSEEAGlobal",
@@ -587,6 +602,11 @@
  "willow_eea_global": {
   "name": "Redmi Note 8T EEA",
   "model": "WILLOWEEAGlobal",
+  "id": "1900375"
+ },
+ "willow_ru_global": {
+  "name": "Redmi Note 8T Russia",
+  "model": "WILLOWRUGlobal",
   "id": "1900375"
  },
  "whyred_global": {
