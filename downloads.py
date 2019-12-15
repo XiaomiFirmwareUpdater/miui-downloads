@@ -27,6 +27,7 @@ def fetch_devices():
         'cache-control': 'no-cache',
         'authority': 'c.mi.com',
         'x-requested-with': 'XMLHttpRequest',
+        'connection': 'keep-alive',
         'referer': 'https://c.mi.com/oc/miuidownload/',
     }
 
@@ -51,7 +52,8 @@ def fetch_roms(device_id, url):
         'Cache-Control': 'no-cache',
     }
     data = requests.get(
-        url, headers=headers, verify=False).json()['data']['device_data']['device_list']
+        url, headers=headers, verify=False).json()
+    data = data['data']['device_data']['device_list']
     if not data:
         return
     for device, info in data.items():

@@ -159,24 +159,24 @@
   "model": "GINKGOGlobal",
   "id": "1900375"
  },
- "ginkgo_in_global": {
-  "name": "Redmi Note 8 India",
-  "model": "GINKGOINGlobal",
-  "id": "1900375"
- },
  "ginkgo_id_global": {
   "name": "Redmi Note 8 Indonesia",
   "model": "GINKGOIDGlobal",
   "id": "1900375"
  },
- "grus_global": {
-  "name": "Mi 9 SE Global",
-  "model": "GRUSGlobal",
-  "id": "1700361"
+ "ginkgo_in_global": {
+  "name": "Redmi Note 8 India",
+  "model": "GINKGOINGlobal",
+  "id": "1900375"
  },
  "grus_eea_global": {
   "name": "Mi 9 SE EEA",
   "model": "GRUSEEAGlobal",
+  "id": "1700361"
+ },
+ "grus_global": {
+  "name": "Mi 9 SE Global",
+  "model": "GRUSGlobal",
   "id": "1700361"
  },
  "gucci": {
@@ -344,13 +344,18 @@
   "model": "OLIVEGlobal",
   "id": "1900376"
  },
+ "olive_id_global": {
+  "name": "Redmi 8 ID",
+  "model": "OLIVEIDGlobal",
+  "id": "1900376"
+ },
  "olive_in_global": {
   "name": "Redmi 8 India",
   "model": "OLIVEINGlobal",
   "id": "1900376"
  },
  "olive_ru_global": {
-  "name": "Redmi 8 Russia",
+  "name": "Redmi 8 RU",
   "model": "OLIVERUGlobal",
   "id": "1900376"
  },
@@ -364,13 +369,18 @@
   "model": "OLIVELITEGlobal",
   "id": "1900376"
  },
+ "olivelite_id_global": {
+  "name": "Redmi 8A ID",
+  "model": "OLIVELITEIDGlobal",
+  "id": "1900376"
+ },
  "olivelite_in_global": {
   "name": "Redmi 8A India",
   "model": "OLIVELITEINGlobal",
   "id": "1900376"
  },
  "olivelite_ru_global": {
-  "name": "Redmi 8A Russia",
+  "name": "Redmi 8A RU",
   "model": "OLIVELITERUGlobal",
   "id": "1900376"
  },
@@ -444,33 +454,33 @@
   "model": "HM4Global",
   "id": "1700318"
  },
- "pyxis_global": {
-  "name": "Mi 9 Lite Global",
-  "model": "PYXISGlobal",
-  "id": "1900374"
- },
  "pyxis_eea_global": {
-  "name": "Mi 9 Lite EEA",
+  "name": "Mi 9 Lite/Mi CC 9 EEA",
   "model": "PYXISEEAGlobal",
   "id": "1900374"
  },
- "pyxis_ru_global": {
-  "name": "Mi 9 Lite Russia",
-  "model": "PYXISRUGlobal",
+ "pyxis_global": {
+  "name": "Mi 9 Lite/Mi CC 9 Global",
+  "model": "PYXISGlobal",
   "id": "1900374"
  },
- "raphael_global": {
-  "name": "Mi 9T Pro Global",
-  "model": "RAPHAELGlobal",
-  "id": "1700361"
+ "pyxis_ru_global": {
+  "name": "Mi 9 Lite/Mi CC 9 RU",
+  "model": "PYXISRUGlobal",
+  "id": "1900374"
  },
  "raphael_eea_global": {
   "name": "Mi 9T Pro EEA",
   "model": "RAPHAELEEAGlobal",
   "id": "1700361"
  },
+ "raphael_global": {
+  "name": "Mi 9T Pro Global",
+  "model": "RAPHAELGlobal",
+  "id": "1700361"
+ },
  "raphael_ru_global": {
-  "name": "Mi 9T Pro Russia",
+  "name": "Mi 9T Pro RU",
   "model": "RAPHAELRUGlobal",
   "id": "1700361"
  },
@@ -549,13 +559,8 @@
   "model": "TUCANAGlobal",
   "id": "1900377"
  },
- "tucana_in_global": {
-  "name": "Mi Note 10 India",
-  "model": "TUCANAINGlobal",
-  "id": "1900377"
- },
  "tucana_ru_global": {
-  "name": "Mi Note 10 Russia",
+  "name": "Mi Note 10 RU",
   "model": "TUCANARUGlobal",
   "id": "1900377"
  },
@@ -594,21 +599,6 @@
   "model": "VIOLETINGlobal",
   "id": "1700360"
  },
- "willow_global": {
-  "name": "Redmi Note 8T Global",
-  "model": "WILLOWGlobal",
-  "id": "1900375"
- },
- "willow_eea_global": {
-  "name": "Redmi Note 8T EEA",
-  "model": "WILLOWEEAGlobal",
-  "id": "1900375"
- },
- "willow_ru_global": {
-  "name": "Redmi Note 8T Russia",
-  "model": "WILLOWRUGlobal",
-  "id": "1900375"
- },
  "whyred_global": {
   "name": "Redmi Note 5 Global",
   "model": "HMNote5Global",
@@ -618,6 +608,21 @@
   "name": "Redmi Note 5 Russia",
   "model": "HMNote5RUGlobal",
   "id": "1700342"
+ },
+ "willow_eea_global": {
+  "name": "Redmi Note 8T EEA",
+  "model": "WILLOWEEAGlobal",
+  "id": "1900375"
+ },
+ "willow_global": {
+  "name": "Redmi Note 8T Global",
+  "model": "WILLOWGlobal",
+  "id": "1900375"
+ },
+ "willow_ru_global": {
+  "name": "Redmi Note 8T RU",
+  "model": "WILLOWRUGlobal",
+  "id": "1900375"
  },
  "wt88047": {
   "name": "Redmi 2 China",
