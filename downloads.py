@@ -53,6 +53,7 @@ def fetch_roms(device_id, url):
     }
     data = requests.get(
         url, headers=headers, verify=False).json()
+    print(data)
     data = data['data']['device_data']['device_list']
     if not data:
         return
@@ -175,7 +176,7 @@ def main():
         url = f'http://c.mi.com/oc/rom/getdevicelist?phone_id={device_id}'
         print(f"Fetching {device_id}: {url}")
         fetch_roms(device_id, url)
-        sleep(5)
+        # sleep(5)
     data = {'stable': STABLE, 'weekly': WEEKLY}
     for name, details in data.items():
         gen_json(details, name)
