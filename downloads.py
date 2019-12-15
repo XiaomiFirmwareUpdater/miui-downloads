@@ -5,6 +5,7 @@ import json
 from datetime import datetime
 from glob import glob
 from os import remove, system, environ
+from time import sleep
 import requests
 
 STABLE = []
@@ -172,6 +173,7 @@ def main():
         url = f'http://c.mi.com/oc/rom/getdevicelist?phone_id={device_id}'
         print(f"Fetching {device_id}: {url}")
         fetch_roms(device_id, url)
+        sleep(5)
     data = {'stable': STABLE, 'weekly': WEEKLY}
     for name, details in data.items():
         gen_json(details, name)
