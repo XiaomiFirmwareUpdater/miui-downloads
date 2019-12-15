@@ -170,6 +170,7 @@ def main():
     devices_ids = fetch_devices()
     for device_id in devices_ids:
         url = f'http://c.mi.com/oc/rom/getdevicelist?phone_id={device_id}'
+        print(f"Fetching {device_id}: {url}")
         fetch_roms(device_id, url)
     data = {'stable': STABLE, 'weekly': WEEKLY}
     for name, details in data.items():
