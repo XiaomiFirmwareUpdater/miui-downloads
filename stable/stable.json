@@ -90,13 +90,13 @@
   "size": "1.8G"
  },
  {
-  "android": "9.0",
+  "android": "8.1",
   "codename": "cactus_global",
   "device": "Redmi 6A Global",
-  "download": "https://bigota.d.miui.com/V10.4.4.0.PCBMIXM/miui_HM6AGlobal_V10.4.4.0.PCBMIXM_7b8c7f6a23_9.0.zip",
-  "filename": "miui_HM6AGlobal_V10.4.4.0.PCBMIXM_7b8c7f6a23_9.0.zip",
-  "version": "V10.4.4.0.PCBMIXM",
-  "size": "1.3G"
+  "download": "https://bigota.d.miui.com/V10.3.8.0.OCBMIXM/miui_HM6AGlobal_V10.3.8.0.OCBMIXM_dc11a7116a_8.1.zip",
+  "filename": "miui_HM6AGlobal_V10.3.8.0.OCBMIXM_dc11a7116a_8.1.zip",
+  "version": "V10.3.8.0.OCBMIXM",
+  "size": "1.2G"
  },
  {
   "android": "8.1",
@@ -741,9 +741,9 @@
   "android": "9.0",
   "codename": "pine_global",
   "device": "Redmi 7A Global",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.PCMMIXM/miui_PINEGlobal_V11.0.4.0.PCMMIXM_674ed79f0b_9.0.zip",
-  "filename": "miui_PINEGlobal_V11.0.4.0.PCMMIXM_674ed79f0b_9.0.zip",
-  "version": "V11.0.4.0.PCMMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PCMMIXM/miui_PINEGlobal_V11.0.5.0.PCMMIXM_d87548dd5a_9.0.zip",
+  "filename": "miui_PINEGlobal_V11.0.5.0.PCMMIXM_d87548dd5a_9.0.zip",
+  "version": "V11.0.5.0.PCMMIXM",
   "size": "1.5G"
  },
  {
