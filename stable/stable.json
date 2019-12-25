@@ -759,10 +759,10 @@
   "android": "9.0",
   "codename": "platina_global",
   "device": "Mi 8 Lite Global",
-  "download": "https://bigota.d.miui.com/V11.0.5.0.PDTMIXM/miui_MI8LiteGlobal_V11.0.5.0.PDTMIXM_7464e6f6d2_9.0.zip",
-  "filename": "miui_MI8LiteGlobal_V11.0.5.0.PDTMIXM_7464e6f6d2_9.0.zip",
-  "version": "V11.0.5.0.PDTMIXM",
-  "size": "1.7G"
+  "download": "https://bigota.d.miui.com/V11.0.7.0.PDTMIXM/miui_MI8LiteGlobal_V11.0.7.0.PDTMIXM_69cdf0fb10_9.0.zip",
+  "filename": "miui_MI8LiteGlobal_V11.0.7.0.PDTMIXM_69cdf0fb10_9.0.zip",
+  "version": "V11.0.7.0.PDTMIXM",
+  "size": "1.8G"
  },
  {
   "android": "9.0",
@@ -966,9 +966,9 @@
   "android": "9.0",
   "codename": "tucana_eea_global",
   "device": "Mi Note 10 EEA",
-  "download": "https://bigota.d.miui.com/V11.0.10.0.PFDEUXM/miui_TUCANAEEAGlobal_V11.0.10.0.PFDEUXM_b7a8e9a640_9.0.zip",
-  "filename": "miui_TUCANAEEAGlobal_V11.0.10.0.PFDEUXM_b7a8e9a640_9.0.zip",
-  "version": "V11.0.10.0.PFDEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.11.0.PFDEUXM/miui_TUCANAEEAGlobal_V11.0.11.0.PFDEUXM_9fa3ae20ce_9.0.zip",
+  "filename": "miui_TUCANAEEAGlobal_V11.0.11.0.PFDEUXM_9fa3ae20ce_9.0.zip",
+  "version": "V11.0.11.0.PFDEUXM",
   "size": "2.5G"
  },
  {
