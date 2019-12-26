@@ -687,9 +687,9 @@
   "android": "9.0",
   "codename": "onclite_eea_global",
   "device": "Redmi 7 EEA",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PFLEUXM/miui_ONCLITEEEAGlobal_V11.0.3.0.PFLEUXM_354f31965f_9.0.zip",
-  "filename": "miui_ONCLITEEEAGlobal_V11.0.3.0.PFLEUXM_354f31965f_9.0.zip",
-  "version": "V11.0.3.0.PFLEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.4.0.PFLEUXM/miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip",
+  "filename": "miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip",
+  "version": "V11.0.4.0.PFLEUXM",
   "size": "1.7G"
  },
  {
@@ -858,9 +858,9 @@
   "android": "10.0",
   "codename": "raphaelin_in_global",
   "device": "Redmi K20 Pro India",
-  "download": "https://bigota.d.miui.com/V11.0.1.0.QFKINXM/miui_RAPHAELININGlobal_V11.0.1.0.QFKINXM_5e75bba584_10.0.zip",
-  "filename": "miui_RAPHAELININGlobal_V11.0.1.0.QFKINXM_5e75bba584_10.0.zip",
-  "version": "V11.0.1.0.QFKINXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.QFKINXM/miui_RAPHAELININGlobal_V11.0.3.0.QFKINXM_845b36b440_10.0.zip",
+  "filename": "miui_RAPHAELININGlobal_V11.0.3.0.QFKINXM_845b36b440_10.0.zip",
+  "version": "V11.0.3.0.QFKINXM",
   "size": "2.2G"
  },
  {
