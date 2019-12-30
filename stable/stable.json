@@ -331,9 +331,9 @@
   "android": "8.1",
   "codename": "riva",
   "device": "Redmi 5A China",
-  "download": "http://bigota.d.miui.com/V11.0.2.0.OCKCNXM/miui_HM5A_V11.0.2.0.OCKCNXM_2019238fe9_8.1.zip",
-  "filename": "miui_HM5A_V11.0.2.0.OCKCNXM_2019238fe9_8.1.zip",
-  "version": "V11.0.2.0.OCKCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.6.0.OCKCNXM/miui_HM5A_V11.0.6.0.OCKCNXM_65b36755c0_8.1.zip",
+  "filename": "miui_HM5A_V11.0.6.0.OCKCNXM_65b36755c0_8.1.zip",
+  "version": "V11.0.6.0.OCKCNXM"
  },
  {
   "android": "6.0",
@@ -347,9 +347,9 @@
   "android": "8.1",
   "codename": "rosy",
   "device": "Redmi 5 China",
-  "download": "http://bigota.d.miui.com/V11.0.1.0.ODACNXM/miui_HM5_V11.0.1.0.ODACNXM_8972c44138_8.1.zip",
-  "filename": "miui_HM5_V11.0.1.0.ODACNXM_8972c44138_8.1.zip",
-  "version": "V11.0.1.0.ODACNXM"
+  "download": "http://bigota.d.miui.com/V11.0.4.0.ODACNXM/miui_HM5_V11.0.4.0.ODACNXM_010a5305c2_8.1.zip",
+  "filename": "miui_HM5_V11.0.4.0.ODACNXM_010a5305c2_8.1.zip",
+  "version": "V11.0.4.0.ODACNXM"
  },
  {
   "android": "9.0",
