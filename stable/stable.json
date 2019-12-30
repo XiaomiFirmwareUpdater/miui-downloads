@@ -588,18 +588,18 @@
   "android": "9.0",
   "codename": "olive_eea_global",
   "device": "Redmi 8 EEA",
-  "download": "https://bigota.d.miui.com/V11.0.1.0.PCNEUXM/miui_OLIVEEEAGlobal_V11.0.1.0.PCNEUXM_1a4ec8d8c6_9.0.zip",
-  "filename": "miui_OLIVEEEAGlobal_V11.0.1.0.PCNEUXM_1a4ec8d8c6_9.0.zip",
-  "version": "V11.0.1.0.PCNEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.PCNEUXM/miui_OLIVEEEAGlobal_V11.0.2.0.PCNEUXM_01161d58aa_9.0.zip",
+  "filename": "miui_OLIVEEEAGlobal_V11.0.2.0.PCNEUXM_01161d58aa_9.0.zip",
+  "version": "V11.0.2.0.PCNEUXM",
   "size": "1.9G"
  },
  {
   "android": "9.0",
   "codename": "olive_global",
   "device": "Redmi 8 Global",
-  "download": "https://bigota.d.miui.com/V11.0.1.0.PCNMIXM/miui_OLIVEGlobal_V11.0.1.0.PCNMIXM_bf4bb66af7_9.0.zip",
-  "filename": "miui_OLIVEGlobal_V11.0.1.0.PCNMIXM_bf4bb66af7_9.0.zip",
-  "version": "V11.0.1.0.PCNMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PCNMIXM/miui_OLIVEGlobal_V11.0.3.0.PCNMIXM_b3a973ea8f_9.0.zip",
+  "filename": "miui_OLIVEGlobal_V11.0.3.0.PCNMIXM_b3a973ea8f_9.0.zip",
+  "version": "V11.0.3.0.PCNMIXM",
   "size": "1.9G"
  },
  {
@@ -624,9 +624,9 @@
   "android": "9.0",
   "codename": "olive_ru_global",
   "device": "Redmi 8 RU",
-  "download": "https://bigota.d.miui.com/V11.0.1.0.PCNRUXM/miui_OLIVERUGlobal_V11.0.1.0.PCNRUXM_f773af47c6_9.0.zip",
-  "filename": "miui_OLIVERUGlobal_V11.0.1.0.PCNRUXM_f773af47c6_9.0.zip",
-  "version": "V11.0.1.0.PCNRUXM",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.PCNRUXM/miui_OLIVERUGlobal_V11.0.2.0.PCNRUXM_1f25b2c67e_9.0.zip",
+  "filename": "miui_OLIVERUGlobal_V11.0.2.0.PCNRUXM_1f25b2c67e_9.0.zip",
+  "version": "V11.0.2.0.PCNRUXM",
   "size": "1.9G"
  },
  {
@@ -1047,9 +1047,9 @@
   "android": "9.0",
   "codename": "violet_in_global",
   "device": "Redmi Note 7 Pro India",
-  "download": "https://bigota.d.miui.com/V11.0.5.0.PFHINXM/miui_VIOLETINGlobal_V11.0.5.0.PFHINXM_04632f47d3_9.0.zip",
-  "filename": "miui_VIOLETINGlobal_V11.0.5.0.PFHINXM_04632f47d3_9.0.zip",
-  "version": "V11.0.5.0.PFHINXM",
+  "download": "https://bigota.d.miui.com/V11.0.6.0.PFHINXM/miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip",
+  "filename": "miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip",
+  "version": "V11.0.6.0.PFHINXM",
   "size": "1.9G"
  },
  {
