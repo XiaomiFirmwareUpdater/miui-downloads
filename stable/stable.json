@@ -408,9 +408,9 @@
   "android": "9.0",
   "codename": "jason_global",
   "device": "Mi Note 3 Global",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PCHMIXM/miui_MINote3Global_V11.0.3.0.PCHMIXM_c980ddca40_9.0.zip",
-  "filename": "miui_MINote3Global_V11.0.3.0.PCHMIXM_c980ddca40_9.0.zip",
-  "version": "V11.0.3.0.PCHMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.4.0.PCHMIXM/miui_MINote3Global_V11.0.4.0.PCHMIXM_04f5e77d0b_9.0.zip",
+  "filename": "miui_MINote3Global_V11.0.4.0.PCHMIXM_04f5e77d0b_9.0.zip",
+  "version": "V11.0.4.0.PCHMIXM",
   "size": "1.7G"
  },
  {
@@ -516,9 +516,9 @@
   "android": "8.1",
   "codename": "lotus_global",
   "device": "Mi Play Global",
-  "download": "https://bigota.d.miui.com/V11.0.1.0.OFIMIXM/miui_MIPLAYGlobal_V11.0.1.0.OFIMIXM_7ca29041b1_8.1.zip",
-  "filename": "miui_MIPLAYGlobal_V11.0.1.0.OFIMIXM_7ca29041b1_8.1.zip",
-  "version": "V11.0.1.0.OFIMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.OFIMIXM/miui_MIPLAYGlobal_V11.0.2.0.OFIMIXM_f6af3d5b6b_8.1.zip",
+  "filename": "miui_MIPLAYGlobal_V11.0.2.0.OFIMIXM_f6af3d5b6b_8.1.zip",
+  "version": "V11.0.2.0.OFIMIXM",
   "size": "1.5G"
  },
  {
@@ -678,9 +678,9 @@
   "android": "9.0",
   "codename": "onc_in_global",
   "device": "Redmi Y3 India",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PFFINXM/miui_ONCINGlobal_V11.0.3.0.PFFINXM_3f7e9317c3_9.0.zip",
-  "filename": "miui_ONCINGlobal_V11.0.3.0.PFFINXM_3f7e9317c3_9.0.zip",
-  "version": "V11.0.3.0.PFFINXM",
+  "download": "https://bigota.d.miui.com/V11.0.4.0.PFFINXM/miui_ONCINGlobal_V11.0.4.0.PFFINXM_b09929c3d1_9.0.zip",
+  "filename": "miui_ONCINGlobal_V11.0.4.0.PFFINXM_b09929c3d1_9.0.zip",
+  "version": "V11.0.4.0.PFFINXM",
   "size": "1.7G"
  },
  {
@@ -912,9 +912,9 @@
   "android": "9.0",
   "codename": "sakura_india_global",
   "device": "Redmi 6 Pro Indian",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PDMMIXM/miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip",
-  "filename": "miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip",
-  "version": "V11.0.3.0.PDMMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PDMMIXM/miui_HM6ProINGlobal_V11.0.5.0.PDMMIXM_9239c01830_9.0.zip",
+  "filename": "miui_HM6ProINGlobal_V11.0.5.0.PDMMIXM_9239c01830_9.0.zip",
+  "version": "V11.0.5.0.PDMMIXM",
   "size": "1.7G"
  },
  {
@@ -993,10 +993,10 @@
   "android": "9.0",
   "codename": "tulip_global",
   "device": "Redmi Note 6 Pro Global",
-  "download": "https://bigota.d.miui.com/V10.3.6.0.PEKMIXM/miui_HMNote6ProGlobal_V10.3.6.0.PEKMIXM_554d91f8c7_9.0.zip",
-  "filename": "miui_HMNote6ProGlobal_V10.3.6.0.PEKMIXM_554d91f8c7_9.0.zip",
-  "version": "V10.3.6.0.PEKMIXM",
-  "size": "1.6G"
+  "download": "https://bigota.d.miui.com/V11.0.2.0.PEKMIXM/miui_HMNote6ProGlobal_V11.0.2.0.PEKMIXM_e20a92d7ec_9.0.zip",
+  "filename": "miui_HMNote6ProGlobal_V11.0.2.0.PEKMIXM_e20a92d7ec_9.0.zip",
+  "version": "V11.0.2.0.PEKMIXM",
+  "size": "1.7G"
  },
  {
   "android": "8.1",
