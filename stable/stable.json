@@ -99,9 +99,9 @@
   "android": "9.0",
   "codename": "ginkgo",
   "device": "Redmi Note 8 China",
-  "download": "http://bigota.d.miui.com/V11.0.3.0.PCOCNXM/miui_GINKGO_V11.0.3.0.PCOCNXM_b07db156df_9.0.zip",
-  "filename": "miui_GINKGO_V11.0.3.0.PCOCNXM_b07db156df_9.0.zip",
-  "version": "V11.0.3.0.PCOCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.4.0.PCOCNXM/miui_GINKGO_V11.0.4.0.PCOCNXM_7248ec69cc_9.0.zip",
+  "filename": "miui_GINKGO_V11.0.4.0.PCOCNXM_7248ec69cc_9.0.zip",
+  "version": "V11.0.4.0.PCOCNXM"
  },
  {
   "android": "9.0",
@@ -272,12 +272,12 @@
   "version": "V11.0.2.0.NDDCNXM"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "perseus",
   "device": "Mi MIX 3 China",
-  "download": "http://bigota.d.miui.com/V11.0.4.0.PEECNXM/miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip",
-  "filename": "miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip",
-  "version": "V11.0.4.0.PEECNXM"
+  "download": "http://bigota.d.miui.com/V11.0.1.0.QEECNXM/miui_MIMIX3_V11.0.1.0.QEECNXM_b7c69f2498_10.0.zip",
+  "filename": "miui_MIMIX3_V11.0.1.0.QEECNXM_b7c69f2498_10.0.zip",
+  "version": "V11.0.1.0.QEECNXM"
  },
  {
   "android": "9.0",
