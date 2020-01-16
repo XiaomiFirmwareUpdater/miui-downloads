@@ -165,9 +165,9 @@
   "android": "9.0",
   "codename": "cereus_global",
   "device": "Redmi 6 Global",
-  "download": "https://bigota.d.miui.com/V11.0.1.0.PCGMIXM/miui_HM6Global_V11.0.1.0.PCGMIXM_14119a2019_9.0.zip",
-  "filename": "miui_HM6Global_V11.0.1.0.PCGMIXM_14119a2019_9.0.zip",
-  "version": "V11.0.1.0.PCGMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.PCGMIXM/miui_HM6Global_V11.0.2.0.PCGMIXM_aa8d648fcd_9.0.zip",
+  "filename": "miui_HM6Global_V11.0.2.0.PCGMIXM_aa8d648fcd_9.0.zip",
+  "version": "V11.0.2.0.PCGMIXM",
   "size": "1.3G"
  },
  {
@@ -579,9 +579,9 @@
   "android": "9.0",
   "codename": "nitrogen_ru_global",
   "device": "Mi Max 3 Russia",
-  "download": "https://bigota.d.miui.com/V11.0.6.0.PEDRUXM/miui_NITROGENRUGlobal_V11.0.6.0.PEDRUXM_3bd2da6a1c_9.0.zip",
-  "filename": "miui_NITROGENRUGlobal_V11.0.6.0.PEDRUXM_3bd2da6a1c_9.0.zip",
-  "version": "V11.0.6.0.PEDRUXM",
+  "download": "https://bigota.d.miui.com/V11.0.7.0.PEDRUXM/miui_NITROGENRUGlobal_V11.0.7.0.PEDRUXM_c7617d66a3_9.0.zip",
+  "filename": "miui_NITROGENRUGlobal_V11.0.7.0.PEDRUXM_c7617d66a3_9.0.zip",
+  "version": "V11.0.7.0.PEDRUXM",
   "size": "1.8G"
  },
  {
@@ -768,9 +768,9 @@
   "android": "9.0",
   "codename": "platina_ru_global",
   "device": "Mi 8 Lite Russia",
-  "download": "https://bigota.d.miui.com/V11.0.6.0.PDTRUXM/miui_PLATINARUGlobal_V11.0.6.0.PDTRUXM_211fbe544d_9.0.zip",
-  "filename": "miui_PLATINARUGlobal_V11.0.6.0.PDTRUXM_211fbe544d_9.0.zip",
-  "version": "V11.0.6.0.PDTRUXM",
+  "download": "https://bigota.d.miui.com/V11.0.7.0.PDTRUXM/miui_PLATINARUGlobal_V11.0.7.0.PDTRUXM_10c8bdaeca_9.0.zip",
+  "filename": "miui_PLATINARUGlobal_V11.0.7.0.PDTRUXM_10c8bdaeca_9.0.zip",
+  "version": "V11.0.7.0.PDTRUXM",
   "size": "1.8G"
  },
  {
