@@ -424,12 +424,12 @@
   "version": "V11.0.2.0.NDFCNXM"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "ursa",
   "device": "Mi 8 Explorer China",
-  "download": "http://bigota.d.miui.com/V11.0.3.0.PEHCNXM/miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip",
-  "filename": "miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip",
-  "version": "V11.0.3.0.PEHCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.QEHCNXM/miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip",
+  "filename": "miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip",
+  "version": "V11.0.2.0.QEHCNXM"
  },
  {
   "android": "9.0",
