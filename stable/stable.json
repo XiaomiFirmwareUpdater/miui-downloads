@@ -90,13 +90,13 @@
   "size": "1.8G"
  },
  {
-  "android": "8.1",
+  "android": "9.0",
   "codename": "cactus_global",
   "device": "Redmi 6A Global",
-  "download": "https://bigota.d.miui.com/V10.3.8.0.OCBMIXM/miui_HM6AGlobal_V10.3.8.0.OCBMIXM_dc11a7116a_8.1.zip",
-  "filename": "miui_HM6AGlobal_V10.3.8.0.OCBMIXM_dc11a7116a_8.1.zip",
-  "version": "V10.3.8.0.OCBMIXM",
-  "size": "1.2G"
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PCBMIXM/miui_HM6AGlobal_V11.0.5.0.PCBMIXM_8e3d701303_9.0.zip",
+  "filename": "miui_HM6AGlobal_V11.0.5.0.PCBMIXM_8e3d701303_9.0.zip",
+  "version": "V11.0.5.0.PCBMIXM",
+  "size": "1.3G"
  },
  {
   "android": "8.1",
@@ -570,9 +570,9 @@
   "android": "9.0",
   "codename": "nitrogen_global",
   "device": "Mi Max 3 Global",
-  "download": "https://bigota.d.miui.com/V11.0.6.0.PEDMIXM/miui_MIMAX3Global_V11.0.6.0.PEDMIXM_26b9783b2a_9.0.zip",
-  "filename": "miui_MIMAX3Global_V11.0.6.0.PEDMIXM_26b9783b2a_9.0.zip",
-  "version": "V11.0.6.0.PEDMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.7.0.PEDMIXM/miui_MIMAX3Global_V11.0.7.0.PEDMIXM_8dce524ff9_9.0.zip",
+  "filename": "miui_MIMAX3Global_V11.0.7.0.PEDMIXM_8dce524ff9_9.0.zip",
+  "version": "V11.0.7.0.PEDMIXM",
   "size": "1.8G"
  },
  {
@@ -597,9 +597,9 @@
   "android": "9.0",
   "codename": "olive_global",
   "device": "Redmi 8 Global",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PCNMIXM/miui_OLIVEGlobal_V11.0.3.0.PCNMIXM_b3a973ea8f_9.0.zip",
-  "filename": "miui_OLIVEGlobal_V11.0.3.0.PCNMIXM_b3a973ea8f_9.0.zip",
-  "version": "V11.0.3.0.PCNMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.4.0.PCNMIXM/miui_OLIVEGlobal_V11.0.4.0.PCNMIXM_cd2b877092_9.0.zip",
+  "filename": "miui_OLIVEGlobal_V11.0.4.0.PCNMIXM_cd2b877092_9.0.zip",
+  "version": "V11.0.4.0.PCNMIXM",
   "size": "1.9G"
  },
  {
@@ -759,9 +759,9 @@
   "android": "9.0",
   "codename": "platina_global",
   "device": "Mi 8 Lite Global",
-  "download": "https://bigota.d.miui.com/V11.0.7.0.PDTMIXM/miui_MI8LiteGlobal_V11.0.7.0.PDTMIXM_69cdf0fb10_9.0.zip",
-  "filename": "miui_MI8LiteGlobal_V11.0.7.0.PDTMIXM_69cdf0fb10_9.0.zip",
-  "version": "V11.0.7.0.PDTMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.8.0.PDTMIXM/miui_MI8LiteGlobal_V11.0.8.0.PDTMIXM_bb4de77c17_9.0.zip",
+  "filename": "miui_MI8LiteGlobal_V11.0.8.0.PDTMIXM_bb4de77c17_9.0.zip",
+  "version": "V11.0.8.0.PDTMIXM",
   "size": "1.8G"
  },
  {
@@ -885,9 +885,9 @@
   "android": "8.1",
   "codename": "rosy_global",
   "device": "Redmi 5 Global",
-  "download": "https://bigota.d.miui.com/V11.0.1.0.ODAMIXM/miui_HM5Global_V11.0.1.0.ODAMIXM_54e03286b9_8.1.zip",
-  "filename": "miui_HM5Global_V11.0.1.0.ODAMIXM_54e03286b9_8.1.zip",
-  "version": "V11.0.1.0.ODAMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.ODAMIXM/miui_HM5Global_V11.0.2.0.ODAMIXM_25c20fae94_8.1.zip",
+  "filename": "miui_HM5Global_V11.0.2.0.ODAMIXM_25c20fae94_8.1.zip",
+  "version": "V11.0.2.0.ODAMIXM",
   "size": "1.4G"
  },
  {
@@ -984,10 +984,10 @@
   "android": "9.0",
   "codename": "tucana_ru_global",
   "device": "Mi Note 10 RU",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PFDRUXM/miui_TUCANARUGlobal_V11.0.3.0.PFDRUXM_cd59013df3_9.0.zip",
-  "filename": "miui_TUCANARUGlobal_V11.0.3.0.PFDRUXM_cd59013df3_9.0.zip",
-  "version": "V11.0.3.0.PFDRUXM",
-  "size": "2.5G"
+  "download": "https://bigota.d.miui.com/V11.0.6.0.PFDRUXM/miui_TUCANARUGlobal_V11.0.6.0.PFDRUXM_f5b4a667c1_9.0.zip",
+  "filename": "miui_TUCANARUGlobal_V11.0.6.0.PFDRUXM_f5b4a667c1_9.0.zip",
+  "version": "V11.0.6.0.PFDRUXM",
+  "size": "2.6G"
  },
  {
   "android": "9.0",
