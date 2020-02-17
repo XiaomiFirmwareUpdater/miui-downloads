@@ -284,6 +284,11 @@
   "model": "HMNote5ALITE",
   "pid": "335"
  },
+ "umi": {
+  "name": "Mi 10 China",
+  "model": "UMI",
+  "pid": "365"
+ },
  "ursa": {
   "name": "Mi 8 Explorer China",
   "model": "MI8Explorer",
