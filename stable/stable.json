@@ -425,6 +425,14 @@
  },
  {
   "android": "10.0",
+  "codename": "umi",
+  "device": "Mi 10 China",
+  "download": "http://bigota.d.miui.com/V11.0.7.0.QJBCNXM/miui_UMI_V11.0.7.0.QJBCNXM_f24f102639_10.0.zip",
+  "filename": "miui_UMI_V11.0.7.0.QJBCNXM_f24f102639_10.0.zip",
+  "version": "V11.0.7.0.QJBCNXM"
+ },
+ {
+  "android": "10.0",
   "codename": "ursa",
   "device": "Mi 8 Explorer China",
   "download": "http://bigota.d.miui.com/V11.0.2.0.QEHCNXM/miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip",
