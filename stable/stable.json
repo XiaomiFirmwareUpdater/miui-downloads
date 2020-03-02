@@ -597,9 +597,9 @@
   "android": "9.0",
   "codename": "olive_global",
   "device": "Redmi 8 Global",
-  "download": "https://bigota.d.miui.com/V11.0.6.0.PCNMIXM/miui_OLIVEGlobal_V11.0.6.0.PCNMIXM_e905bad490_9.0.zip",
-  "filename": "miui_OLIVEGlobal_V11.0.6.0.PCNMIXM_e905bad490_9.0.zip",
-  "version": "V11.0.6.0.PCNMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.7.0.PCNMIXM/miui_OLIVEGlobal_V11.0.7.0.PCNMIXM_db1f5a40bb_9.0.zip",
+  "filename": "miui_OLIVEGlobal_V11.0.7.0.PCNMIXM_db1f5a40bb_9.0.zip",
+  "version": "V11.0.7.0.PCNMIXM",
   "size": "1.9G"
  },
  {
@@ -615,9 +615,9 @@
   "android": "9.0",
   "codename": "olive_in_global",
   "device": "Redmi 8 India",
-  "download": "https://bigota.d.miui.com/V11.0.6.0.PCNINXM/miui_OLIVEINGlobal_V11.0.6.0.PCNINXM_58ad54e741_9.0.zip",
-  "filename": "miui_OLIVEINGlobal_V11.0.6.0.PCNINXM_58ad54e741_9.0.zip",
-  "version": "V11.0.6.0.PCNINXM",
+  "download": "https://bigota.d.miui.com/V11.0.7.0.PCNINXM/miui_OLIVEINGlobal_V11.0.7.0.PCNINXM_3950d69d15_9.0.zip",
+  "filename": "miui_OLIVEINGlobal_V11.0.7.0.PCNINXM_3950d69d15_9.0.zip",
+  "version": "V11.0.7.0.PCNINXM",
   "size": "1.9G"
  },
  {
@@ -822,9 +822,9 @@
   "android": "9.0",
   "codename": "pyxis_ru_global",
   "device": "Mi 9 Lite/Mi CC 9 RU",
-  "download": "https://bigota.d.miui.com/V11.3.3.0.PFCRUXM/miui_PYXISRUGlobal_V11.3.3.0.PFCRUXM_35d47b9f8b_9.0.zip",
-  "filename": "miui_PYXISRUGlobal_V11.3.3.0.PFCRUXM_35d47b9f8b_9.0.zip",
-  "version": "V11.3.3.0.PFCRUXM",
+  "download": "https://bigota.d.miui.com/V11.3.5.0.PFCRUXM/miui_PYXISRUGlobal_V11.3.5.0.PFCRUXM_debc6b1086_9.0.zip",
+  "filename": "miui_PYXISRUGlobal_V11.3.5.0.PFCRUXM_debc6b1086_9.0.zip",
+  "version": "V11.3.5.0.PFCRUXM",
   "size": "2.2G"
  },
  {
