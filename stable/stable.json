@@ -104,12 +104,12 @@
   "version": "V11.0.5.0.PCOCNXM"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "grus",
   "device": "Mi 9 SE China",
-  "download": "http://bigota.d.miui.com/V11.0.5.0.PFBCNXM/miui_GRUS_V11.0.5.0.PFBCNXM_41b4612800_9.0.zip",
-  "filename": "miui_GRUS_V11.0.5.0.PFBCNXM_41b4612800_9.0.zip",
-  "version": "V11.0.5.0.PFBCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.QFBCNXM/miui_GRUS_V11.0.2.0.QFBCNXM_40ad667ea3_10.0.zip",
+  "filename": "miui_GRUS_V11.0.2.0.QFBCNXM_40ad667ea3_10.0.zip",
+  "version": "V11.0.2.0.QFBCNXM"
  },
  {
   "android": "7.0",
@@ -131,9 +131,9 @@
   "android": "9.0",
   "codename": "jason",
   "device": "Mi Note 3 China",
-  "download": "http://bigota.d.miui.com/V11.0.3.0.PCHCNXM/miui_MINote3_V11.0.3.0.PCHCNXM_60dcc350c6_9.0.zip",
-  "filename": "miui_MINote3_V11.0.3.0.PCHCNXM_60dcc350c6_9.0.zip",
-  "version": "V11.0.3.0.PCHCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.4.0.PCHCNXM/miui_MINote3_V11.0.4.0.PCHCNXM_fb1a28dfe0_9.0.zip",
+  "filename": "miui_MINote3_V11.0.4.0.PCHCNXM_fb1a28dfe0_9.0.zip",
+  "version": "V11.0.4.0.PCHCNXM"
  },
  {
   "android": "6.0",
@@ -384,12 +384,12 @@
   "version": "V11.0.2.0.OADCNXM"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "sirius",
   "device": "Mi 8 SE China",
-  "download": "http://bigota.d.miui.com/V11.0.3.0.PEBCNXM/miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip",
-  "filename": "miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip",
-  "version": "V11.0.3.0.PEBCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.QEBCNXM/miui_MI8SE_V11.0.2.0.QEBCNXM_3363abf171_10.0.zip",
+  "filename": "miui_MI8SE_V11.0.2.0.QEBCNXM_3363abf171_10.0.zip",
+  "version": "V11.0.2.0.QEBCNXM"
  },
  {
   "android": "8.1",
@@ -427,9 +427,9 @@
   "android": "10.0",
   "codename": "umi",
   "device": "Mi 10 China",
-  "download": "http://bigota.d.miui.com/V11.0.7.0.QJBCNXM/miui_UMI_V11.0.7.0.QJBCNXM_f24f102639_10.0.zip",
-  "filename": "miui_UMI_V11.0.7.0.QJBCNXM_f24f102639_10.0.zip",
-  "version": "V11.0.7.0.QJBCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.10.0.QJBCNXM/miui_UMI_V11.0.10.0.QJBCNXM_5ceecaedad_10.0.zip",
+  "filename": "miui_UMI_V11.0.10.0.QJBCNXM_5ceecaedad_10.0.zip",
+  "version": "V11.0.10.0.QJBCNXM"
  },
  {
   "android": "10.0",
