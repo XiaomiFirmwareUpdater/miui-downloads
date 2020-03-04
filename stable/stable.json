@@ -225,12 +225,12 @@
   "size": "2.1G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "davinciin_in_global",
   "device": "Redmi K20 India",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PFJINXM/miui_DAVINCIININGlobal_V11.0.3.0.PFJINXM_ef8c64eb0f_9.0.zip",
-  "filename": "miui_DAVINCIININGlobal_V11.0.3.0.PFJINXM_ef8c64eb0f_9.0.zip",
-  "version": "V11.0.3.0.PFJINXM",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.QFJINXM/miui_DAVINCIININGlobal_V11.0.2.0.QFJINXM_a6d5ee94e7_10.0.zip",
+  "filename": "miui_DAVINCIININGlobal_V11.0.2.0.QFJINXM_a6d5ee94e7_10.0.zip",
+  "version": "V11.0.2.0.QFJINXM",
   "size": "2.2G"
  },
  {
@@ -282,18 +282,18 @@
   "android": "9.0",
   "codename": "ginkgo_id_global",
   "device": "Redmi Note 8 Indonesia",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.PCOIDXM/miui_GINKGOIDGlobal_V11.0.2.0.PCOIDXM_6f17247eb8_9.0.zip",
-  "filename": "miui_GINKGOIDGlobal_V11.0.2.0.PCOIDXM_6f17247eb8_9.0.zip",
-  "version": "V11.0.2.0.PCOIDXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PCOIDXM/miui_GINKGOIDGlobal_V11.0.3.0.PCOIDXM_aaafd2cf3a_9.0.zip",
+  "filename": "miui_GINKGOIDGlobal_V11.0.3.0.PCOIDXM_aaafd2cf3a_9.0.zip",
+  "version": "V11.0.3.0.PCOIDXM",
   "size": "1.9G"
  },
  {
   "android": "9.0",
   "codename": "ginkgo_in_global",
   "device": "Redmi Note 8 India",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.PCOINXM/miui_GINKGOINGlobal_V11.0.2.0.PCOINXM_ebb16356fb_9.0.zip",
-  "filename": "miui_GINKGOINGlobal_V11.0.2.0.PCOINXM_ebb16356fb_9.0.zip",
-  "version": "V11.0.2.0.PCOINXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PCOINXM/miui_GINKGOINGlobal_V11.0.3.0.PCOINXM_2b90bba954_9.0.zip",
+  "filename": "miui_GINKGOINGlobal_V11.0.3.0.PCOINXM_2b90bba954_9.0.zip",
+  "version": "V11.0.3.0.PCOINXM",
   "size": "1.9G"
  },
  {
@@ -606,9 +606,9 @@
   "android": "9.0",
   "codename": "olive_id_global",
   "device": "Redmi 8 ID",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PCNIDXM/miui_OLIVEIDGlobal_V11.0.3.0.PCNIDXM_082a3ae451_9.0.zip",
-  "filename": "miui_OLIVEIDGlobal_V11.0.3.0.PCNIDXM_082a3ae451_9.0.zip",
-  "version": "V11.0.3.0.PCNIDXM",
+  "download": "https://bigota.d.miui.com/V11.0.4.0.PCNIDXM/miui_OLIVEIDGlobal_V11.0.4.0.PCNIDXM_51d47d7eb9_9.0.zip",
+  "filename": "miui_OLIVEIDGlobal_V11.0.4.0.PCNIDXM_51d47d7eb9_9.0.zip",
+  "version": "V11.0.4.0.PCNIDXM",
   "size": "1.9G"
  },
  {
@@ -732,27 +732,27 @@
   "android": "9.0",
   "codename": "pine_eea_global",
   "device": "Redmi 7A EEA",
-  "download": "https://bigota.d.miui.com/V11.0.13.0.PCMEUXM/miui_PINEEEAGlobal_V11.0.13.0.PCMEUXM_6d2ee04dd4_9.0.zip",
-  "filename": "miui_PINEEEAGlobal_V11.0.13.0.PCMEUXM_6d2ee04dd4_9.0.zip",
-  "version": "V11.0.13.0.PCMEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.14.0.PCMEUXM/miui_PINEEEAGlobal_V11.0.14.0.PCMEUXM_1d2d60ed95_9.0.zip",
+  "filename": "miui_PINEEEAGlobal_V11.0.14.0.PCMEUXM_1d2d60ed95_9.0.zip",
+  "version": "V11.0.14.0.PCMEUXM",
   "size": "1.5G"
  },
  {
   "android": "9.0",
   "codename": "pine_global",
   "device": "Redmi 7A Global",
-  "download": "https://bigota.d.miui.com/V11.0.5.0.PCMMIXM/miui_PINEGlobal_V11.0.5.0.PCMMIXM_d87548dd5a_9.0.zip",
-  "filename": "miui_PINEGlobal_V11.0.5.0.PCMMIXM_d87548dd5a_9.0.zip",
-  "version": "V11.0.5.0.PCMMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.6.0.PCMMIXM/miui_PINEGlobal_V11.0.6.0.PCMMIXM_3dbb87d63c_9.0.zip",
+  "filename": "miui_PINEGlobal_V11.0.6.0.PCMMIXM_3dbb87d63c_9.0.zip",
+  "version": "V11.0.6.0.PCMMIXM",
   "size": "1.5G"
  },
  {
   "android": "9.0",
   "codename": "pine_ru_global",
   "device": "Redmi 7A RU",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.PCMRUXM/miui_PINERUGlobal_V11.0.4.0.PCMRUXM_d38e77621c_9.0.zip",
-  "filename": "miui_PINERUGlobal_V11.0.4.0.PCMRUXM_d38e77621c_9.0.zip",
-  "version": "V11.0.4.0.PCMRUXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PCMRUXM/miui_PINERUGlobal_V11.0.5.0.PCMRUXM_07aa46c769_9.0.zip",
+  "filename": "miui_PINERUGlobal_V11.0.5.0.PCMRUXM_07aa46c769_9.0.zip",
+  "version": "V11.0.5.0.PCMRUXM",
   "size": "1.5G"
  },
  {
