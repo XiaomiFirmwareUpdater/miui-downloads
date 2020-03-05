@@ -783,13 +783,13 @@
   "size": "1.9G"
  },
  {
-  "android": "8.0",
+  "android": "9.0",
   "codename": "polaris_ru_global",
   "device": "Mi MIX 2S Russia",
-  "download": "https://bigota.d.miui.com/V9.5.16.0.ODGRUFA/miui_MIMIX2SRUGlobal_V9.5.16.0.ODGRUFA_f6165b5f90_8.0.zip",
-  "filename": "miui_MIMIX2SRUGlobal_V9.5.16.0.ODGRUFA_f6165b5f90_8.0.zip",
-  "version": "V9.5.16.0.ODGRUFA",
-  "size": "1.6G"
+  "download": "https://bigota.d.miui.com/V11.0.1.0.PDGRUXM/miui_MIMIX2SRUGlobal_V11.0.1.0.PDGRUXM_4e287514ae_9.0.zip",
+  "filename": "miui_MIMIX2SRUGlobal_V11.0.1.0.PDGRUXM_4e287514ae_9.0.zip",
+  "version": "V11.0.1.0.PDGRUXM",
+  "size": "1.9G"
  },
  {
   "android": "6.0",
@@ -966,9 +966,9 @@
   "android": "9.0",
   "codename": "tucana_eea_global",
   "device": "Mi Note 10 EEA",
-  "download": "https://bigota.d.miui.com/V11.0.13.0.PFDEUXM/miui_TUCANAEEAGlobal_V11.0.13.0.PFDEUXM_61518caa02_9.0.zip",
-  "filename": "miui_TUCANAEEAGlobal_V11.0.13.0.PFDEUXM_61518caa02_9.0.zip",
-  "version": "V11.0.13.0.PFDEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.14.0.PFDEUXM/miui_TUCANAEEAGlobal_V11.0.14.0.PFDEUXM_2d67efc5e3_9.0.zip",
+  "filename": "miui_TUCANAEEAGlobal_V11.0.14.0.PFDEUXM_2d67efc5e3_9.0.zip",
+  "version": "V11.0.14.0.PFDEUXM",
   "size": "2.6G"
  },
  {
