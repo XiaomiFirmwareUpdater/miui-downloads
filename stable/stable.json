@@ -138,18 +138,18 @@
   "android": "10.0",
   "codename": "cepheus_eea_global",
   "device": "Mi 9 EEA",
-  "download": "https://bigota.d.miui.com/V11.0.6.0.QFAEUXM/miui_CEPHEUSEEAGlobal_V11.0.6.0.QFAEUXM_1647340073_10.0.zip",
-  "filename": "miui_CEPHEUSEEAGlobal_V11.0.6.0.QFAEUXM_1647340073_10.0.zip",
-  "version": "V11.0.6.0.QFAEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.8.0.QFAEUXM/miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip",
+  "filename": "miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip",
+  "version": "V11.0.8.0.QFAEUXM",
   "size": "2.3G"
  },
  {
   "android": "10.0",
   "codename": "cepheus_global",
   "device": "Mi 9 Global",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.QFAMIXM/miui_CEPHEUSGlobal_V11.0.3.0.QFAMIXM_f321a89ed9_10.0.zip",
-  "filename": "miui_CEPHEUSGlobal_V11.0.3.0.QFAMIXM_f321a89ed9_10.0.zip",
-  "version": "V11.0.3.0.QFAMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.QFAMIXM/miui_CEPHEUSGlobal_V11.0.5.0.QFAMIXM_2a6a8c5259_10.0.zip",
+  "filename": "miui_CEPHEUSGlobal_V11.0.5.0.QFAMIXM_2a6a8c5259_10.0.zip",
+  "version": "V11.0.5.0.QFAMIXM",
   "size": "2.3G"
  },
  {
@@ -243,12 +243,12 @@
   "size": "1.9G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "dipper_ru_global",
   "device": "Mi 8 Russia",
-  "download": "https://bigota.d.miui.com/V11.0.6.0.PEARUXM/miui_MI8RUGlobal_V11.0.6.0.PEARUXM_99fd810f76_9.0.zip",
-  "filename": "miui_MI8RUGlobal_V11.0.6.0.PEARUXM_99fd810f76_9.0.zip",
-  "version": "V11.0.6.0.PEARUXM",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.QEARUXM/miui_MI8RUGlobal_V11.0.2.0.QEARUXM_7e7f29c515_10.0.zip",
+  "filename": "miui_MI8RUGlobal_V11.0.2.0.QEARUXM_7e7f29c515_10.0.zip",
+  "version": "V11.0.2.0.QEARUXM",
   "size": "1.9G"
  },
  {
@@ -720,13 +720,13 @@
   "size": "2.0G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "perseus_ru_global",
   "device": "Mi MIX 3 Russia",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.PEERUXM/miui_MIMIX3RUGlobal_V11.0.4.0.PEERUXM_7dcf4757f0_9.0.zip",
-  "filename": "miui_MIMIX3RUGlobal_V11.0.4.0.PEERUXM_7dcf4757f0_9.0.zip",
-  "version": "V11.0.4.0.PEERUXM",
-  "size": "2.0G"
+  "download": "https://bigota.d.miui.com/V11.0.2.0.QEERUXM/miui_MIMIX3RUGlobal_V11.0.2.0.QEERUXM_b9d17f9218_10.0.zip",
+  "filename": "miui_MIMIX3RUGlobal_V11.0.2.0.QEERUXM_b9d17f9218_10.0.zip",
+  "version": "V11.0.2.0.QEERUXM",
+  "size": "2.1G"
  },
  {
   "android": "9.0",
