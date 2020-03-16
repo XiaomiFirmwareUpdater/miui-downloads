@@ -283,9 +283,9 @@
   "android": "9.0",
   "codename": "pine",
   "device": "Redmi 7A China",
-  "download": "http://bigota.d.miui.com/V11.0.2.0.PCMCNXM/miui_PINE_V11.0.2.0.PCMCNXM_fb68c600ed_9.0.zip",
-  "filename": "miui_PINE_V11.0.2.0.PCMCNXM_fb68c600ed_9.0.zip",
-  "version": "V11.0.2.0.PCMCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.5.0.PCMCNXM/miui_PINE_V11.0.5.0.PCMCNXM_b3581f0e0c_9.0.zip",
+  "filename": "miui_PINE_V11.0.5.0.PCMCNXM_b3581f0e0c_9.0.zip",
+  "version": "V11.0.5.0.PCMCNXM"
  },
  {
   "android": "9.0",
@@ -312,12 +312,12 @@
   "version": "V10.2.2.0.MCECNXM"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "pyxis",
   "device": "Mi CC 9 China",
-  "download": "http://bigota.d.miui.com/V11.3.3.0.PFCCNXM/miui_PYXIS_V11.3.3.0.PFCCNXM_c02239b14d_9.0.zip",
-  "filename": "miui_PYXIS_V11.3.3.0.PFCCNXM_c02239b14d_9.0.zip",
-  "version": "V11.3.3.0.PFCCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.1.0.QFCCNXM/miui_PYXIS_V11.0.1.0.QFCCNXM_ed59cac77c_10.0.zip",
+  "filename": "miui_PYXIS_V11.0.1.0.QFCCNXM_ed59cac77c_10.0.zip",
+  "version": "V11.0.1.0.QFCCNXM"
  },
  {
   "android": "10.0",
@@ -440,12 +440,12 @@
   "version": "V11.0.2.0.QEHCNXM"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "vela",
   "device": "Mi CC 9 Meitu China",
-  "download": "http://bigota.d.miui.com/V11.3.2.0.PFECNXM/miui_VELA_V11.3.2.0.PFECNXM_da8cff8fc2_9.0.zip",
-  "filename": "miui_VELA_V11.3.2.0.PFECNXM_da8cff8fc2_9.0.zip",
-  "version": "V11.3.2.0.PFECNXM"
+  "download": "http://bigota.d.miui.com/V11.0.1.0.QFECNXM/miui_VELA_V11.0.1.0.QFECNXM_d543acf17d_10.0.zip",
+  "filename": "miui_VELA_V11.0.1.0.QFECNXM_d543acf17d_10.0.zip",
+  "version": "V11.0.1.0.QFECNXM"
  },
  {
   "android": "8.1",
