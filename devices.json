@@ -49,6 +49,11 @@
   "model": "CRUX",
   "pid": "357"
  },
+ "cmi": {
+  "name": "Mi 10 Pro China",
+  "model": "CMI",
+  "pid": "365"
+ },
  "davinci": {
   "name": "Redmi K20 China",
   "model": "DAVINCI",
@@ -193,6 +198,16 @@
   "name": "Redmi 7A China",
   "model": "PINE",
   "pid": "348"
+ },
+ "picaaso": {
+  "name": "Redmi K30 5G China",
+  "model": "PICASSO",
+  "pid": "364"
+ },
+ "phoenix": {
+  "name": "Redmi K30 China",
+  "model": "PHOENIX",
+  "pid": "364"
  },
  "pyxis": {
   "name": "Mi CC 9 China",
