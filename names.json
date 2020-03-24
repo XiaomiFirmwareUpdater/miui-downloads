@@ -109,6 +109,16 @@
   "model": "MIMIX2Global",
   "id": "1700334"
  },
+ "curtana_global": {
+  "name": "Redmi Note 9S Global",
+  "model": "CURTANAGlobal",
+  "id": "1900378"
+ },
+ "curtana_in_global": {
+  "name": "Redmi Note 9 Pro India",
+  "model": "CURTANAINGlobal",
+  "id": "1900378"
+ },
  "daisy_global": {
   "name": "Mi A2 Lite",
   "model": "daisy",
