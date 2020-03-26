@@ -183,9 +183,9 @@
   "android": "9.0",
   "codename": "chiron_global",
   "device": "Mi MIX 2 Global",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PDEMIXM/miui_MIMIX2Global_V11.0.3.0.PDEMIXM_9445ac3638_9.0.zip",
-  "filename": "miui_MIMIX2Global_V11.0.3.0.PDEMIXM_9445ac3638_9.0.zip",
-  "version": "V11.0.3.0.PDEMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.6.0.PDEMIXM/miui_MIMIX2Global_V11.0.6.0.PDEMIXM_0805fdbc02_9.0.zip",
+  "filename": "miui_MIMIX2Global_V11.0.6.0.PDEMIXM_0805fdbc02_9.0.zip",
+  "version": "V11.0.6.0.PDEMIXM",
   "size": "1.7G"
  },
  {
@@ -705,18 +705,18 @@
   "android": "9.0",
   "codename": "onclite_eea_global",
   "device": "Redmi 7 EEA",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.PFLEUXM/miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip",
-  "filename": "miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip",
-  "version": "V11.0.4.0.PFLEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.6.0.PFLEUXM/miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip",
+  "filename": "miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip",
+  "version": "V11.0.6.0.PFLEUXM",
   "size": "1.7G"
  },
  {
   "android": "9.0",
   "codename": "onclite_global",
   "device": "Redmi 7 Global",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PFLMIXM/miui_ONCLITEGlobal_V11.0.3.0.PFLMIXM_b8059d3956_9.0.zip",
-  "filename": "miui_ONCLITEGlobal_V11.0.3.0.PFLMIXM_b8059d3956_9.0.zip",
-  "version": "V11.0.3.0.PFLMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PFLMIXM/miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip",
+  "filename": "miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip",
+  "version": "V11.0.5.0.PFLMIXM",
   "size": "1.7G"
  },
  {
