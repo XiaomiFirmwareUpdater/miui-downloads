@@ -1,12 +1,13 @@
 #!/usr/bin/env python3.7
 """Xiaomi MIUI Downloads scraper"""
 
+import asyncio
 import json
 from datetime import datetime
 from glob import glob
 from os import remove, system, environ
-from time import sleep
-import requests
+
+import aiohttp
 
 STABLE = []
 WEEKLY = []
@@ -15,7 +16,7 @@ with open('names.json', 'r') as devices_json:
     NAMES = json.load(devices_json)
 
 
-def fetch_devices():
+async def fetch_devices():
     """
     fetch MIUI downloads devices
     """
@@ -32,12 +33,15 @@ def fetch_devices():
     }
 
     url = 'http://c.mi.com/oc/rom/getphonelist'
-    data = requests.get(url, headers=headers).json()['data']['phone_data']['phone_list']
-    ids = [i['id'] for i in data]
-    return ids
+    async with aiohttp.ClientSession() as session:
+        async with session.get(url, headers=headers) as response:
+            json_data = await response.json()
+            json_data = json_data['data']['phone_data']['phone_list']
+            ids = [i['id'] for i in json_data]
+            return ids
 
 
-def fetch_roms(device_id, url):
+async def fetch_roms(device_id, url):
     """
     fetch MIUI ROMs downloads
     """
@@ -51,8 +55,9 @@ def fetch_roms(device_id, url):
         'Connection': 'keep-alive',
         'Cache-Control': 'no-cache',
     }
-    data = requests.get(
-        url, headers=headers, verify=False).json()
+    async with aiohttp.ClientSession() as session:
+        async with session.get(url, headers=headers) as response:
+            data = await response.json()
     print(data)
     data = data['data']['device_data']['device_list']
     if not data:
@@ -158,7 +163,7 @@ def git_commit_push():
     git add - git commit - git push
 =    """
     today = str(datetime.today()).split('.')[0]
-    system("git add */*.json && "
+    system("git add */*.json names.json && "
            "git -c \"user.name=XiaomiFirmwareUpdater\" -c "
            "\"user.email=xiaomifirmwareupdater@gmail.com\" "
            "commit -m \"[skip ci] sync: {}\" && "" \
@@ -167,16 +172,15 @@ def git_commit_push():
            .format(today, environ['XFU']))
 
 
-def main():
+async def main():
     """
     Main scraping script
     """
-    devices_ids = fetch_devices()
-    for device_id in devices_ids:
-        url = f'http://c.mi.com/oc/rom/getdevicelist?phone_id={device_id}'
-        print(f"Fetching {device_id}: {url}")
-        fetch_roms(device_id, url)
-        # sleep(5)
+    devices_ids = await fetch_devices()
+    tasks = [asyncio.ensure_future(
+        fetch_roms(device_id, f'http://c.mi.com/oc/rom/getdevicelist?phone_id={device_id}'))
+        for device_id in devices_ids]
+    await asyncio.gather(*tasks)
     data = {'stable': STABLE, 'weekly': WEEKLY}
     for name, details in data.items():
         gen_json(details, name)
@@ -189,4 +193,5 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(main())
