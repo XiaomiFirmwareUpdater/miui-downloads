@@ -119,7 +119,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 4 3G/4G Global",
+  "device": "Mi 3 Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -234,13 +234,13 @@
   "size": "2.2G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "davinci_ru_global",
   "device": "Mi 9T Russia",
-  "download": "https://bigota.d.miui.com/V10.3.10.0.PFJRUXM/miui_DAVINCIRUGlobal_V10.3.10.0.PFJRUXM_0d0ae5a119_9.0.zip",
-  "filename": "miui_DAVINCIRUGlobal_V10.3.10.0.PFJRUXM_0d0ae5a119_9.0.zip",
-  "version": "V10.3.10.0.PFJRUXM",
-  "size": "2.1G"
+  "download": "https://bigota.d.miui.com/V11.0.3.0.QFJRUXM/miui_DAVINCIRUGlobal_V11.0.3.0.QFJRUXM_01634861e7_10.0.zip",
+  "filename": "miui_DAVINCIRUGlobal_V11.0.3.0.QFJRUXM_01634861e7_10.0.zip",
+  "version": "V11.0.3.0.QFJRUXM",
+  "size": "2.3G"
  },
  {
   "android": "10.0",
@@ -291,9 +291,9 @@
   "android": "9.0",
   "codename": "ginkgo_global",
   "device": "Redmi Note 8 Global",
-  "download": "https://bigota.d.miui.com/V11.0.7.0.PCOMIXM/miui_GINKGOGlobal_V11.0.7.0.PCOMIXM_8b2a9f5dbe_9.0.zip",
-  "filename": "miui_GINKGOGlobal_V11.0.7.0.PCOMIXM_8b2a9f5dbe_9.0.zip",
-  "version": "V11.0.7.0.PCOMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.8.0.PCOMIXM/miui_GINKGOGlobal_V11.0.8.0.PCOMIXM_f9fd10c076_9.0.zip",
+  "filename": "miui_GINKGOGlobal_V11.0.8.0.PCOMIXM_f9fd10c076_9.0.zip",
+  "version": "V11.0.8.0.PCOMIXM",
   "size": "2.0G"
  },
  {
@@ -315,22 +315,22 @@
   "size": "1.9G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "grus_eea_global",
   "device": "Mi 9 SE EEA",
-  "download": "https://bigota.d.miui.com/V11.0.13.0.PFBEUXM/miui_GRUSEEAGlobal_V11.0.13.0.PFBEUXM_b22d201839_9.0.zip",
-  "filename": "miui_GRUSEEAGlobal_V11.0.13.0.PFBEUXM_b22d201839_9.0.zip",
-  "version": "V11.0.13.0.PFBEUXM",
-  "size": "2.1G"
+  "download": "https://bigota.d.miui.com/V11.0.2.0.QFBEUXM/miui_GRUSEEAGlobal_V11.0.2.0.QFBEUXM_522065df4b_10.0.zip",
+  "filename": "miui_GRUSEEAGlobal_V11.0.2.0.QFBEUXM_522065df4b_10.0.zip",
+  "version": "V11.0.2.0.QFBEUXM",
+  "size": "2.2G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "grus_global",
   "device": "Mi 9 SE Global",
-  "download": "https://bigota.d.miui.com/V11.0.6.0.PFBMIXM/miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip",
-  "filename": "miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip",
-  "version": "V11.0.6.0.PFBMIXM",
-  "size": "2.1G"
+  "download": "https://bigota.d.miui.com/V11.0.2.0.QFBMIXM/miui_GRUSGlobal_V11.0.2.0.QFBMIXM_5e899dbcec_10.0.zip",
+  "filename": "miui_GRUSGlobal_V11.0.2.0.QFBMIXM_5e899dbcec_10.0.zip",
+  "version": "V11.0.2.0.QFBMIXM",
+  "size": "2.2G"
  },
  {
   "android": "4.4",
@@ -480,10 +480,10 @@
   "android": "9.0",
   "codename": "lavender_eea_global",
   "device": "Redmi Note 7 EEA",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.PFGEUXM/miui_LAVENDEREEAGlobal_V11.0.4.0.PFGEUXM_09de63aa49_9.0.zip",
-  "filename": "miui_LAVENDEREEAGlobal_V11.0.4.0.PFGEUXM_09de63aa49_9.0.zip",
-  "version": "V11.0.4.0.PFGEUXM",
-  "size": "1.8G"
+  "download": "https://bigota.d.miui.com/V11.0.7.0.PFGEUXM/miui_LAVENDEREEAGlobal_V11.0.7.0.PFGEUXM_3b1ae2ea0f_9.0.zip",
+  "filename": "miui_LAVENDEREEAGlobal_V11.0.7.0.PFGEUXM_3b1ae2ea0f_9.0.zip",
+  "version": "V11.0.7.0.PFGEUXM",
+  "size": "1.9G"
  },
  {
   "android": "9.0",
@@ -585,12 +585,12 @@
   "size": "1.3G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "nitrogen_global",
   "device": "Mi Max 3 Global",
-  "download": "https://bigota.d.miui.com/V11.0.7.0.PEDMIXM/miui_MIMAX3Global_V11.0.7.0.PEDMIXM_8dce524ff9_9.0.zip",
-  "filename": "miui_MIMAX3Global_V11.0.7.0.PEDMIXM_8dce524ff9_9.0.zip",
-  "version": "V11.0.7.0.PEDMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.1.0.QEDMIXM/miui_MIMAX3Global_V11.0.1.0.QEDMIXM_7b489a7719_10.0.zip",
+  "filename": "miui_MIMAX3Global_V11.0.1.0.QEDMIXM_7b489a7719_10.0.zip",
+  "version": "V11.0.1.0.QEDMIXM",
   "size": "1.8G"
  },
  {
@@ -828,22 +828,22 @@
   "size": "2.2G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "pyxis_global",
   "device": "Mi 9 Lite/Mi CC 9 Global",
-  "download": "https://bigota.d.miui.com/V11.3.4.0.PFCMIXM/miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip",
-  "filename": "miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip",
-  "version": "V11.3.4.0.PFCMIXM",
-  "size": "2.2G"
+  "download": "https://bigota.d.miui.com/V11.0.1.0.QFCMIXM/miui_PYXISGlobal_V11.0.1.0.QFCMIXM_212c62202d_10.0.zip",
+  "filename": "miui_PYXISGlobal_V11.0.1.0.QFCMIXM_212c62202d_10.0.zip",
+  "version": "V11.0.1.0.QFCMIXM",
+  "size": "2.3G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "pyxis_ru_global",
   "device": "Mi 9 Lite/Mi CC 9 RU",
-  "download": "https://bigota.d.miui.com/V11.3.5.0.PFCRUXM/miui_PYXISRUGlobal_V11.3.5.0.PFCRUXM_debc6b1086_9.0.zip",
-  "filename": "miui_PYXISRUGlobal_V11.3.5.0.PFCRUXM_debc6b1086_9.0.zip",
-  "version": "V11.3.5.0.PFCRUXM",
-  "size": "2.2G"
+  "download": "https://bigota.d.miui.com/V11.0.1.0.QFCRUXM/miui_PYXISRUGlobal_V11.0.1.0.QFCRUXM_a8e12d669d_10.0.zip",
+  "filename": "miui_PYXISRUGlobal_V11.0.1.0.QFCRUXM_a8e12d669d_10.0.zip",
+  "version": "V11.0.1.0.QFCRUXM",
+  "size": "2.3G"
  },
  {
   "android": "10.0",
@@ -938,7 +938,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4 Global (India Version)",
+  "device": "Redmi 4X Global",
   "download": "https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "filename": "miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "version": "V11.0.2.0.NAMMIXM",
@@ -1110,9 +1110,9 @@
   "android": "9.0",
   "codename": "willow_global",
   "device": "Redmi Note 8T Global",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.PCXMIXM/miui_WILLOWGlobal_V11.0.2.0.PCXMIXM_1053d07721_9.0.zip",
-  "filename": "miui_WILLOWGlobal_V11.0.2.0.PCXMIXM_1053d07721_9.0.zip",
-  "version": "V11.0.2.0.PCXMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PCXMIXM/miui_WILLOWGlobal_V11.0.3.0.PCXMIXM_5f1d980a44_9.0.zip",
+  "filename": "miui_WILLOWGlobal_V11.0.3.0.PCXMIXM_5f1d980a44_9.0.zip",
+  "version": "V11.0.3.0.PCXMIXM",
   "size": "1.8G"
  },
  {
