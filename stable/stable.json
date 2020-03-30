@@ -11,9 +11,9 @@
   "android": "9.0",
   "codename": "cactus",
   "device": "Redmi 6A China",
-  "download": "http://bigota.d.miui.com/V11.0.4.0.PCBCNXM/miui_HM6A_V11.0.4.0.PCBCNXM_8e0eba0f64_9.0.zip",
-  "filename": "miui_HM6A_V11.0.4.0.PCBCNXM_8e0eba0f64_9.0.zip",
-  "version": "V11.0.4.0.PCBCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.5.0.PCBCNXM/miui_HM6A_V11.0.5.0.PCBCNXM_fb305209d9_9.0.zip",
+  "filename": "miui_HM6A_V11.0.5.0.PCBCNXM_fb305209d9_9.0.zip",
+  "version": "V11.0.5.0.PCBCNXM"
  },
  {
   "android": "7.0",
@@ -251,9 +251,9 @@
   "android": "9.0",
   "codename": "olivelite",
   "device": "Redmi 8A China",
-  "download": "http://bigota.d.miui.com/V11.0.8.0.PCPCNXM/miui_OLIVELITE_V11.0.8.0.PCPCNXM_f17650128e_9.0.zip",
-  "filename": "miui_OLIVELITE_V11.0.8.0.PCPCNXM_f17650128e_9.0.zip",
-  "version": "V11.0.8.0.PCPCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.9.0.PCPCNXM/miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip",
+  "filename": "miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip",
+  "version": "V11.0.9.0.PCPCNXM"
  },
  {
   "android": "6.0",
@@ -347,9 +347,9 @@
   "android": "10.0",
   "codename": "raphael",
   "device": "Redmi K20 Pro China",
-  "download": "http://bigota.d.miui.com/V11.0.5.0.QFKCNXM/miui_RAPHAEL_V11.0.5.0.QFKCNXM_63e2e08c69_10.0.zip",
-  "filename": "miui_RAPHAEL_V11.0.5.0.QFKCNXM_63e2e08c69_10.0.zip",
-  "version": "V11.0.5.0.QFKCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.7.0.QFKCNXM/miui_RAPHAEL_V11.0.7.0.QFKCNXM_4a6b851d43_10.0.zip",
+  "filename": "miui_RAPHAEL_V11.0.7.0.QFKCNXM_4a6b851d43_10.0.zip",
+  "version": "V11.0.7.0.QFKCNXM"
  },
  {
   "android": "8.1",
@@ -387,9 +387,9 @@
   "android": "9.0",
   "codename": "sakura",
   "device": "Redmi 6 Pro China",
-  "download": "http://bigota.d.miui.com/V11.0.4.0.PDICNXM/miui_HM6Pro_V11.0.4.0.PDICNXM_45526f173b_9.0.zip",
-  "filename": "miui_HM6Pro_V11.0.4.0.PDICNXM_45526f173b_9.0.zip",
-  "version": "V11.0.4.0.PDICNXM"
+  "download": "http://bigota.d.miui.com/V11.0.5.0.PDICNXM/miui_HM6Pro_V11.0.5.0.PDICNXM_da59c46ff1_9.0.zip",
+  "filename": "miui_HM6Pro_V11.0.5.0.PDICNXM_da59c46ff1_9.0.zip",
+  "version": "V11.0.5.0.PDICNXM"
  },
  {
   "android": "7.1",
