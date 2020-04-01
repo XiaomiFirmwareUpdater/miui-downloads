@@ -300,9 +300,9 @@
   "android": "9.0",
   "codename": "ginkgo_id_global",
   "device": "Redmi Note 8 Indonesia",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PCOIDXM/miui_GINKGOIDGlobal_V11.0.3.0.PCOIDXM_aaafd2cf3a_9.0.zip",
-  "filename": "miui_GINKGOIDGlobal_V11.0.3.0.PCOIDXM_aaafd2cf3a_9.0.zip",
-  "version": "V11.0.3.0.PCOIDXM",
+  "download": "https://bigota.d.miui.com/V11.0.4.0.PCOIDXM/miui_GINKGOIDGlobal_V11.0.4.0.PCOIDXM_908d776882_9.0.zip",
+  "filename": "miui_GINKGOIDGlobal_V11.0.4.0.PCOIDXM_908d776882_9.0.zip",
+  "version": "V11.0.4.0.PCOIDXM",
   "size": "1.9G"
  },
  {
@@ -624,9 +624,9 @@
   "android": "9.0",
   "codename": "olive_id_global",
   "device": "Redmi 8 ID",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.PCNIDXM/miui_OLIVEIDGlobal_V11.0.4.0.PCNIDXM_51d47d7eb9_9.0.zip",
-  "filename": "miui_OLIVEIDGlobal_V11.0.4.0.PCNIDXM_51d47d7eb9_9.0.zip",
-  "version": "V11.0.4.0.PCNIDXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PCNIDXM/miui_OLIVEIDGlobal_V11.0.5.0.PCNIDXM_a71f53ad0c_9.0.zip",
+  "filename": "miui_OLIVEIDGlobal_V11.0.5.0.PCNIDXM_a71f53ad0c_9.0.zip",
+  "version": "V11.0.5.0.PCNIDXM",
   "size": "1.9G"
  },
  {
@@ -1082,7 +1082,7 @@
  {
   "android": "9.0",
   "codename": "whyred_global",
-  "device": "Redmi Note 5 Pro India",
+  "device": "Redmi Note 5 Global",
   "download": "https://bigota.d.miui.com/V11.0.3.0.PEIMIXM/miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "filename": "miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "version": "V11.0.3.0.PEIMIXM",
@@ -1119,9 +1119,9 @@
   "android": "9.0",
   "codename": "willow_ru_global",
   "device": "Redmi Note 8T RU",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.PCXRUXM/miui_WILLOWRUGlobal_V11.0.2.0.PCXRUXM_480782e91b_9.0.zip",
-  "filename": "miui_WILLOWRUGlobal_V11.0.2.0.PCXRUXM_480782e91b_9.0.zip",
-  "version": "V11.0.2.0.PCXRUXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PCXRUXM/miui_WILLOWRUGlobal_V11.0.3.0.PCXRUXM_f2b49cae2e_9.0.zip",
+  "filename": "miui_WILLOWRUGlobal_V11.0.3.0.PCXRUXM_f2b49cae2e_9.0.zip",
+  "version": "V11.0.3.0.PCXRUXM",
   "size": "1.8G"
  },
  {
