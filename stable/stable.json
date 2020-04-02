@@ -119,7 +119,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 3 Global",
+  "device": "Mi 4 3G/4G Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -594,12 +594,12 @@
   "size": "1.8G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "nitrogen_ru_global",
   "device": "Mi Max 3 Russia",
-  "download": "https://bigota.d.miui.com/V11.0.7.0.PEDRUXM/miui_NITROGENRUGlobal_V11.0.7.0.PEDRUXM_c7617d66a3_9.0.zip",
-  "filename": "miui_NITROGENRUGlobal_V11.0.7.0.PEDRUXM_c7617d66a3_9.0.zip",
-  "version": "V11.0.7.0.PEDRUXM",
+  "download": "https://bigota.d.miui.com/V11.0.1.0.QEDRUXM/miui_NITROGENRUGlobal_V11.0.1.0.QEDRUXM_cb4b693722_10.0.zip",
+  "filename": "miui_NITROGENRUGlobal_V11.0.1.0.QEDRUXM_cb4b693722_10.0.zip",
+  "version": "V11.0.1.0.QEDRUXM",
   "size": "1.8G"
  },
  {
@@ -774,12 +774,12 @@
   "size": "1.5G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "platina_global",
   "device": "Mi 8 Lite Global",
-  "download": "https://bigota.d.miui.com/V11.0.8.0.PDTMIXM/miui_MI8LiteGlobal_V11.0.8.0.PDTMIXM_bb4de77c17_9.0.zip",
-  "filename": "miui_MI8LiteGlobal_V11.0.8.0.PDTMIXM_bb4de77c17_9.0.zip",
-  "version": "V11.0.8.0.PDTMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.1.0.QDTMIXM/miui_MI8LiteGlobal_V11.0.1.0.QDTMIXM_2fb79ba67d_10.0.zip",
+  "filename": "miui_MI8LiteGlobal_V11.0.1.0.QDTMIXM_2fb79ba67d_10.0.zip",
+  "version": "V11.0.1.0.QDTMIXM",
   "size": "1.8G"
  },
  {
@@ -819,13 +819,13 @@
   "size": "1.4G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "pyxis_eea_global",
   "device": "Mi 9 Lite/Mi CC 9 EEA",
-  "download": "https://bigota.d.miui.com/V11.3.4.0.PFCEUXM/miui_PYXISEEAGlobal_V11.3.4.0.PFCEUXM_bd857626ef_9.0.zip",
-  "filename": "miui_PYXISEEAGlobal_V11.3.4.0.PFCEUXM_bd857626ef_9.0.zip",
-  "version": "V11.3.4.0.PFCEUXM",
-  "size": "2.2G"
+  "download": "https://bigota.d.miui.com/V11.0.1.0.QFCEUXM/miui_PYXISEEAGlobal_V11.0.1.0.QFCEUXM_ff6e40b4b4_10.0.zip",
+  "filename": "miui_PYXISEEAGlobal_V11.0.1.0.QFCEUXM_ff6e40b4b4_10.0.zip",
+  "version": "V11.0.1.0.QFCEUXM",
+  "size": "2.3G"
  },
  {
   "android": "10.0",
@@ -938,7 +938,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4 Global (India Version)",
+  "device": "Redmi 4X Global",
   "download": "https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "filename": "miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "version": "V11.0.2.0.NAMMIXM",
@@ -1082,7 +1082,7 @@
  {
   "android": "9.0",
   "codename": "whyred_global",
-  "device": "Redmi Note 5 Global",
+  "device": "Redmi Note 5 Pro India",
   "download": "https://bigota.d.miui.com/V11.0.3.0.PEIMIXM/miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "filename": "miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "version": "V11.0.3.0.PEIMIXM",
