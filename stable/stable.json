@@ -165,10 +165,10 @@
   "android": "9.0",
   "codename": "cereus_global",
   "device": "Redmi 6 Global",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.PCGMIXM/miui_HM6Global_V11.0.2.0.PCGMIXM_aa8d648fcd_9.0.zip",
-  "filename": "miui_HM6Global_V11.0.2.0.PCGMIXM_aa8d648fcd_9.0.zip",
-  "version": "V11.0.2.0.PCGMIXM",
-  "size": "1.3G"
+  "download": "https://bigota.d.miui.com/V11.0.3.0.PCGMIXM/miui_HM6Global_V11.0.3.0.PCGMIXM_44aaa9135d_9.0.zip",
+  "filename": "miui_HM6Global_V11.0.3.0.PCGMIXM_44aaa9135d_9.0.zip",
+  "version": "V11.0.3.0.PCGMIXM",
+  "size": "1.4G"
  },
  {
   "android": "8.1",
@@ -642,10 +642,10 @@
   "android": "9.0",
   "codename": "olive_ru_global",
   "device": "Redmi 8 RU",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.PCNRUXM/miui_OLIVERUGlobal_V11.0.4.0.PCNRUXM_0ce96ab8ea_9.0.zip",
-  "filename": "miui_OLIVERUGlobal_V11.0.4.0.PCNRUXM_0ce96ab8ea_9.0.zip",
-  "version": "V11.0.4.0.PCNRUXM",
-  "size": "1.9G"
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PCNRUXM/miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip",
+  "filename": "miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip",
+  "version": "V11.0.5.0.PCNRUXM",
+  "size": "2.0G"
  },
  {
   "android": "9.0",
@@ -783,12 +783,12 @@
   "size": "1.8G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "platina_ru_global",
   "device": "Mi 8 Lite Russia",
-  "download": "https://bigota.d.miui.com/V11.0.7.0.PDTRUXM/miui_PLATINARUGlobal_V11.0.7.0.PDTRUXM_10c8bdaeca_9.0.zip",
-  "filename": "miui_PLATINARUGlobal_V11.0.7.0.PDTRUXM_10c8bdaeca_9.0.zip",
-  "version": "V11.0.7.0.PDTRUXM",
+  "download": "https://bigota.d.miui.com/V11.0.1.0.QDTRUXM/miui_PLATINARUGlobal_V11.0.1.0.QDTRUXM_11ad3a942e_10.0.zip",
+  "filename": "miui_PLATINARUGlobal_V11.0.1.0.QDTRUXM_11ad3a942e_10.0.zip",
+  "version": "V11.0.1.0.QDTRUXM",
   "size": "1.8G"
  },
  {
@@ -801,12 +801,12 @@
   "size": "1.9G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "polaris_ru_global",
   "device": "Mi MIX 2S Russia",
-  "download": "https://bigota.d.miui.com/V11.0.1.0.PDGRUXM/miui_MIMIX2SRUGlobal_V11.0.1.0.PDGRUXM_4e287514ae_9.0.zip",
-  "filename": "miui_MIMIX2SRUGlobal_V11.0.1.0.PDGRUXM_4e287514ae_9.0.zip",
-  "version": "V11.0.1.0.PDGRUXM",
+  "download": "https://bigota.d.miui.com/V11.0.1.0.QDGRUXM/miui_MIMIX2SRUGlobal_V11.0.1.0.QDGRUXM_22d96a0ed2_10.0.zip",
+  "filename": "miui_MIMIX2SRUGlobal_V11.0.1.0.QDGRUXM_22d96a0ed2_10.0.zip",
+  "version": "V11.0.1.0.QDGRUXM",
   "size": "1.9G"
  },
  {
@@ -938,7 +938,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4 Global (India Version)",
+  "device": "Redmi 4X Global",
   "download": "https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "filename": "miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "version": "V11.0.2.0.NAMMIXM",
@@ -1011,9 +1011,9 @@
   "android": "9.0",
   "codename": "tucana_ru_global",
   "device": "Mi Note 10 RU",
-  "download": "https://bigota.d.miui.com/V11.0.6.0.PFDRUXM/miui_TUCANARUGlobal_V11.0.6.0.PFDRUXM_f5b4a667c1_9.0.zip",
-  "filename": "miui_TUCANARUGlobal_V11.0.6.0.PFDRUXM_f5b4a667c1_9.0.zip",
-  "version": "V11.0.6.0.PFDRUXM",
+  "download": "https://bigota.d.miui.com/V11.0.7.0.PFDRUXM/miui_TUCANARUGlobal_V11.0.7.0.PFDRUXM_444a131f5c_9.0.zip",
+  "filename": "miui_TUCANARUGlobal_V11.0.7.0.PFDRUXM_444a131f5c_9.0.zip",
+  "version": "V11.0.7.0.PFDRUXM",
   "size": "2.6G"
  },
  {
