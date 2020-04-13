@@ -525,9 +525,9 @@
   "android": "8.1",
   "codename": "lotus",
   "device": "Mi Play China",
-  "download": "https://bigota.d.miui.com/V11.0.5.0.OFICNXM/miui_MIPLAY_V11.0.5.0.OFICNXM_1460636b15_8.1.zip",
-  "filename": "miui_MIPLAY_V11.0.5.0.OFICNXM_1460636b15_8.1.zip",
-  "version": "V11.0.5.0.OFICNXM",
+  "download": "https://bigota.d.miui.com/V11.0.6.0.OFICNXM/miui_MIPLAY_V11.0.6.0.OFICNXM_cc8e5d1cf1_8.1.zip",
+  "filename": "miui_MIPLAY_V11.0.6.0.OFICNXM_cc8e5d1cf1_8.1.zip",
+  "version": "V11.0.6.0.OFICNXM",
   "size": "1.9G"
  },
  {
@@ -795,9 +795,9 @@
   "android": "10.0",
   "codename": "polaris_global",
   "device": "Mi MIX 2S Global",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.QDGMIXM/miui_MIMIX2SGlobal_V11.0.3.0.QDGMIXM_f076a2ced4_10.0.zip",
-  "filename": "miui_MIMIX2SGlobal_V11.0.3.0.QDGMIXM_f076a2ced4_10.0.zip",
-  "version": "V11.0.3.0.QDGMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.4.0.QDGMIXM/miui_MIMIX2SGlobal_V11.0.4.0.QDGMIXM_3ced5b0111_10.0.zip",
+  "filename": "miui_MIMIX2SGlobal_V11.0.4.0.QDGMIXM_3ced5b0111_10.0.zip",
+  "version": "V11.0.4.0.QDGMIXM",
   "size": "1.9G"
  },
  {
