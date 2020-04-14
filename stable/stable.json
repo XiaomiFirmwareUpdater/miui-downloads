@@ -119,7 +119,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 4 3G/4G Global",
+  "device": "Mi 3 Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -660,9 +660,9 @@
   "android": "9.0",
   "codename": "olivelite_global",
   "device": "Redmi 8A Global",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PCPMIXM/miui_OLIVELITEGlobal_V11.0.3.0.PCPMIXM_1aa20d5b67_9.0.zip",
-  "filename": "miui_OLIVELITEGlobal_V11.0.3.0.PCPMIXM_1aa20d5b67_9.0.zip",
-  "version": "V11.0.3.0.PCPMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.6.0.PCPMIXM/miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip",
+  "filename": "miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip",
+  "version": "V11.0.6.0.PCPMIXM",
   "size": "1.7G"
  },
  {
@@ -678,9 +678,9 @@
   "android": "9.0",
   "codename": "olivelite_in_global",
   "device": "Redmi 8A India",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PCPINXM/miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip",
-  "filename": "miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip",
-  "version": "V11.0.3.0.PCPINXM",
+  "download": "https://bigota.d.miui.com/V11.0.8.0.PCPINXM/miui_OLIVELITEINGlobal_V11.0.8.0.PCPINXM_82dd75bbf7_9.0.zip",
+  "filename": "miui_OLIVELITEINGlobal_V11.0.8.0.PCPINXM_82dd75bbf7_9.0.zip",
+  "version": "V11.0.8.0.PCPINXM",
   "size": "1.7G"
  },
  {
@@ -750,10 +750,10 @@
   "android": "9.0",
   "codename": "pine_eea_global",
   "device": "Redmi 7A EEA",
-  "download": "https://bigota.d.miui.com/V11.0.14.0.PCMEUXM/miui_PINEEEAGlobal_V11.0.14.0.PCMEUXM_1d2d60ed95_9.0.zip",
-  "filename": "miui_PINEEEAGlobal_V11.0.14.0.PCMEUXM_1d2d60ed95_9.0.zip",
-  "version": "V11.0.14.0.PCMEUXM",
-  "size": "1.5G"
+  "download": "https://bigota.d.miui.com/V11.0.18.0.PCMEUXM/miui_PINEEEAGlobal_V11.0.18.0.PCMEUXM_8762b039f2_9.0.zip",
+  "filename": "miui_PINEEEAGlobal_V11.0.18.0.PCMEUXM_8762b039f2_9.0.zip",
+  "version": "V11.0.18.0.PCMEUXM",
+  "size": "1.6G"
  },
  {
   "android": "9.0",
@@ -938,7 +938,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4 Global (India Version)",
+  "device": "Redmi 4X Global",
   "download": "https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "filename": "miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "version": "V11.0.2.0.NAMMIXM",
