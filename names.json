@@ -109,6 +109,16 @@
   "model": "MIMIX2Global",
   "id": "1700334"
  },
+ "curtana_eea_global": {
+  "name": "Redmi Note 9S EEA",
+  "model": "CURTANAEEAGlobal",
+  "id": "1900378"
+ },
+ "curtana_ru_global": {
+  "name": "Redmi Note 9S RU",
+  "model": "CURTANARUGlobal",
+  "id": "1900378"
+ },
  "curtana_global": {
   "name": "Redmi Note 9S Global",
   "model": "CURTANAGlobal",
