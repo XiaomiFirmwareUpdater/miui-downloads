@@ -190,6 +190,15 @@
  },
  {
   "android": "10.0",
+  "codename": "curtana_eea_global",
+  "device": "Redmi Note 9S EEA",
+  "download": "https://bigota.d.miui.com/V11.0.1.0.QJWEUXM/miui_CURTANAEEAGlobal_V11.0.1.0.QJWEUXM_473d5b5a93_10.0.zip",
+  "filename": "miui_CURTANAEEAGlobal_V11.0.1.0.QJWEUXM_473d5b5a93_10.0.zip",
+  "version": "V11.0.1.0.QJWEUXM",
+  "size": "2.2G"
+ },
+ {
+  "android": "10.0",
   "codename": "curtana_global",
   "device": "Redmi Note 9S Global",
   "download": "https://bigota.d.miui.com/V11.0.3.0.QJWMIXM/miui_CURTANAGlobal_V11.0.3.0.QJWMIXM_f4700f887b_10.0.zip",
@@ -205,6 +214,15 @@
   "filename": "miui_CURTANAINGlobal_V11.0.5.0.QJWINXM_f467c85a0e_10.0.zip",
   "version": "V11.0.5.0.QJWINXM",
   "size": "2.3G"
+ },
+ {
+  "android": "10.0",
+  "codename": "curtana_ru_global",
+  "device": "Redmi Note 9S RU",
+  "download": "https://bigota.d.miui.com/V11.0.1.0.QJWRUXM/miui_CURTANARUGlobal_V11.0.1.0.QJWRUXM_47c3e1382f_10.0.zip",
+  "filename": "miui_CURTANARUGlobal_V11.0.1.0.QJWRUXM_47c3e1382f_10.0.zip",
+  "version": "V11.0.1.0.QJWRUXM",
+  "size": "2.2G"
  },
  {
   "android": "9.0",
