@@ -119,7 +119,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 3 Global",
+  "device": "Mi 4 3G/4G Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -237,18 +237,18 @@
   "android": "10.0",
   "codename": "davinci_eea_global",
   "device": "Mi 9T EEA",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.QFJEUXM/miui_DAVINCIEEAGlobal_V11.0.4.0.QFJEUXM_5001481fbb_10.0.zip",
-  "filename": "miui_DAVINCIEEAGlobal_V11.0.4.0.QFJEUXM_5001481fbb_10.0.zip",
-  "version": "V11.0.4.0.QFJEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.QFJEUXM/miui_DAVINCIEEAGlobal_V11.0.5.0.QFJEUXM_8944bb7369_10.0.zip",
+  "filename": "miui_DAVINCIEEAGlobal_V11.0.5.0.QFJEUXM_8944bb7369_10.0.zip",
+  "version": "V11.0.5.0.QFJEUXM",
   "size": "2.2G"
  },
  {
   "android": "10.0",
   "codename": "davinci_global",
   "device": "Mi 9T Global",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.QFJMIXM/miui_DAVINCIGlobal_V11.0.4.0.QFJMIXM_f1cc1d4a69_10.0.zip",
-  "filename": "miui_DAVINCIGlobal_V11.0.4.0.QFJMIXM_f1cc1d4a69_10.0.zip",
-  "version": "V11.0.4.0.QFJMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.QFJMIXM/miui_DAVINCIGlobal_V11.0.5.0.QFJMIXM_aaab5b40c7_10.0.zip",
+  "filename": "miui_DAVINCIGlobal_V11.0.5.0.QFJMIXM_aaab5b40c7_10.0.zip",
+  "version": "V11.0.5.0.QFJMIXM",
   "size": "2.2G"
  },
  {
@@ -264,9 +264,9 @@
   "android": "10.0",
   "codename": "davinciin_in_global",
   "device": "Redmi K20 India",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.QFJINXM/miui_DAVINCIININGlobal_V11.0.2.0.QFJINXM_a6d5ee94e7_10.0.zip",
-  "filename": "miui_DAVINCIININGlobal_V11.0.2.0.QFJINXM_a6d5ee94e7_10.0.zip",
-  "version": "V11.0.2.0.QFJINXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.QFJINXM/miui_DAVINCIININGlobal_V11.0.3.0.QFJINXM_8fbd476b70_10.0.zip",
+  "filename": "miui_DAVINCIININGlobal_V11.0.3.0.QFJINXM_8fbd476b70_10.0.zip",
+  "version": "V11.0.3.0.QFJINXM",
   "size": "2.2G"
  },
  {
