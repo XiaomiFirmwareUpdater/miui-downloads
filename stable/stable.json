@@ -427,9 +427,9 @@
   "android": "9.0",
   "codename": "tucana",
   "device": "Mi CC 9 Pro China",
-  "download": "http://bigota.d.miui.com/V11.0.7.0.PFDCNXM/miui_TUCANA_V11.0.7.0.PFDCNXM_eb85103afb_9.0.zip",
-  "filename": "miui_TUCANA_V11.0.7.0.PFDCNXM_eb85103afb_9.0.zip",
-  "version": "V11.0.7.0.PFDCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.9.0.PFDCNXM/miui_TUCANA_V11.0.9.0.PFDCNXM_c6fcdf2960_9.0.zip",
+  "filename": "miui_TUCANA_V11.0.9.0.PFDCNXM_c6fcdf2960_9.0.zip",
+  "version": "V11.0.9.0.PFDCNXM"
  },
  {
   "android": "7.1",
@@ -459,9 +459,9 @@
   "android": "10.0",
   "codename": "ursa",
   "device": "Mi 8 Explorer China",
-  "download": "http://bigota.d.miui.com/V11.0.2.0.QEHCNXM/miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip",
-  "filename": "miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip",
-  "version": "V11.0.2.0.QEHCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.3.0.QEHCNXM/miui_MI8Explorer_V11.0.3.0.QEHCNXM_ed3a873415_10.0.zip",
+  "filename": "miui_MI8Explorer_V11.0.3.0.QEHCNXM_ed3a873415_10.0.zip",
+  "version": "V11.0.3.0.QEHCNXM"
  },
  {
   "android": "10.0",
