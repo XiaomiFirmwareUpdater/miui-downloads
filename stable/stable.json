@@ -119,7 +119,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 4 3G/4G Global",
+  "device": "Mi 3 Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -273,9 +273,9 @@
   "android": "10.0",
   "codename": "dipper_global",
   "device": "Mi 8 Global",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.QEAMIXM/miui_MI8Global_V11.0.3.0.QEAMIXM_785bed5822_10.0.zip",
-  "filename": "miui_MI8Global_V11.0.3.0.QEAMIXM_785bed5822_10.0.zip",
-  "version": "V11.0.3.0.QEAMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.4.0.QEAMIXM/miui_MI8Global_V11.0.4.0.QEAMIXM_5e74c6110e_10.0.zip",
+  "filename": "miui_MI8Global_V11.0.4.0.QEAMIXM_5e74c6110e_10.0.zip",
+  "version": "V11.0.4.0.QEAMIXM",
   "size": "1.9G"
  },
  {
@@ -669,9 +669,9 @@
   "android": "9.0",
   "codename": "olivelite_eea_global",
   "device": "Redmi 8A EEA",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.PCPEUXM/miui_OLIVELITEEEAGlobal_V11.0.2.0.PCPEUXM_8e0f667a14_9.0.zip",
-  "filename": "miui_OLIVELITEEEAGlobal_V11.0.2.0.PCPEUXM_8e0f667a14_9.0.zip",
-  "version": "V11.0.2.0.PCPEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.4.0.PCPEUXM/miui_OLIVELITEEEAGlobal_V11.0.4.0.PCPEUXM_5e4a8de985_9.0.zip",
+  "filename": "miui_OLIVELITEEEAGlobal_V11.0.4.0.PCPEUXM_5e4a8de985_9.0.zip",
+  "version": "V11.0.4.0.PCPEUXM",
   "size": "1.7G"
  },
  {
@@ -1100,7 +1100,7 @@
  {
   "android": "9.0",
   "codename": "whyred_global",
-  "device": "Redmi Note 5 Global",
+  "device": "Redmi Note 5 Pro India",
   "download": "https://bigota.d.miui.com/V11.0.3.0.PEIMIXM/miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "filename": "miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "version": "V11.0.3.0.PEIMIXM",
