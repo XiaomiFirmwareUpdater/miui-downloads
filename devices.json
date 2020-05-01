@@ -129,6 +129,11 @@
   "model": "MIMIX",
   "pid": "323"
  },
+ "lmi": {
+  "name": "Redmi K30 Pro China",
+  "model": "LMI",
+  "pid": "364"
+ },
  "lotus": {
   "name": "Mi Play China",
   "model": "MIPLAY",
