@@ -23,7 +23,7 @@ def fetch(codename, pid):
     :param pid: device pid on downloads site
     :return: roms - a list of links
     """
-    url = f'http://miui.com/download-{pid}.html'
+    url = f'http://www.miui.com//download-{pid}.html'
     try:
         response = requests.get(url)
     except requests.exceptions.ConnectionError:
