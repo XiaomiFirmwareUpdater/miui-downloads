@@ -119,7 +119,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 3 Global",
+  "device": "Mi 4 3G/4G Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -201,10 +201,10 @@
   "android": "10.0",
   "codename": "curtana_global",
   "device": "Redmi Note 9S Global",
-  "download": "https://bigota.d.miui.com/V11.0.6.0.QJWMIXM/miui_CURTANAGlobal_V11.0.6.0.QJWMIXM_a6b88e9b66_10.0.zip",
-  "filename": "miui_CURTANAGlobal_V11.0.6.0.QJWMIXM_a6b88e9b66_10.0.zip",
-  "version": "V11.0.6.0.QJWMIXM",
-  "size": "2.2G"
+  "download": "https://bigota.d.miui.com/V11.0.7.0.QJWMIXM/miui_CURTANAGlobal_V11.0.7.0.QJWMIXM_4d20de1fb0_10.0.zip",
+  "filename": "miui_CURTANAGlobal_V11.0.7.0.QJWMIXM_4d20de1fb0_10.0.zip",
+  "version": "V11.0.7.0.QJWMIXM",
+  "size": "2.1G"
  },
  {
   "android": "10.0",
@@ -1029,9 +1029,9 @@
   "android": "9.0",
   "codename": "tucana_ru_global",
   "device": "Mi Note 10 RU",
-  "download": "https://bigota.d.miui.com/V11.0.7.0.PFDRUXM/miui_TUCANARUGlobal_V11.0.7.0.PFDRUXM_444a131f5c_9.0.zip",
-  "filename": "miui_TUCANARUGlobal_V11.0.7.0.PFDRUXM_444a131f5c_9.0.zip",
-  "version": "V11.0.7.0.PFDRUXM",
+  "download": "https://bigota.d.miui.com/V11.0.8.0.PFDRUXM/miui_TUCANARUGlobal_V11.0.8.0.PFDRUXM_f56a283f6e_9.0.zip",
+  "filename": "miui_TUCANARUGlobal_V11.0.8.0.PFDRUXM_f56a283f6e_9.0.zip",
+  "version": "V11.0.8.0.PFDRUXM",
   "size": "2.6G"
  },
  {
