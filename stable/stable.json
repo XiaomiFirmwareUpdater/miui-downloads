@@ -210,10 +210,10 @@
   "android": "10.0",
   "codename": "curtana_in_global",
   "device": "Redmi Note 9S India",
-  "download": "https://bigota.d.miui.com/V11.0.5.0.QJWINXM/miui_CURTANAINGlobal_V11.0.5.0.QJWINXM_f467c85a0e_10.0.zip",
-  "filename": "miui_CURTANAINGlobal_V11.0.5.0.QJWINXM_f467c85a0e_10.0.zip",
-  "version": "V11.0.5.0.QJWINXM",
-  "size": "2.3G"
+  "download": "https://bigota.d.miui.com/V11.0.6.0.QJWINXM/miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip",
+  "filename": "miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip",
+  "version": "V11.0.6.0.QJWINXM",
+  "size": "2.2G"
  },
  {
   "android": "10.0",
@@ -956,7 +956,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4 Global (India Version)",
+  "device": "Redmi 4X Global",
   "download": "https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "filename": "miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "version": "V11.0.2.0.NAMMIXM",
