@@ -190,6 +190,15 @@
  },
  {
   "android": "10.0",
+  "codename": "cmi_eea_global",
+  "device": "Mi 10 Pro EEA",
+  "download": "https://bigota.d.miui.com/V11.0.7.0.QJAEUXM/miui_CMIEEAGlobal_V11.0.7.0.QJAEUXM_e5fb61d54d_10.0.zip",
+  "filename": "miui_CMIEEAGlobal_V11.0.7.0.QJAEUXM_e5fb61d54d_10.0.zip",
+  "version": "V11.0.7.0.QJAEUXM",
+  "size": "2.5G"
+ },
+ {
+  "android": "10.0",
   "codename": "curtana_eea_global",
   "device": "Redmi Note 9S EEA",
   "download": "https://bigota.d.miui.com/V11.0.2.0.QJWEUXM/miui_CURTANAEEAGlobal_V11.0.2.0.QJWEUXM_f0132e3bd8_10.0.zip",
@@ -450,6 +459,33 @@
   "size": "1.7G"
  },
  {
+  "android": "10.0",
+  "codename": "joyeuse_eea_global",
+  "device": "Redmi Note 9 Pro EEA",
+  "download": "https://bigota.d.miui.com/V11.0.1.0.QJZEUXM/miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip",
+  "filename": "miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip",
+  "version": "V11.0.1.0.QJZEUXM",
+  "size": "2.2G"
+ },
+ {
+  "android": "10.0",
+  "codename": "joyeuse_global",
+  "device": "Redmi Note 9 Pro Global",
+  "download": "https://bigota.d.miui.com/V11.0.1.0.QJZMIXM/miui_JOYEUSEGlobal_V11.0.1.0.QJZMIXM_cc769a9944_10.0.zip",
+  "filename": "miui_JOYEUSEGlobal_V11.0.1.0.QJZMIXM_cc769a9944_10.0.zip",
+  "version": "V11.0.1.0.QJZMIXM",
+  "size": "2.2G"
+ },
+ {
+  "android": "10.0",
+  "codename": "joyeuse_id_global",
+  "device": "Redmi Note 9 Pro ID",
+  "download": "https://bigota.d.miui.com/V11.0.1.0.QJZIDXM/miui_JOYEUSEIDGlobal_V11.0.1.0.QJZIDXM_79a74fb900_10.0.zip",
+  "filename": "miui_JOYEUSEIDGlobal_V11.0.1.0.QJZIDXM_79a74fb900_10.0.zip",
+  "version": "V11.0.1.0.QJZIDXM",
+  "size": "2.2G"
+ },
+ {
   "android": "6.0",
   "codename": "kate_global",
   "device": "Redmi Note 3 Special Edition Global",
@@ -574,6 +610,15 @@
   "filename": "miui_HM4ProGlobal_V10.2.2.0.MBEMIXM_b43768684c_6.0.zip",
   "version": "V10.2.2.0.MBEMIXM",
   "size": "1.4G"
+ },
+ {
+  "android": "10.0",
+  "codename": "merlin_eea_global",
+  "device": "Redmi Note 9 EEA",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.QJOEUXM/miui_MERLINEEAGlobal_V11.0.2.0.QJOEUXM_c8807a26b1_10.0.zip",
+  "filename": "miui_MERLINEEAGlobal_V11.0.2.0.QJOEUXM_c8807a26b1_10.0.zip",
+  "version": "V11.0.2.0.QJOEUXM",
+  "size": "1.9G"
  },
  {
   "android": "7.0",
@@ -956,7 +1001,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4X Global",
+  "device": "Redmi 4 Global (India Version)",
   "download": "https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "filename": "miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "version": "V11.0.2.0.NAMMIXM",
@@ -1071,6 +1116,24 @@
   "size": "1.5G"
  },
  {
+  "android": "10.0",
+  "codename": "umi_eea_global",
+  "device": "Mi 10 EEA",
+  "download": "https://bigota.d.miui.com/V11.0.9.0.QJBEUXM/miui_UMIEEAGlobal_V11.0.9.0.QJBEUXM_f40b8c154f_10.0.zip",
+  "filename": "miui_UMIEEAGlobal_V11.0.9.0.QJBEUXM_f40b8c154f_10.0.zip",
+  "version": "V11.0.9.0.QJBEUXM",
+  "size": "2.5G"
+ },
+ {
+  "android": "10.0",
+  "codename": "umi_global",
+  "device": "Mi 10 Global",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.QJBMIXM/miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip",
+  "filename": "miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip",
+  "version": "V11.0.2.0.QJBMIXM",
+  "size": "2.5G"
+ },
+ {
   "android": "8.1",
   "codename": "vince_global",
   "device": "Redmi 5 Plus Global",
@@ -1100,7 +1163,7 @@
  {
   "android": "9.0",
   "codename": "whyred_global",
-  "device": "Redmi Note 5 Global",
+  "device": "Redmi Note 5 Pro India",
   "download": "https://bigota.d.miui.com/V11.0.3.0.PEIMIXM/miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "filename": "miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "version": "V11.0.3.0.PEIMIXM",
