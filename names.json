@@ -109,6 +109,11 @@
   "model": "MIMIX2Global",
   "id": "1700334"
  },
+ "cmi_eea_global": {
+  "name": "Mi 10 Pro EEA",
+  "model": "CMIEEAGlobal",
+  "id": "1900379"
+ },
  "curtana_eea_global": {
   "name": "Redmi Note 9S EEA",
   "model": "CURTANAEEAGlobal",
@@ -254,6 +259,21 @@
   "model": "MINote3Global",
   "id": "1700336"
  },
+ "joyeuse_eea_global": {
+  "name": "Redmi Note 9 Pro EEA",
+  "model": "JOYEUSEEEAGlobal",
+  "id": "1900378"
+ },
+ "joyeuse_id_global": {
+  "name": "Redmi Note 9 Pro ID",
+  "model": "JOYEUSEIDGlobal",
+  "id": "1900378"
+ },
+ "joyeuse_global": {
+  "name": "Redmi Note 9 Pro Global",
+  "model": "JOYEUSEGlobal",
+  "id": "1900378"
+ },
  "kate_global": {
   "name": "Redmi Note 3 Special Edition Global",
   "model": "HMNote3ProtwGlobal",
@@ -333,6 +353,11 @@
   "name": "Mi 1/1S China",
   "model": "Mioneplus",
   "id": "1700001"
+ },
+ "merlin_eea_global": {
+  "name": "Redmi Note 9 EEA",
+  "model": "MERLINEEAGlobal",
+  "id": "1900378"
  },
  "natrium_global": {
   "name": "Mi 5s Plus Global",
@@ -608,6 +633,16 @@
   "name": "Redmi Note 5A Global",
   "model": "HMNote5ALITEGlobal",
   "id": "1700332"
+ },
+ "umi_eea_global": {
+  "name": "Mi 10 EEA",
+  "model": "UMIEEAGlobal",
+  "id": "1900379"
+ },
+ "umi_global": {
+  "name": "Mi 10 Global",
+  "model": "UMIGlobal",
+  "id": "1900379"
  },
  "vince_global": {
   "name": "Redmi 5 Plus Global",
