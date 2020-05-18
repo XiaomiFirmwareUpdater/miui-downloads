@@ -609,6 +609,21 @@
   "model": "tissot",
   "id": "1700333"
  },
+ "toco_eea_global": {
+  "name": "Mi Note 10 Lite EEA",
+  "model": "TOCOEEAGlobal",
+  "id": "1900377"
+ },
+ "toco_global": {
+  "name": "Mi Note 10 Lite Global",
+  "model": "TOCOGlobal",
+  "id": "1900377"
+ },
+ "toco_ru_global": {
+  "name": "Mi Note 10 Lite RU",
+  "model": "TOCORUGlobal",
+  "id": "1900377"
+ },
  "tucana_eea_global": {
   "name": "Mi Note 10 EEA",
   "model": "TUCANAEEAGlobal",
