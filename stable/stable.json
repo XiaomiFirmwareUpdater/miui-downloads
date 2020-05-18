@@ -119,7 +119,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 3 Global",
+  "device": "Mi 4 3G/4G Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -1150,6 +1150,15 @@
   "filename": "miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip",
   "version": "V11.0.2.0.QJBMIXM",
   "size": "2.5G"
+ },
+ {
+  "android": "10.0",
+  "codename": "umi_in_global",
+  "device": "Mi 10 IN",
+  "download": "https://bigota.d.miui.com/V11.0.4.0.QJBINXM/miui_UMIINGlobal_V11.0.4.0.QJBINXM_1818b1d7b6_10.0.zip",
+  "filename": "miui_UMIINGlobal_V11.0.4.0.QJBINXM_1818b1d7b6_10.0.zip",
+  "version": "V11.0.4.0.QJBINXM",
+  "size": "2.4G"
  },
  {
   "android": "8.1",

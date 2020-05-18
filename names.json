@@ -70,9 +70,9 @@
   "id": "1700240"
  },
  "cancro_global": {
-  "name": "Mi 3 Global",
+  "name": "Mi 4 3G/4G Global",
   "model": "MI3WMI4WGlobal",
-  "id": "1700101"
+  "id": "1700240"
  },
  "capricorn_global": {
   "name": "Xiaomi Mi 5s Global",
@@ -649,14 +649,14 @@
   "model": "UMIEEAGlobal",
   "id": "1900379"
  },
- "umi_in_global": {
-  "name": "Mi 10 IN",
-  "model": "UMIINGlobal",
-  "id": "1900379"
- },
  "umi_global": {
   "name": "Mi 10 Global",
   "model": "UMIGlobal",
+  "id": "1900379"
+ },
+ "umi_in_global": {
+  "name": "Mi 10 IN",
+  "model": "UMIINGlobal",
   "id": "1900379"
  },
  "vince_global": {
