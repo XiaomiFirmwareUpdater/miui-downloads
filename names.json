@@ -649,6 +649,11 @@
   "model": "UMIEEAGlobal",
   "id": "1900379"
  },
+ "umi_in_global": {
+  "name": "Mi 10 IN",
+  "model": "UMIINGlobal",
+  "id": "1900379"
+ },
  "umi_global": {
   "name": "Mi 10 Global",
   "model": "UMIGlobal",
