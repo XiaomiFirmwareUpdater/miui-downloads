@@ -70,9 +70,9 @@
   "id": "1700240"
  },
  "cancro_global": {
-  "name": "Mi 4 3G/4G Global",
+  "name": "Mi 3 Global",
   "model": "MI3WMI4WGlobal",
-  "id": "1700240"
+  "id": "1700101"
  },
  "capricorn_global": {
   "name": "Xiaomi Mi 5s Global",
@@ -349,14 +349,14 @@
   "model": "MERLINEEAGlobal",
   "id": "1900378"
  },
- "merlin_id_global": {
-  "name": "Redmi Note 9 ID",
-  "model": "MERLINIDGlobal",
-  "id": "1900378"
- },
  "merlin_global": {
   "name": "Redmi Note 9 Global",
   "model": "MERLINGlobal",
+  "id": "1900378"
+ },
+ "merlin_id_global": {
+  "name": "Redmi Note 9 ID",
+  "model": "MERLINIDGlobal",
   "id": "1900378"
  },
  "mido_global": {
@@ -575,9 +575,9 @@
   "id": "1700349"
  },
  "santoni_global": {
-  "name": "Redmi 4 Global (India Version)",
+  "name": "Redmi 4X Global",
   "model": "HM4XGlobal",
-  "id": "1700318"
+  "id": "1700323"
  },
  "scorpio_global": {
   "name": "Mi Note 2 Global",
@@ -649,11 +649,6 @@
   "model": "UMIEEAGlobal",
   "id": "1900379"
  },
- "umi_in_global": {
-  "name": "Mi 10 India",
-  "model": "UMIIDGlobal",
-  "id": "1900379"
- },
  "umi_global": {
   "name": "Mi 10 Global",
   "model": "UMIGlobal",
@@ -675,9 +670,9 @@
   "id": "1700360"
  },
  "whyred_global": {
-  "name": "Redmi Note 5 Pro India",
+  "name": "Redmi Note 5 Global",
   "model": "HMNote5Global",
-  "id": "1700341"
+  "id": "1700342"
  },
  "whyred_ru_global": {
   "name": "Redmi Note 5 Russia",
