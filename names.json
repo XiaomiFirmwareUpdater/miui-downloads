@@ -349,6 +349,16 @@
   "model": "MERLINEEAGlobal",
   "id": "1900378"
  },
+ "merlin_id_global": {
+  "name": "Redmi Note 9 ID",
+  "model": "MERLINIDGlobal",
+  "id": "1900378"
+ },
+ "merlin_global": {
+  "name": "Redmi Note 9 Global",
+  "model": "MERLINGlobal",
+  "id": "1900378"
+ },
  "mido_global": {
   "name": "Redmi Note 4X Global",
   "model": "HMNote4XGlobal",
@@ -637,6 +647,11 @@
  "umi_eea_global": {
   "name": "Mi 10 EEA",
   "model": "UMIEEAGlobal",
+  "id": "1900379"
+ },
+ "umi_in_global": {
+  "name": "Mi 10 India",
+  "model": "UMIIDGlobal",
   "id": "1900379"
  },
  "umi_global": {
