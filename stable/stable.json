@@ -75,9 +75,9 @@
   "android": "10.0",
   "codename": "beryllium_global",
   "device": "POCOPHONE F1 Global",
-  "download": "https://bigota.d.miui.com/V11.0.6.0.QEJMIXM/miui_POCOF1Global_V11.0.6.0.QEJMIXM_e45c83a2db_10.0.zip",
-  "filename": "miui_POCOF1Global_V11.0.6.0.QEJMIXM_e45c83a2db_10.0.zip",
-  "version": "V11.0.6.0.QEJMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.8.0.QEJMIXM/miui_POCOF1Global_V11.0.8.0.QEJMIXM_146861c001_10.0.zip",
+  "filename": "miui_POCOF1Global_V11.0.8.0.QEJMIXM_146861c001_10.0.zip",
+  "version": "V11.0.8.0.QEJMIXM",
   "size": "1.9G"
  },
  {
@@ -119,7 +119,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 4 3G/4G Global",
+  "device": "Mi 3 Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -192,9 +192,9 @@
   "android": "10.0",
   "codename": "cmi_eea_global",
   "device": "Mi 10 Pro EEA",
-  "download": "https://bigota.d.miui.com/V11.0.7.0.QJAEUXM/miui_CMIEEAGlobal_V11.0.7.0.QJAEUXM_e5fb61d54d_10.0.zip",
-  "filename": "miui_CMIEEAGlobal_V11.0.7.0.QJAEUXM_e5fb61d54d_10.0.zip",
-  "version": "V11.0.7.0.QJAEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.10.0.QJAEUXM/miui_CMIEEAGlobal_V11.0.10.0.QJAEUXM_1011655dba_10.0.zip",
+  "filename": "miui_CMIEEAGlobal_V11.0.10.0.QJAEUXM_1011655dba_10.0.zip",
+  "version": "V11.0.10.0.QJAEUXM",
   "size": "2.5G"
  },
  {
@@ -237,7 +237,7 @@
   "android": "9.0",
   "codename": "daisy_global",
   "device": "Mi A2 Lite",
-  "download": "http://bigota.d.miui.com/V10.0.13.0.PDLMIXM/daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz",
+  "download": "https://bigota.d.miui.com/V10.0.13.0.PDLMIXM/daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz",
   "filename": "daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz",
   "version": "V10.0.13.0.PDLMIXM",
   "size": "1.6G"
@@ -444,7 +444,7 @@
   "android": "9.0",
   "codename": "jasmine_global",
   "device": "Mi A2",
-  "download": "http://bigota.d.miui.com/V10.0.13.0.PDIMIXM/jasmine_global_images_V10.0.13.0.PDIMIXM_20190807.0000.00_9.0_9083804c9e.tgz",
+  "download": "https://bigota.d.miui.com/V10.0.13.0.PDIMIXM/jasmine_global_images_V10.0.13.0.PDIMIXM_20190807.0000.00_9.0_9083804c9e.tgz",
   "filename": "jasmine_global_images_V10.0.13.0.PDIMIXM_20190807.0000.00_9.0_9083804c9e.tgz",
   "version": "V10.0.13.0.PDIMIXM",
   "size": "1687M"
@@ -525,7 +525,7 @@
   "android": "9.0",
   "codename": "laurel_sprout_global",
   "device": "Mi A3",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.PFQMIXM/laurel_sprout_global_images_V10.3.4.0.PFQMIXM_20190815.0000.00_9.0_00838b4c0e.tgz",
+  "download": "https://bigota.d.miui.com/V10.3.4.0.PFQMIXM/laurel_sprout_global_images_V10.3.4.0.PFQMIXM_20190815.0000.00_9.0_00838b4c0e.tgz",
   "filename": "laurel_sprout_global_images_V10.3.4.0.PFQMIXM_20190815.0000.00_9.0_00838b4c0e.tgz",
   "version": "V10.3.4.0.PFQMIXM",
   "size": "1.2G"
@@ -615,9 +615,9 @@
   "android": "10.0",
   "codename": "merlin_eea_global",
   "device": "Redmi Note 9 EEA",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.QJOEUXM/miui_MERLINEEAGlobal_V11.0.2.0.QJOEUXM_c8807a26b1_10.0.zip",
-  "filename": "miui_MERLINEEAGlobal_V11.0.2.0.QJOEUXM_c8807a26b1_10.0.zip",
-  "version": "V11.0.2.0.QJOEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.QJOEUXM/miui_MERLINEEAGlobal_V11.0.3.0.QJOEUXM_e6cc86051a_10.0.zip",
+  "filename": "miui_MERLINEEAGlobal_V11.0.3.0.QJOEUXM_e6cc86051a_10.0.zip",
+  "version": "V11.0.3.0.QJOEUXM",
   "size": "1.9G"
  },
  {
@@ -777,9 +777,9 @@
   "android": "9.0",
   "codename": "onc_in_global",
   "device": "Redmi Y3 India",
-  "download": "https://bigota.d.miui.com/V11.0.8.0.PFFINXM/miui_ONCINGlobal_V11.0.8.0.PFFINXM_e4c93c1a26_9.0.zip",
-  "filename": "miui_ONCINGlobal_V11.0.8.0.PFFINXM_e4c93c1a26_9.0.zip",
-  "version": "V11.0.8.0.PFFINXM",
+  "download": "https://bigota.d.miui.com/V11.0.9.0.PFFINXM/miui_ONCINGlobal_V11.0.9.0.PFFINXM_c4f2629cd3_9.0.zip",
+  "filename": "miui_ONCINGlobal_V11.0.9.0.PFFINXM_c4f2629cd3_9.0.zip",
+  "version": "V11.0.9.0.PFFINXM",
   "size": "1.7G"
  },
  {
@@ -822,9 +822,9 @@
   "android": "10.0",
   "codename": "perseus_ru_global",
   "device": "Mi MIX 3 Russia",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.QEERUXM/miui_MIMIX3RUGlobal_V11.0.2.0.QEERUXM_b9d17f9218_10.0.zip",
-  "filename": "miui_MIMIX3RUGlobal_V11.0.2.0.QEERUXM_b9d17f9218_10.0.zip",
-  "version": "V11.0.2.0.QEERUXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.QEERUXM/miui_MIMIX3RUGlobal_V11.0.3.0.QEERUXM_2c8a7ae4cf_10.0.zip",
+  "filename": "miui_MIMIX3RUGlobal_V11.0.3.0.QEERUXM_2c8a7ae4cf_10.0.zip",
+  "version": "V11.0.3.0.QEERUXM",
   "size": "2.1G"
  },
  {
@@ -1217,7 +1217,7 @@
  {
   "android": "9.0",
   "codename": "whyred_global",
-  "device": "Redmi Note 5 Pro India",
+  "device": "Redmi Note 5 Global",
   "download": "https://bigota.d.miui.com/V11.0.3.0.PEIMIXM/miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "filename": "miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "version": "V11.0.3.0.PEIMIXM",
