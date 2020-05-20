@@ -320,12 +320,12 @@
   "version": "V11.0.6.0.PCMCNXM"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "platina",
   "device": "Mi 8 Lite China",
-  "download": "http://bigota.d.miui.com/V11.0.4.0.PDTCNXM/miui_MI8Lite_V11.0.4.0.PDTCNXM_5595027d43_9.0.zip",
-  "filename": "miui_MI8Lite_V11.0.4.0.PDTCNXM_5595027d43_9.0.zip",
-  "version": "V11.0.4.0.PDTCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.2.0.QDTCNXM/miui_MI8Lite_V11.0.2.0.QDTCNXM_4a11ed64fc_10.0.zip",
+  "filename": "miui_MI8Lite_V11.0.2.0.QDTCNXM_4a11ed64fc_10.0.zip",
+  "version": "V11.0.2.0.QDTCNXM"
  },
  {
   "android": "10.0",
