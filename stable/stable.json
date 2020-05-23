@@ -237,7 +237,7 @@
   "android": "9.0",
   "codename": "daisy_global",
   "device": "Mi A2 Lite",
-  "download": "http://bigota.d.miui.com/V10.0.13.0.PDLMIXM/daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz",
+  "download": "https://bigota.d.miui.com/V10.0.13.0.PDLMIXM/daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz",
   "filename": "daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz",
   "version": "V10.0.13.0.PDLMIXM",
   "size": "1.6G"
@@ -525,7 +525,7 @@
   "android": "9.0",
   "codename": "laurel_sprout_global",
   "device": "Mi A3",
-  "download": "http://bigota.d.miui.com/V10.3.4.0.PFQMIXM/laurel_sprout_global_images_V10.3.4.0.PFQMIXM_20190815.0000.00_9.0_00838b4c0e.tgz",
+  "download": "https://bigota.d.miui.com/V10.3.4.0.PFQMIXM/laurel_sprout_global_images_V10.3.4.0.PFQMIXM_20190815.0000.00_9.0_00838b4c0e.tgz",
   "filename": "laurel_sprout_global_images_V10.3.4.0.PFQMIXM_20190815.0000.00_9.0_00838b4c0e.tgz",
   "version": "V10.3.4.0.PFQMIXM",
   "size": "1.2G"
