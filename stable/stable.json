@@ -119,7 +119,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 4 3G/4G Global",
+  "device": "Mi 3 Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -237,7 +237,7 @@
   "android": "9.0",
   "codename": "daisy_global",
   "device": "Mi A2 Lite",
-  "download": "https://bigota.d.miui.com/V10.0.13.0.PDLMIXM/daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz",
+  "download": "http://bigota.d.miui.com/V10.0.13.0.PDLMIXM/daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz",
   "filename": "daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz",
   "version": "V10.0.13.0.PDLMIXM",
   "size": "1.6G"
@@ -291,10 +291,10 @@
   "android": "10.0",
   "codename": "dipper_ru_global",
   "device": "Mi 8 Russia",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.QEARUXM/miui_MI8RUGlobal_V11.0.2.0.QEARUXM_7e7f29c515_10.0.zip",
-  "filename": "miui_MI8RUGlobal_V11.0.2.0.QEARUXM_7e7f29c515_10.0.zip",
-  "version": "V11.0.2.0.QEARUXM",
-  "size": "1.9G"
+  "download": "https://bigota.d.miui.com/V11.0.3.0.QEARUXM/miui_MI8RUGlobal_V11.0.3.0.QEARUXM_29d5c6ad28_10.0.zip",
+  "filename": "miui_MI8RUGlobal_V11.0.3.0.QEARUXM_29d5c6ad28_10.0.zip",
+  "version": "V11.0.3.0.QEARUXM",
+  "size": "2.0G"
  },
  {
   "android": "10.0",
@@ -444,7 +444,7 @@
   "android": "9.0",
   "codename": "jasmine_global",
   "device": "Mi A2",
-  "download": "https://bigota.d.miui.com/V10.0.13.0.PDIMIXM/jasmine_global_images_V10.0.13.0.PDIMIXM_20190807.0000.00_9.0_9083804c9e.tgz",
+  "download": "http://bigota.d.miui.com/V10.0.13.0.PDIMIXM/jasmine_global_images_V10.0.13.0.PDIMIXM_20190807.0000.00_9.0_9083804c9e.tgz",
   "filename": "jasmine_global_images_V10.0.13.0.PDIMIXM_20190807.0000.00_9.0_9083804c9e.tgz",
   "version": "V10.0.13.0.PDIMIXM",
   "size": "1687M"
@@ -669,9 +669,9 @@
   "android": "10.0",
   "codename": "nitrogen_global",
   "device": "Mi Max 3 Global",
-  "download": "https://bigota.d.miui.com/V11.0.1.0.QEDMIXM/miui_MIMAX3Global_V11.0.1.0.QEDMIXM_7b489a7719_10.0.zip",
-  "filename": "miui_MIMAX3Global_V11.0.1.0.QEDMIXM_7b489a7719_10.0.zip",
-  "version": "V11.0.1.0.QEDMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.QEDMIXM/miui_MIMAX3Global_V11.0.2.0.QEDMIXM_4eb86f33af_10.0.zip",
+  "filename": "miui_MIMAX3Global_V11.0.2.0.QEDMIXM_4eb86f33af_10.0.zip",
+  "version": "V11.0.2.0.QEDMIXM",
   "size": "1.8G"
  },
  {
@@ -1107,12 +1107,12 @@
   "size": "2.6G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "tucana_global",
   "device": "Mi Note 10 Global",
-  "download": "https://bigota.d.miui.com/V11.0.9.0.PFDMIXM/miui_TUCANAGlobal_V11.0.9.0.PFDMIXM_f4aa3e3edc_9.0.zip",
-  "filename": "miui_TUCANAGlobal_V11.0.9.0.PFDMIXM_f4aa3e3edc_9.0.zip",
-  "version": "V11.0.9.0.PFDMIXM",
+  "download": "https://bigota.d.miui.com/V11.1.2.0.QFDMIXM/miui_TUCANAGlobal_V11.1.2.0.QFDMIXM_3e27048d54_10.0.zip",
+  "filename": "miui_TUCANAGlobal_V11.1.2.0.QFDMIXM_3e27048d54_10.0.zip",
+  "version": "V11.1.2.0.QFDMIXM",
   "size": "2.6G"
  },
  {
