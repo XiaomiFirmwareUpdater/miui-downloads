@@ -339,6 +339,11 @@
   "model": "MIPLAYRUGlobal",
   "id": "1700362"
  },
+ "lmi_eea_global": {
+  "name": "POCO F2 EEA",
+  "model": "LMIEEAGlobal",
+  "id": "1900380"
+ },
  "markw_global": {
   "name": "Redmi 4 Prime Global",
   "model": "HM4ProGlobal",
