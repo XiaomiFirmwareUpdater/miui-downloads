@@ -1,13 +1,18 @@
 {
- "andromeda": {
-  "name": "Mi MIX 3 5G China",
-  "model": "ANDROMEDA",
-  "pid": ""
+ "atom": {
+  "name": "Redmi 10X 5G China",
+  "model": "ATOM",
+  "pid": "366"
  },
  "begonia": {
   "name": "Redmi Note 8 Pro China",
   "model": "BEGONIA",
   "pid": "363"
+ },
+ "bomb": {
+  "name": "Redmi 10X Pro China",
+  "model": "BOMB",
+  "pid": "366"
  },
  "cactus": {
   "name": "Redmi 6A China",
@@ -63,16 +68,6 @@
   "name": "Mi 8 China",
   "model": "MI8",
   "pid": "345"
- },
- "dipper_global": {
-  "name": "Mi 8 Global",
-  "model": "MI8Global",
-  "pid": "346"
- },
- "dipper_ru_global": {
-  "name": "Mi 8 Russian",
-  "model": "MI8RUGlobal",
-  "pid": "346"
  },
  "equuleus": {
   "name": "Mi 8 Pro China",
@@ -148,6 +143,11 @@
   "name": "Mi 5C China",
   "model": "MI5C",
   "pid": "327"
+ },
+ "merlin": {
+  "name": "Redmi 10X 4G China",
+  "model": "MERLIN",
+  "pid": "366"
  },
  "mido": {
   "name": "Redmi Note 4 China",
