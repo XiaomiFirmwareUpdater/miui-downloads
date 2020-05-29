@@ -329,6 +329,11 @@
   "model": "LMIEEAGlobal",
   "id": "1900380"
  },
+ "lmi_global": {
+  "name": "POCO F2 Pro Global",
+  "model": "LMIGlobal",
+  "id": "1900380"
+ },
  "lotus": {
   "name": "Mi Play China",
   "model": "MIPLAY",
