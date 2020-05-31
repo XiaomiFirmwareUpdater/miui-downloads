@@ -70,9 +70,9 @@
   "id": "1700240"
  },
  "cancro_global": {
-  "name": "Mi 4 3G/4G Global",
+  "name": "Mi 3 Global",
   "model": "MI3WMI4WGlobal",
-  "id": "1700240"
+  "id": "1700101"
  },
  "capricorn_global": {
   "name": "Xiaomi Mi 5s Global",
@@ -700,9 +700,9 @@
   "id": "1700360"
  },
  "whyred_global": {
-  "name": "Redmi Note 5 Global",
+  "name": "Redmi Note 5 Pro India",
   "model": "HMNote5Global",
-  "id": "1700342"
+  "id": "1700341"
  },
  "whyred_ru_global": {
   "name": "Redmi Note 5 Russia",
