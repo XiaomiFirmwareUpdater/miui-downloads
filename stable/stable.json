@@ -219,9 +219,9 @@
   "android": "10.0",
   "codename": "curtana_in_global",
   "device": "Redmi Note 9S India",
-  "download": "https://bigota.d.miui.com/V11.0.6.0.QJWINXM/miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip",
-  "filename": "miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip",
-  "version": "V11.0.6.0.QJWINXM",
+  "download": "https://bigota.d.miui.com/V11.0.7.0.QJWINXM/miui_CURTANAINGlobal_V11.0.7.0.QJWINXM_517aa431ab_10.0.zip",
+  "filename": "miui_CURTANAINGlobal_V11.0.7.0.QJWINXM_517aa431ab_10.0.zip",
+  "version": "V11.0.7.0.QJWINXM",
   "size": "2.2G"
  },
  {
@@ -237,7 +237,7 @@
   "android": "9.0",
   "codename": "daisy_global",
   "device": "Mi A2 Lite",
-  "download": "http://bigota.d.miui.com/V10.0.13.0.PDLMIXM/daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz",
+  "download": "https://bigota.d.miui.com/V10.0.13.0.PDLMIXM/daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz",
   "filename": "daisy_global_images_V10.0.13.0.PDLMIXM_20190813.0000.00_9.0_5d0d486f04.tgz",
   "version": "V10.0.13.0.PDLMIXM",
   "size": "1.6G"
@@ -1037,7 +1037,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4 Global (India Version)",
+  "device": "Redmi 4X Global",
   "download": "https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "filename": "miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "version": "V11.0.2.0.NAMMIXM",
@@ -1056,7 +1056,7 @@
   "android": "8.1",
   "codename": "tiare_eea_global",
   "device": "Redmi Go EEA",
-  "download": "https://bigota.d.miui.com/V10.2.8.0.OCLEUXM/tiare_eea_global_images_V10.2.8.0.OCLEUXM_20190719.0000.00_8.1_0c1b40ca2a.tgz",
+  "download": "http://bigota.d.miui.com/V10.2.8.0.OCLEUXM/tiare_eea_global_images_V10.2.8.0.OCLEUXM_20190719.0000.00_8.1_0c1b40ca2a.tgz",
   "filename": "tiare_eea_global_images_V10.2.8.0.OCLEUXM_20190719.0000.00_8.1_0c1b40ca2a.tgz",
   "version": "V10.2.8.0.OCLEUXM",
   "size": "1.7G"
@@ -1065,7 +1065,7 @@
   "android": "8.1",
   "codename": "tiare_global",
   "device": "Redmi Go Global",
-  "download": "https://bigota.d.miui.com/V10.2.13.0.OCLMIXM/tiare_global_images_V10.2.13.0.OCLMIXM_20190726.0000.00_8.1_68dfec6ba2.tgz",
+  "download": "http://bigota.d.miui.com/V10.2.13.0.OCLMIXM/tiare_global_images_V10.2.13.0.OCLMIXM_20190726.0000.00_8.1_68dfec6ba2.tgz",
   "filename": "tiare_global_images_V10.2.13.0.OCLMIXM_20190726.0000.00_8.1_68dfec6ba2.tgz",
   "version": "V10.2.13.0.OCLMIXM",
   "size": "1.7G"
@@ -1074,7 +1074,7 @@
   "android": "8.1",
   "codename": "tiare_in_global",
   "device": "Redmi Go India",
-  "download": "https://bigota.d.miui.com/V10.2.10.0.OCLINXM/tiare_in_global_images_V10.2.10.0.OCLINXM_20190711.0000.00_8.1_ccbe9e67d3.tgz",
+  "download": "http://bigota.d.miui.com/V10.2.10.0.OCLINXM/tiare_in_global_images_V10.2.10.0.OCLINXM_20190711.0000.00_8.1_ccbe9e67d3.tgz",
   "filename": "tiare_in_global_images_V10.2.10.0.OCLINXM_20190711.0000.00_8.1_ccbe9e67d3.tgz",
   "version": "V10.2.10.0.OCLINXM",
   "size": "1.7G"
@@ -1134,12 +1134,12 @@
   "size": "2.6G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "tucana_ru_global",
   "device": "Mi Note 10 RU",
-  "download": "https://bigota.d.miui.com/V11.0.8.0.PFDRUXM/miui_TUCANARUGlobal_V11.0.8.0.PFDRUXM_f56a283f6e_9.0.zip",
-  "filename": "miui_TUCANARUGlobal_V11.0.8.0.PFDRUXM_f56a283f6e_9.0.zip",
-  "version": "V11.0.8.0.PFDRUXM",
+  "download": "https://bigota.d.miui.com/V11.1.1.0.QFDRUXM/miui_TUCANARUGlobal_V11.1.1.0.QFDRUXM_28759082b1_10.0.zip",
+  "filename": "miui_TUCANARUGlobal_V11.1.1.0.QFDRUXM_28759082b1_10.0.zip",
+  "version": "V11.1.1.0.QFDRUXM",
   "size": "2.6G"
  },
  {
