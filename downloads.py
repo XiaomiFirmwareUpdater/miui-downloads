@@ -32,7 +32,7 @@ async def fetch_devices():
         'referer': 'https://c.mi.com/oc/miuidownload/',
     }
 
-    url = 'http://c.mi.com/oc/rom/getphonelist'
+    url = 'https://c.mi.com/oc/rom/getphonelist'
     async with aiohttp.ClientSession() as session:
         async with session.get(url, headers=headers) as response:
             json_data = await response.json()
@@ -50,7 +50,7 @@ async def fetch_roms(device_id, url):
         'Accept-Encoding': 'gzip, deflate',
         'Accept-Language': 'en-US,en;q=0.9',
         'Accept': 'application/json, text/javascript, */*; q=0.01',
-        'Referer': f'http://c.mi.com/oc/miuidownload/detail?device={device_id}',
+        'Referer': f'https://c.mi.com/oc/miuidownload/detail?device={device_id}',
         'X-Requested-With': 'XMLHttpRequest',
         'Connection': 'keep-alive',
         'Cache-Control': 'no-cache',
@@ -178,7 +178,7 @@ async def main():
     """
     devices_ids = await fetch_devices()
     tasks = [asyncio.ensure_future(
-        fetch_roms(device_id, f'http://c.mi.com/oc/rom/getdevicelist?phone_id={device_id}'))
+        fetch_roms(device_id, f'https://c.mi.com/oc/rom/getdevicelist?phone_id={device_id}'))
         for device_id in devices_ids]
     await asyncio.gather(*tasks)
     data = {'stable': STABLE, 'weekly': WEEKLY}
