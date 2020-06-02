@@ -369,6 +369,11 @@
   "model": "MERLINIDGlobal",
   "id": "1900378"
  },
+ "merlin_ru_global": {
+  "name": "Redmi Note 9 RU",
+  "model": "MERLINRUGlobal",
+  "id": "1900378"
+ },
  "mido_global": {
   "name": "Redmi Note 4X Global",
   "model": "HMNote4XGlobal",
