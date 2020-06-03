@@ -83,9 +83,9 @@
   "android": "10.0",
   "codename": "cmi",
   "device": "Mi 10 Pro China",
-  "download": "http://bigota.d.miui.com/V11.0.17.0.QJACNXM/miui_CMI_V11.0.17.0.QJACNXM_21bed15c07_10.0.zip",
-  "filename": "miui_CMI_V11.0.17.0.QJACNXM_21bed15c07_10.0.zip",
-  "version": "V11.0.17.0.QJACNXM"
+  "download": "http://bigota.d.miui.com/V11.0.18.0.QJACNXM/miui_CMI_V11.0.18.0.QJACNXM_ba9c7cce1b_10.0.zip",
+  "filename": "miui_CMI_V11.0.18.0.QJACNXM_ba9c7cce1b_10.0.zip",
+  "version": "V11.0.18.0.QJACNXM"
  },
  {
   "android": "10.0",
@@ -371,9 +371,9 @@
   "android": "10.0",
   "codename": "pyxis",
   "device": "Mi CC 9 China",
-  "download": "http://bigota.d.miui.com/V11.0.3.0.QFCCNXM/miui_PYXIS_V11.0.3.0.QFCCNXM_d85476eb34_10.0.zip",
-  "filename": "miui_PYXIS_V11.0.3.0.QFCCNXM_d85476eb34_10.0.zip",
-  "version": "V11.0.3.0.QFCCNXM"
+  "download": "http://bigota.d.miui.com/V11.0.4.0.QFCCNXM/miui_PYXIS_V11.0.4.0.QFCCNXM_b4952cbb3c_10.0.zip",
+  "filename": "miui_PYXIS_V11.0.4.0.QFCCNXM_b4952cbb3c_10.0.zip",
+  "version": "V11.0.4.0.QFCCNXM"
  },
  {
   "android": "10.0",
