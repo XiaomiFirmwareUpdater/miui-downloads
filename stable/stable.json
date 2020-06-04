@@ -327,10 +327,10 @@
   "android": "9.0",
   "codename": "ginkgo_in_global",
   "device": "Redmi Note 8 India",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.PCOINXM/miui_GINKGOINGlobal_V11.0.4.0.PCOINXM_f7ab0c6402_9.0.zip",
-  "filename": "miui_GINKGOINGlobal_V11.0.4.0.PCOINXM_f7ab0c6402_9.0.zip",
-  "version": "V11.0.4.0.PCOINXM",
-  "size": "1.9G"
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PCOINXM/miui_GINKGOINGlobal_V11.0.5.0.PCOINXM_a4baa334ae_9.0.zip",
+  "filename": "miui_GINKGOINGlobal_V11.0.5.0.PCOINXM_a4baa334ae_9.0.zip",
+  "version": "V11.0.5.0.PCOINXM",
+  "size": "2.0G"
  },
  {
   "android": "10.0",
@@ -462,10 +462,10 @@
   "android": "10.0",
   "codename": "joyeuse_id_global",
   "device": "Redmi Note 9 Pro ID",
-  "download": "https://bigota.d.miui.com/V11.0.1.0.QJZIDXM/miui_JOYEUSEIDGlobal_V11.0.1.0.QJZIDXM_79a74fb900_10.0.zip",
-  "filename": "miui_JOYEUSEIDGlobal_V11.0.1.0.QJZIDXM_79a74fb900_10.0.zip",
-  "version": "V11.0.1.0.QJZIDXM",
-  "size": "2.2G"
+  "download": "https://bigota.d.miui.com/V11.0.2.0.QJZIDXM/miui_JOYEUSEIDGlobal_V11.0.2.0.QJZIDXM_1f0c38d0fc_10.0.zip",
+  "filename": "miui_JOYEUSEIDGlobal_V11.0.2.0.QJZIDXM_1f0c38d0fc_10.0.zip",
+  "version": "V11.0.2.0.QJZIDXM",
+  "size": "2.1G"
  },
  {
   "android": "6.0",
