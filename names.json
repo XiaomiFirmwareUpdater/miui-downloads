@@ -575,9 +575,9 @@
   "id": "1700349"
  },
  "santoni_global": {
-  "name": "Redmi 4X Global",
+  "name": "Redmi 4 Global (India Version)",
   "model": "HM4XGlobal",
-  "id": "1700323"
+  "id": "1700318"
  },
  "scorpio_global": {
   "name": "Mi Note 2 Global",
@@ -680,9 +680,9 @@
   "id": "1700360"
  },
  "whyred_global": {
-  "name": "Redmi Note 5 Pro India",
+  "name": "Redmi Note 5 Global",
   "model": "HMNote5Global",
-  "id": "1700341"
+  "id": "1700342"
  },
  "whyred_ru_global": {
   "name": "Redmi Note 5 Russia",
