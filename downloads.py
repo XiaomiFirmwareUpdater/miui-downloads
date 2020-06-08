@@ -102,7 +102,9 @@ def gen_json(data, folder):
         device_id = item['id']
         name = item['name']
         size = item['size']
-        rom = item['download'].replace('http', 'https')
+        rom = item['download']
+        if not rom.startswith('https'):
+            rom = rom.replace('http', 'https')
         file = rom.split('/')[-1]
         model = ''
         if file.endswith('.tgz'):
