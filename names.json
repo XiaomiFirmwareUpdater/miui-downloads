@@ -659,14 +659,14 @@
   "model": "UMIGlobal",
   "id": "1900379"
  },
- "umi_in_global": {
-  "name": "Mi 10 IN",
-  "model": "UMIINGlobal",
-  "id": "1900379"
- },
  "umi_id_global": {
   "name": "Mi 10 ID",
   "model": "UMIIDGlobal",
+  "id": "1900379"
+ },
+ "umi_in_global": {
+  "name": "Mi 10 IN",
+  "model": "UMIINGlobal",
   "id": "1900379"
  },
  "umi_ru_global": {
