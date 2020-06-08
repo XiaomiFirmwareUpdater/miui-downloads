@@ -664,6 +664,16 @@
   "model": "UMIINGlobal",
   "id": "1900379"
  },
+ "umi_id_global": {
+  "name": "Mi 10 ID",
+  "model": "UMIIDGlobal",
+  "id": "1900379"
+ },
+ "umi_ru_global": {
+  "name": "Mi 10 RU",
+  "model": "UMIRUGlobal",
+  "id": "1900379"
+ },
  "vince_global": {
   "name": "Redmi 5 Plus Global",
   "model": "HM5PlusGlobal",
