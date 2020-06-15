@@ -119,7 +119,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 3 Global",
+  "device": "Mi 4 3G/4G Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -191,7 +191,7 @@
  {
   "android": "10.0",
   "codename": "cmi_eea_global",
-  "device": "Mi 10 Pro EEA",
+  "device": "Mi Note 10 Pro EEA",
   "download": "https://bigota.d.miui.com/V11.0.10.0.QJAEUXM/miui_CMIEEAGlobal_V11.0.10.0.QJAEUXM_1011655dba_10.0.zip",
   "filename": "miui_CMIEEAGlobal_V11.0.10.0.QJAEUXM_1011655dba_10.0.zip",
   "version": "V11.0.10.0.QJAEUXM",
@@ -1217,7 +1217,7 @@
  {
   "android": "9.0",
   "codename": "whyred_global",
-  "device": "Redmi Note 5 Global",
+  "device": "Redmi Note 5 Pro India",
   "download": "https://bigota.d.miui.com/V11.0.3.0.PEIMIXM/miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "filename": "miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "version": "V11.0.3.0.PEIMIXM",
