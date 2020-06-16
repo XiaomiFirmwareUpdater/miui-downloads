@@ -165,9 +165,9 @@
   "android": "9.0",
   "codename": "cereus_global",
   "device": "Redmi 6 Global",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PCGMIXM/miui_HM6Global_V11.0.3.0.PCGMIXM_44aaa9135d_9.0.zip",
-  "filename": "miui_HM6Global_V11.0.3.0.PCGMIXM_44aaa9135d_9.0.zip",
-  "version": "V11.0.3.0.PCGMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.4.0.PCGMIXM/miui_HM6Global_V11.0.4.0.PCGMIXM_68887320d7_9.0.zip",
+  "filename": "miui_HM6Global_V11.0.4.0.PCGMIXM_68887320d7_9.0.zip",
+  "version": "V11.0.4.0.PCGMIXM",
   "size": "1.4G"
  },
  {
@@ -759,9 +759,9 @@
   "android": "9.0",
   "codename": "olivelite_in_global",
   "device": "Redmi 8A India",
-  "download": "https://bigota.d.miui.com/V11.0.8.0.PCPINXM/miui_OLIVELITEINGlobal_V11.0.8.0.PCPINXM_82dd75bbf7_9.0.zip",
-  "filename": "miui_OLIVELITEINGlobal_V11.0.8.0.PCPINXM_82dd75bbf7_9.0.zip",
-  "version": "V11.0.8.0.PCPINXM",
+  "download": "https://bigota.d.miui.com/V11.0.9.0.PCPINXM/miui_OLIVELITEINGlobal_V11.0.9.0.PCPINXM_57e21d78ca_9.0.zip",
+  "filename": "miui_OLIVELITEINGlobal_V11.0.9.0.PCPINXM_57e21d78ca_9.0.zip",
+  "version": "V11.0.9.0.PCPINXM",
   "size": "1.7G"
  },
  {
@@ -1019,7 +1019,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4 Global (India Version)",
+  "device": "Redmi 4X Global",
   "download": "https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "filename": "miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "version": "V11.0.2.0.NAMMIXM",
