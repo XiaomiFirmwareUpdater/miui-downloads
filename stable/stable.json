@@ -119,7 +119,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 4 3G/4G Global",
+  "device": "Mi 3 Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -309,9 +309,9 @@
   "android": "9.0",
   "codename": "ginkgo_global",
   "device": "Redmi Note 8 Global",
-  "download": "https://bigota.d.miui.com/V11.0.8.0.PCOMIXM/miui_GINKGOGlobal_V11.0.8.0.PCOMIXM_f9fd10c076_9.0.zip",
-  "filename": "miui_GINKGOGlobal_V11.0.8.0.PCOMIXM_f9fd10c076_9.0.zip",
-  "version": "V11.0.8.0.PCOMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.9.0.PCOMIXM/miui_GINKGOGlobal_V11.0.9.0.PCOMIXM_59d042a821_9.0.zip",
+  "filename": "miui_GINKGOGlobal_V11.0.9.0.PCOMIXM_59d042a821_9.0.zip",
+  "version": "V11.0.9.0.PCOMIXM",
   "size": "2.0G"
  },
  {
@@ -741,10 +741,10 @@
   "android": "9.0",
   "codename": "olivelite_global",
   "device": "Redmi 8A Global",
-  "download": "https://bigota.d.miui.com/V11.0.6.0.PCPMIXM/miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip",
-  "filename": "miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip",
-  "version": "V11.0.6.0.PCPMIXM",
-  "size": "1.7G"
+  "download": "https://bigota.d.miui.com/V11.0.7.0.PCPMIXM/miui_OLIVELITEGlobal_V11.0.7.0.PCPMIXM_5d49cdc7de_9.0.zip",
+  "filename": "miui_OLIVELITEGlobal_V11.0.7.0.PCPMIXM_5d49cdc7de_9.0.zip",
+  "version": "V11.0.7.0.PCPMIXM",
+  "size": "1.8G"
  },
  {
   "android": "9.0",
