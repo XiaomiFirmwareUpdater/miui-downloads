@@ -444,9 +444,9 @@
   "android": "10.0",
   "codename": "joyeuse_eea_global",
   "device": "Redmi Note 9 Pro EEA",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.QJZEUXM/miui_JOYEUSEEEAGlobal_V11.0.2.0.QJZEUXM_61a0a7f62d_10.0.zip",
-  "filename": "miui_JOYEUSEEEAGlobal_V11.0.2.0.QJZEUXM_61a0a7f62d_10.0.zip",
-  "version": "V11.0.2.0.QJZEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.QJZEUXM/miui_JOYEUSEEEAGlobal_V11.0.3.0.QJZEUXM_9b277e341a_10.0.zip",
+  "filename": "miui_JOYEUSEEEAGlobal_V11.0.3.0.QJZEUXM_9b277e341a_10.0.zip",
+  "version": "V11.0.3.0.QJZEUXM",
   "size": "2.2G"
  },
  {
@@ -1173,10 +1173,10 @@
   "android": "10.0",
   "codename": "umi_in_global",
   "device": "Mi 10 IN",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.QJBINXM/miui_UMIINGlobal_V11.0.4.0.QJBINXM_1818b1d7b6_10.0.zip",
-  "filename": "miui_UMIINGlobal_V11.0.4.0.QJBINXM_1818b1d7b6_10.0.zip",
-  "version": "V11.0.4.0.QJBINXM",
-  "size": "2.4G"
+  "download": "https://bigota.d.miui.com/V11.0.5.0.QJBINXM/miui_UMIINGlobal_V11.0.5.0.QJBINXM_344622ddea_10.0.zip",
+  "filename": "miui_UMIINGlobal_V11.0.5.0.QJBINXM_344622ddea_10.0.zip",
+  "version": "V11.0.5.0.QJBINXM",
+  "size": "2.5G"
  },
  {
   "android": "10.0",
