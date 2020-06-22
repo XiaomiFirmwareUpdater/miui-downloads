@@ -191,7 +191,7 @@
  {
   "android": "10.0",
   "codename": "cmi_eea_global",
-  "device": "Mi Note 10 Pro EEA",
+  "device": "Mi 10 Pro EEA",
   "download": "https://bigota.d.miui.com/V11.0.10.0.QJAEUXM/miui_CMIEEAGlobal_V11.0.10.0.QJAEUXM_1011655dba_10.0.zip",
   "filename": "miui_CMIEEAGlobal_V11.0.10.0.QJAEUXM_1011655dba_10.0.zip",
   "version": "V11.0.10.0.QJAEUXM",
@@ -579,19 +579,19 @@
   "android": "8.1",
   "codename": "lotus_global",
   "device": "Mi Play Global",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.OFIMIXM/miui_MIPLAYGlobal_V11.0.3.0.OFIMIXM_8213c08e29_8.1.zip",
-  "filename": "miui_MIPLAYGlobal_V11.0.3.0.OFIMIXM_8213c08e29_8.1.zip",
-  "version": "V11.0.3.0.OFIMIXM",
-  "size": "1.5G"
+  "download": "https://bigota.d.miui.com/V11.0.6.0.OFIMIXM/miui_MIPLAYGlobal_V11.0.6.0.OFIMIXM_d861cb661b_8.1.zip",
+  "filename": "miui_MIPLAYGlobal_V11.0.6.0.OFIMIXM_d861cb661b_8.1.zip",
+  "version": "V11.0.6.0.OFIMIXM",
+  "size": "1.6G"
  },
  {
   "android": "8.1",
   "codename": "lotus_ru_global",
   "device": "Mi Play RU",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.OFIRUXM/miui_MIPLAYRUGlobal_V11.0.3.0.OFIRUXM_c92bf44786_8.1.zip",
-  "filename": "miui_MIPLAYRUGlobal_V11.0.3.0.OFIRUXM_c92bf44786_8.1.zip",
-  "version": "V11.0.3.0.OFIRUXM",
-  "size": "1.5G"
+  "download": "https://bigota.d.miui.com/V11.0.6.0.OFIRUXM/miui_MIPLAYRUGlobal_V11.0.6.0.OFIRUXM_323275a0ef_8.1.zip",
+  "filename": "miui_MIPLAYRUGlobal_V11.0.6.0.OFIRUXM_323275a0ef_8.1.zip",
+  "version": "V11.0.6.0.OFIRUXM",
+  "size": "1.6G"
  },
  {
   "android": "6.0",
@@ -615,9 +615,9 @@
   "android": "10.0",
   "codename": "merlin_global",
   "device": "Redmi Note 9 Global",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.QJOMIXM/miui_MERLINGlobal_V11.0.4.0.QJOMIXM_4b19567529_10.0.zip",
-  "filename": "miui_MERLINGlobal_V11.0.4.0.QJOMIXM_4b19567529_10.0.zip",
-  "version": "V11.0.4.0.QJOMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.QJOMIXM/miui_MERLINGlobal_V11.0.5.0.QJOMIXM_72fa6add5c_10.0.zip",
+  "filename": "miui_MERLINGlobal_V11.0.5.0.QJOMIXM_72fa6add5c_10.0.zip",
+  "version": "V11.0.5.0.QJOMIXM",
   "size": "1.8G"
  },
  {
@@ -714,9 +714,9 @@
   "android": "9.0",
   "codename": "olive_in_global",
   "device": "Redmi 8 India",
-  "download": "https://bigota.d.miui.com/V11.0.11.0.PCNINXM/miui_OLIVEINGlobal_V11.0.11.0.PCNINXM_aa4516b793_9.0.zip",
-  "filename": "miui_OLIVEINGlobal_V11.0.11.0.PCNINXM_aa4516b793_9.0.zip",
-  "version": "V11.0.11.0.PCNINXM",
+  "download": "https://bigota.d.miui.com/V11.0.12.0.PCNINXM/miui_OLIVEINGlobal_V11.0.12.0.PCNINXM_d95fbe011d_9.0.zip",
+  "filename": "miui_OLIVEINGlobal_V11.0.12.0.PCNINXM_d95fbe011d_9.0.zip",
+  "version": "V11.0.12.0.PCNINXM",
   "size": "2.0G"
  },
  {
@@ -1019,7 +1019,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4 Global (India Version)",
+  "device": "Redmi 4X Global",
   "download": "https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "filename": "miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "version": "V11.0.2.0.NAMMIXM",
@@ -1065,9 +1065,9 @@
   "android": "10.0",
   "codename": "toco_global",
   "device": "Mi Note 10 Lite Global",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.QFNMIXM/miui_TOCOGlobal_V11.0.4.0.QFNMIXM_945ef675a7_10.0.zip",
-  "filename": "miui_TOCOGlobal_V11.0.4.0.QFNMIXM_945ef675a7_10.0.zip",
-  "version": "V11.0.4.0.QFNMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.QFNMIXM/miui_TOCOGlobal_V11.0.5.0.QFNMIXM_ac39d93e25_10.0.zip",
+  "filename": "miui_TOCOGlobal_V11.0.5.0.QFNMIXM_ac39d93e25_10.0.zip",
+  "version": "V11.0.5.0.QFNMIXM",
   "size": "2.2G"
  },
  {
@@ -1217,7 +1217,7 @@
  {
   "android": "9.0",
   "codename": "whyred_global",
-  "device": "Redmi Note 5 Pro India",
+  "device": "Redmi Note 5 Global",
   "download": "https://bigota.d.miui.com/V11.0.3.0.PEIMIXM/miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "filename": "miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "version": "V11.0.3.0.PEIMIXM",
