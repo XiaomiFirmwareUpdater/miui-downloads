@@ -64,6 +64,15 @@
  },
  {
   "android": "10.0",
+  "codename": "begonia_id_global",
+  "device": "Redmi Note 8 Pro Indonesia",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.QGGIDXM/miui_BEGONIAIDGlobal_V11.0.2.0.QGGIDXM_b57de5267e_10.0.zip",
+  "filename": "miui_BEGONIAIDGlobal_V11.0.2.0.QGGIDXM_b57de5267e_10.0.zip",
+  "version": "V11.0.2.0.QGGIDXM",
+  "size": "2.0G"
+ },
+ {
+  "android": "10.0",
   "codename": "begonia_ru_global",
   "device": "Redmi Note 8 Pro RU",
   "download": "https://bigota.d.miui.com/V11.0.3.0.QGGRUXM/miui_BEGONIARUGlobal_V11.0.3.0.QGGRUXM_5f62ae6e8e_10.0.zip",
@@ -119,7 +128,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 3 Global",
+  "device": "Mi 4 3G/4G Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -191,7 +200,7 @@
  {
   "android": "10.0",
   "codename": "cmi_eea_global",
-  "device": "Mi 10 Pro EEA",
+  "device": "Mi Note 10 Pro EEA",
   "download": "https://bigota.d.miui.com/V11.0.11.0.QJAEUXM/miui_CMIEEAGlobal_V11.0.11.0.QJAEUXM_72dcf9aec1_10.0.zip",
   "filename": "miui_CMIEEAGlobal_V11.0.11.0.QJAEUXM_72dcf9aec1_10.0.zip",
   "version": "V11.0.11.0.QJAEUXM",
@@ -493,6 +502,15 @@
   "filename": "miui_HMNote3ProGlobal_V10.2.1.0.MHOMIXM_36c0f5ded3_6.0.zip",
   "version": "V10.2.1.0.MHOMIXM",
   "size": "1.2G"
+ },
+ {
+  "android": "10.0",
+  "codename": "lancelot_eea_global",
+  "device": "Redmi 9 EEA",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.QJCEUXM/miui_LANCELOTEEAGlobal_V11.0.2.0.QJCEUXM_638aff99b4_10.0.zip",
+  "filename": "miui_LANCELOTEEAGlobal_V11.0.2.0.QJCEUXM_638aff99b4_10.0.zip",
+  "version": "V11.0.2.0.QJCEUXM",
+  "size": "1.8G"
  },
  {
   "android": "6.0",
@@ -1019,7 +1037,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4 Global (India Version)",
+  "device": "Redmi 4X Global",
   "download": "https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "filename": "miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "version": "V11.0.2.0.NAMMIXM",

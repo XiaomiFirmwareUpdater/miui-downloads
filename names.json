@@ -40,7 +40,7 @@
   "id": "1900375"
  },
  "begonia_id_global": {
-  "name": "Redmi Note 8 Pro ID",
+  "name": "Redmi Note 8 Pro Indonesia",
   "model": "BEGONIAIDGlobal",
   "id": "1900375"
  },
@@ -75,9 +75,9 @@
   "id": "1700240"
  },
  "cancro_global": {
-  "name": "Mi 3 Global",
+  "name": "Mi 4 3G/4G Global",
   "model": "MI3WMI4WGlobal",
-  "id": "1700101"
+  "id": "1700240"
  },
  "capricorn_global": {
   "name": "Xiaomi Mi 5s Global",
@@ -115,9 +115,9 @@
   "id": "1700334"
  },
  "cmi_eea_global": {
-  "name": "Mi 10 Pro EEA",
+  "name": "Mi Note 10 Pro EEA",
   "model": "CMIEEAGlobal",
-  "id": "1900379"
+  "id": "1900377"
  },
  "curtana_eea_global": {
   "name": "Redmi Note 9S EEA",
@@ -585,9 +585,9 @@
   "id": "1700349"
  },
  "santoni_global": {
-  "name": "Redmi 4 Global (India Version)",
+  "name": "Redmi 4X Global",
   "model": "HM4XGlobal",
-  "id": "1700318"
+  "id": "1700323"
  },
  "scorpio_global": {
   "name": "Mi Note 2 Global",
