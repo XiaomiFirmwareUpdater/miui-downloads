@@ -39,6 +39,11 @@
   "model": "BEGONIAGlobal",
   "id": "1900375"
  },
+ "begonia_id_global": {
+  "name": "Redmi Note 8 Pro ID",
+  "model": "BEGONIAIDGlobal",
+  "id": "1900375"
+ },
  "begonia_ru_global": {
   "name": "Redmi Note 8 Pro RU",
   "model": "BEGONIARUGlobal",
@@ -278,6 +283,11 @@
   "name": "Redmi Note 3 Qualcomm Global",
   "model": "HMNote3ProGlobal",
   "id": "1700301"
+ },
+ "lancelot_eea_global": {
+  "name": "Redmi 9 EEA",
+  "model": "LANCELOTEEAGlobal",
+  "id": "1900381"
  },
  "land_global": {
   "name": "Redmi 3S/Prime Global",
