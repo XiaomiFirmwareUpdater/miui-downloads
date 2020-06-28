@@ -128,7 +128,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 3 Global",
+  "device": "Mi 4 3G/4G Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -219,9 +219,9 @@
   "android": "10.0",
   "codename": "curtana_global",
   "device": "Redmi Note 9S Global",
-  "download": "https://bigota.d.miui.com/V11.0.8.0.QJWMIXM/miui_CURTANAGlobal_V11.0.8.0.QJWMIXM_28d7aa1aff_10.0.zip",
-  "filename": "miui_CURTANAGlobal_V11.0.8.0.QJWMIXM_28d7aa1aff_10.0.zip",
-  "version": "V11.0.8.0.QJWMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.9.0.QJWMIXM/miui_CURTANAGlobal_V11.0.9.0.QJWMIXM_c063fd7fb1_10.0.zip",
+  "filename": "miui_CURTANAGlobal_V11.0.9.0.QJWMIXM_c063fd7fb1_10.0.zip",
+  "version": "V11.0.9.0.QJWMIXM",
   "size": "2.2G"
  },
  {
@@ -768,9 +768,9 @@
   "android": "9.0",
   "codename": "olivelite_id_global",
   "device": "Redmi 8A ID",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.PCPIDXM/miui_OLIVELITEIDGlobal_V11.0.4.0.PCPIDXM_459bc765da_9.0.zip",
-  "filename": "miui_OLIVELITEIDGlobal_V11.0.4.0.PCPIDXM_459bc765da_9.0.zip",
-  "version": "V11.0.4.0.PCPIDXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PCPIDXM/miui_OLIVELITEIDGlobal_V11.0.5.0.PCPIDXM_4da7671886_9.0.zip",
+  "filename": "miui_OLIVELITEIDGlobal_V11.0.5.0.PCPIDXM_4da7671886_9.0.zip",
+  "version": "V11.0.5.0.PCPIDXM",
   "size": "1.7G"
  },
  {
@@ -1074,9 +1074,9 @@
   "android": "10.0",
   "codename": "toco_eea_global",
   "device": "Mi Note 10 Lite EEA",
-  "download": "https://bigota.d.miui.com/V11.0.8.0.QFNEUXM/miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip",
-  "filename": "miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip",
-  "version": "V11.0.8.0.QFNEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.9.0.QFNEUXM/miui_TOCOEEAGlobal_V11.0.9.0.QFNEUXM_23d34e700d_10.0.zip",
+  "filename": "miui_TOCOEEAGlobal_V11.0.9.0.QFNEUXM_23d34e700d_10.0.zip",
+  "version": "V11.0.9.0.QFNEUXM",
   "size": "2.2G"
  },
  {
@@ -1173,9 +1173,9 @@
   "android": "10.0",
   "codename": "umi_global",
   "device": "Mi 10 Global",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.QJBMIXM/miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip",
-  "filename": "miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip",
-  "version": "V11.0.2.0.QJBMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.QJBMIXM/miui_UMIGlobal_V11.0.5.0.QJBMIXM_105697632a_10.0.zip",
+  "filename": "miui_UMIGlobal_V11.0.5.0.QJBMIXM_105697632a_10.0.zip",
+  "version": "V11.0.5.0.QJBMIXM",
   "size": "2.5G"
  },
  {
