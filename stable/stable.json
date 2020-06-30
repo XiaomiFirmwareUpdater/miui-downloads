@@ -128,7 +128,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 3 Global",
+  "device": "Mi 4 3G/4G Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -147,10 +147,10 @@
   "android": "10.0",
   "codename": "cepheus_eea_global",
   "device": "Mi 9 EEA",
-  "download": "https://bigota.d.miui.com/V11.0.9.0.QFAEUXM/miui_CEPHEUSEEAGlobal_V11.0.9.0.QFAEUXM_6f1cf64460_10.0.zip",
-  "filename": "miui_CEPHEUSEEAGlobal_V11.0.9.0.QFAEUXM_6f1cf64460_10.0.zip",
-  "version": "V11.0.9.0.QFAEUXM",
-  "size": "2.3G"
+  "download": "https://bigota.d.miui.com/V12.0.1.0.QFAEUXM/miui_CEPHEUSEEAGlobal_V12.0.1.0.QFAEUXM_4d28c84f58_10.0.zip",
+  "filename": "miui_CEPHEUSEEAGlobal_V12.0.1.0.QFAEUXM_4d28c84f58_10.0.zip",
+  "version": "V12.0.1.0.QFAEUXM",
+  "size": "2.4G"
  },
  {
   "android": "10.0",
@@ -200,10 +200,10 @@
  {
   "android": "10.0",
   "codename": "cmi_eea_global",
-  "device": "Mi 10 Pro EEA",
-  "download": "https://bigota.d.miui.com/V11.0.11.0.QJAEUXM/miui_CMIEEAGlobal_V11.0.11.0.QJAEUXM_72dcf9aec1_10.0.zip",
-  "filename": "miui_CMIEEAGlobal_V11.0.11.0.QJAEUXM_72dcf9aec1_10.0.zip",
-  "version": "V11.0.11.0.QJAEUXM",
+  "device": "Mi Note 10 Pro EEA",
+  "download": "https://bigota.d.miui.com/V11.0.12.0.QJAEUXM/miui_CMIEEAGlobal_V11.0.12.0.QJAEUXM_7ddd7652f2_10.0.zip",
+  "filename": "miui_CMIEEAGlobal_V11.0.12.0.QJAEUXM_7ddd7652f2_10.0.zip",
+  "version": "V11.0.12.0.QJAEUXM",
   "size": "2.5G"
  },
  {
@@ -957,10 +957,10 @@
   "android": "10.0",
   "codename": "raphael_global",
   "device": "Mi 9T Pro Global",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.QFKMIXM/miui_RAPHAELGlobal_V11.0.4.0.QFKMIXM_5423a69913_10.0.zip",
-  "filename": "miui_RAPHAELGlobal_V11.0.4.0.QFKMIXM_5423a69913_10.0.zip",
-  "version": "V11.0.4.0.QFKMIXM",
-  "size": "2.3G"
+  "download": "https://bigota.d.miui.com/V12.0.1.0.QFKMIXM/miui_RAPHAELGlobal_V12.0.1.0.QFKMIXM_3909d01bab_10.0.zip",
+  "filename": "miui_RAPHAELGlobal_V12.0.1.0.QFKMIXM_3909d01bab_10.0.zip",
+  "version": "V12.0.1.0.QFKMIXM",
+  "size": "2.4G"
  },
  {
   "android": "10.0",
@@ -1164,9 +1164,9 @@
   "android": "10.0",
   "codename": "umi_eea_global",
   "device": "Mi 10 EEA",
-  "download": "https://bigota.d.miui.com/V11.0.14.0.QJBEUXM/miui_UMIEEAGlobal_V11.0.14.0.QJBEUXM_ee538691d7_10.0.zip",
-  "filename": "miui_UMIEEAGlobal_V11.0.14.0.QJBEUXM_ee538691d7_10.0.zip",
-  "version": "V11.0.14.0.QJBEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.15.0.QJBEUXM/miui_UMIEEAGlobal_V11.0.15.0.QJBEUXM_aa62d8edb7_10.0.zip",
+  "filename": "miui_UMIEEAGlobal_V11.0.15.0.QJBEUXM_aa62d8edb7_10.0.zip",
+  "version": "V11.0.15.0.QJBEUXM",
   "size": "2.5G"
  },
  {

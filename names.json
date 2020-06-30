@@ -75,9 +75,9 @@
   "id": "1700240"
  },
  "cancro_global": {
-  "name": "Mi 3 Global",
+  "name": "Mi 4 3G/4G Global",
   "model": "MI3WMI4WGlobal",
-  "id": "1700101"
+  "id": "1700240"
  },
  "capricorn_global": {
   "name": "Xiaomi Mi 5s Global",
@@ -115,9 +115,9 @@
   "id": "1700334"
  },
  "cmi_eea_global": {
-  "name": "Mi 10 Pro EEA",
+  "name": "Mi Note 10 Pro EEA",
   "model": "CMIEEAGlobal",
-  "id": "1900379"
+  "id": "1900377"
  },
  "curtana_eea_global": {
   "name": "Redmi Note 9S EEA",
