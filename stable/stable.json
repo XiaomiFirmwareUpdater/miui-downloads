@@ -57,9 +57,9 @@
   "android": "10.0",
   "codename": "begonia_global",
   "device": "Redmi Note 8 Pro Global",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.QGGMIXM/miui_BEGONIAGlobal_V11.0.4.0.QGGMIXM_94d91b5c62_10.0.zip",
-  "filename": "miui_BEGONIAGlobal_V11.0.4.0.QGGMIXM_94d91b5c62_10.0.zip",
-  "version": "V11.0.4.0.QGGMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.5.0.QGGMIXM/miui_BEGONIAGlobal_V11.0.5.0.QGGMIXM_7594842c66_10.0.zip",
+  "filename": "miui_BEGONIAGlobal_V11.0.5.0.QGGMIXM_7594842c66_10.0.zip",
+  "version": "V11.0.5.0.QGGMIXM",
   "size": "2.0G"
  },
  {
@@ -200,7 +200,7 @@
  {
   "android": "10.0",
   "codename": "cmi_eea_global",
-  "device": "Mi Note 10 Pro EEA",
+  "device": "Mi 10 Pro EEA",
   "download": "https://bigota.d.miui.com/V11.0.12.0.QJAEUXM/miui_CMIEEAGlobal_V11.0.12.0.QJAEUXM_7ddd7652f2_10.0.zip",
   "filename": "miui_CMIEEAGlobal_V11.0.12.0.QJAEUXM_7ddd7652f2_10.0.zip",
   "version": "V11.0.12.0.QJAEUXM",
@@ -327,10 +327,10 @@
   "android": "9.0",
   "codename": "ginkgo_id_global",
   "device": "Redmi Note 8 Indonesia",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.PCOIDXM/miui_GINKGOIDGlobal_V11.0.4.0.PCOIDXM_908d776882_9.0.zip",
-  "filename": "miui_GINKGOIDGlobal_V11.0.4.0.PCOIDXM_908d776882_9.0.zip",
-  "version": "V11.0.4.0.PCOIDXM",
-  "size": "1.9G"
+  "download": "https://bigota.d.miui.com/V11.0.5.0.PCOIDXM/miui_GINKGOIDGlobal_V11.0.5.0.PCOIDXM_7bea099035_9.0.zip",
+  "filename": "miui_GINKGOIDGlobal_V11.0.5.0.PCOIDXM_7bea099035_9.0.zip",
+  "version": "V11.0.5.0.PCOIDXM",
+  "size": "2.0G"
  },
  {
   "android": "9.0",
@@ -345,10 +345,10 @@
   "android": "10.0",
   "codename": "grus_eea_global",
   "device": "Mi 9 SE EEA",
-  "download": "https://bigota.d.miui.com/V11.0.4.0.QFBEUXM/miui_GRUSEEAGlobal_V11.0.4.0.QFBEUXM_7d37eee0fc_10.0.zip",
-  "filename": "miui_GRUSEEAGlobal_V11.0.4.0.QFBEUXM_7d37eee0fc_10.0.zip",
-  "version": "V11.0.4.0.QFBEUXM",
-  "size": "2.3G"
+  "download": "https://bigota.d.miui.com/V11.0.6.0.QFBEUXM/miui_GRUSEEAGlobal_V11.0.6.0.QFBEUXM_508141efd0_10.0.zip",
+  "filename": "miui_GRUSEEAGlobal_V11.0.6.0.QFBEUXM_508141efd0_10.0.zip",
+  "version": "V11.0.6.0.QFBEUXM",
+  "size": "2.2G"
  },
  {
   "android": "10.0",
@@ -930,9 +930,9 @@
   "android": "10.0",
   "codename": "pyxis_global",
   "device": "Mi 9 Lite/Mi CC 9 Global",
-  "download": "https://bigota.d.miui.com/V11.0.1.0.QFCMIXM/miui_PYXISGlobal_V11.0.1.0.QFCMIXM_212c62202d_10.0.zip",
-  "filename": "miui_PYXISGlobal_V11.0.1.0.QFCMIXM_212c62202d_10.0.zip",
-  "version": "V11.0.1.0.QFCMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.QFCMIXM/miui_PYXISGlobal_V11.0.3.0.QFCMIXM_7423b46ef1_10.0.zip",
+  "filename": "miui_PYXISGlobal_V11.0.3.0.QFCMIXM_7423b46ef1_10.0.zip",
+  "version": "V11.0.3.0.QFCMIXM",
   "size": "2.3G"
  },
  {
@@ -1037,7 +1037,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4 Global (India Version)",
+  "device": "Redmi 4X Global",
   "download": "https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "filename": "miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "version": "V11.0.2.0.NAMMIXM",
@@ -1272,10 +1272,10 @@
   "android": "9.0",
   "codename": "willow_ru_global",
   "device": "Redmi Note 8T RU",
-  "download": "https://bigota.d.miui.com/V11.0.3.0.PCXRUXM/miui_WILLOWRUGlobal_V11.0.3.0.PCXRUXM_f2b49cae2e_9.0.zip",
-  "filename": "miui_WILLOWRUGlobal_V11.0.3.0.PCXRUXM_f2b49cae2e_9.0.zip",
-  "version": "V11.0.3.0.PCXRUXM",
-  "size": "1.8G"
+  "download": "https://bigota.d.miui.com/V11.0.4.0.PCXRUXM/miui_WILLOWRUGlobal_V11.0.4.0.PCXRUXM_76e3010904_9.0.zip",
+  "filename": "miui_WILLOWRUGlobal_V11.0.4.0.PCXRUXM_76e3010904_9.0.zip",
+  "version": "V11.0.4.0.PCXRUXM",
+  "size": "1.9G"
  },
  {
   "android": "4.4",
