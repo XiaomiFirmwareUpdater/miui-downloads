@@ -128,7 +128,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 4 3G/4G Global",
+  "device": "Mi 3 Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -507,9 +507,9 @@
   "android": "10.0",
   "codename": "lancelot_eea_global",
   "device": "Redmi 9 EEA",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.QJCEUXM/miui_LANCELOTEEAGlobal_V11.0.2.0.QJCEUXM_638aff99b4_10.0.zip",
-  "filename": "miui_LANCELOTEEAGlobal_V11.0.2.0.QJCEUXM_638aff99b4_10.0.zip",
-  "version": "V11.0.2.0.QJCEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.3.0.QJCEUXM/miui_LANCELOTEEAGlobal_V11.0.3.0.QJCEUXM_75621db71c_10.0.zip",
+  "filename": "miui_LANCELOTEEAGlobal_V11.0.3.0.QJCEUXM_75621db71c_10.0.zip",
+  "version": "V11.0.3.0.QJCEUXM",
   "size": "1.8G"
  },
  {
@@ -1037,7 +1037,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4X Global",
+  "device": "Redmi 4 Global (India Version)",
   "download": "https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "filename": "miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "version": "V11.0.2.0.NAMMIXM",
@@ -1235,7 +1235,7 @@
  {
   "android": "9.0",
   "codename": "whyred_global",
-  "device": "Redmi Note 5 Global",
+  "device": "Redmi Note 5 Pro India",
   "download": "https://bigota.d.miui.com/V11.0.3.0.PEIMIXM/miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "filename": "miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "version": "V11.0.3.0.PEIMIXM",
@@ -1254,9 +1254,9 @@
   "android": "9.0",
   "codename": "willow_eea_global",
   "device": "Redmi Note 8T EEA",
-  "download": "https://bigota.d.miui.com/V11.0.9.0.PCXEUXM/miui_WILLOWEEAGlobal_V11.0.9.0.PCXEUXM_9d774ae5d2_9.0.zip",
-  "filename": "miui_WILLOWEEAGlobal_V11.0.9.0.PCXEUXM_9d774ae5d2_9.0.zip",
-  "version": "V11.0.9.0.PCXEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.10.0.PCXEUXM/miui_WILLOWEEAGlobal_V11.0.10.0.PCXEUXM_5f51a2ddaf_9.0.zip",
+  "filename": "miui_WILLOWEEAGlobal_V11.0.10.0.PCXEUXM_5f51a2ddaf_9.0.zip",
+  "version": "V11.0.10.0.PCXEUXM",
   "size": "1.9G"
  },
  {
