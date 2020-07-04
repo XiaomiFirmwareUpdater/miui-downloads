@@ -200,7 +200,7 @@
  {
   "android": "10.0",
   "codename": "cmi_eea_global",
-  "device": "Mi 10 Pro EEA",
+  "device": "Mi Note 10 Pro EEA",
   "download": "https://bigota.d.miui.com/V11.0.12.0.QJAEUXM/miui_CMIEEAGlobal_V11.0.12.0.QJAEUXM_7ddd7652f2_10.0.zip",
   "filename": "miui_CMIEEAGlobal_V11.0.12.0.QJAEUXM_7ddd7652f2_10.0.zip",
   "version": "V11.0.12.0.QJAEUXM",
@@ -1037,7 +1037,7 @@
  {
   "android": "7.1",
   "codename": "santoni_global",
-  "device": "Redmi 4X Global",
+  "device": "Redmi 4 Global (India Version)",
   "download": "https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "filename": "miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
   "version": "V11.0.2.0.NAMMIXM",
