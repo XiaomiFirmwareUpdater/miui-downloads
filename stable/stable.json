@@ -128,7 +128,7 @@
  {
   "android": "6.0",
   "codename": "cancro_global",
-  "device": "Mi 3 Global",
+  "device": "Mi 4 3G/4G Global",
   "download": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "filename": "miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip",
   "version": "V9.5.7.0.MXDMIFA",
@@ -156,10 +156,10 @@
   "android": "10.0",
   "codename": "cepheus_global",
   "device": "Mi 9 Global",
-  "download": "https://bigota.d.miui.com/V11.0.6.0.QFAMIXM/miui_CEPHEUSGlobal_V11.0.6.0.QFAMIXM_9b7f8b2137_10.0.zip",
-  "filename": "miui_CEPHEUSGlobal_V11.0.6.0.QFAMIXM_9b7f8b2137_10.0.zip",
-  "version": "V11.0.6.0.QFAMIXM",
-  "size": "2.3G"
+  "download": "https://bigota.d.miui.com/V12.0.1.0.QFAMIXM/miui_CEPHEUSGlobal_V12.0.1.0.QFAMIXM_fd9137ab3a_10.0.zip",
+  "filename": "miui_CEPHEUSGlobal_V12.0.1.0.QFAMIXM_fd9137ab3a_10.0.zip",
+  "version": "V12.0.1.0.QFAMIXM",
+  "size": "2.4G"
  },
  {
   "android": "10.0",
@@ -354,9 +354,9 @@
   "android": "10.0",
   "codename": "grus_global",
   "device": "Mi 9 SE Global",
-  "download": "https://bigota.d.miui.com/V11.0.2.0.QFBMIXM/miui_GRUSGlobal_V11.0.2.0.QFBMIXM_5e899dbcec_10.0.zip",
-  "filename": "miui_GRUSGlobal_V11.0.2.0.QFBMIXM_5e899dbcec_10.0.zip",
-  "version": "V11.0.2.0.QFBMIXM",
+  "download": "https://bigota.d.miui.com/V11.0.4.0.QFBMIXM/miui_GRUSGlobal_V11.0.4.0.QFBMIXM_fae587a098_10.0.zip",
+  "filename": "miui_GRUSGlobal_V11.0.4.0.QFBMIXM_fae587a098_10.0.zip",
+  "version": "V11.0.4.0.QFBMIXM",
   "size": "2.2G"
  },
  {
@@ -846,12 +846,12 @@
   "size": "2.1G"
  },
  {
-  "android": "9.0",
+  "android": "10.0",
   "codename": "pine_eea_global",
   "device": "Redmi 7A EEA",
-  "download": "https://bigota.d.miui.com/V11.0.18.0.PCMEUXM/miui_PINEEEAGlobal_V11.0.18.0.PCMEUXM_8762b039f2_9.0.zip",
-  "filename": "miui_PINEEEAGlobal_V11.0.18.0.PCMEUXM_8762b039f2_9.0.zip",
-  "version": "V11.0.18.0.PCMEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.2.0.QCMEUXM/miui_PINEEEAGlobal_V11.0.2.0.QCMEUXM_b65ea4b83b_10.0.zip",
+  "filename": "miui_PINEEEAGlobal_V11.0.2.0.QCMEUXM_b65ea4b83b_10.0.zip",
+  "version": "V11.0.2.0.QCMEUXM",
   "size": "1.6G"
  },
  {
@@ -1074,9 +1074,9 @@
   "android": "10.0",
   "codename": "toco_eea_global",
   "device": "Mi Note 10 Lite EEA",
-  "download": "https://bigota.d.miui.com/V11.0.9.0.QFNEUXM/miui_TOCOEEAGlobal_V11.0.9.0.QFNEUXM_23d34e700d_10.0.zip",
-  "filename": "miui_TOCOEEAGlobal_V11.0.9.0.QFNEUXM_23d34e700d_10.0.zip",
-  "version": "V11.0.9.0.QFNEUXM",
+  "download": "https://bigota.d.miui.com/V11.0.10.0.QFNEUXM/miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip",
+  "filename": "miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip",
+  "version": "V11.0.10.0.QFNEUXM",
   "size": "2.2G"
  },
  {
@@ -1235,7 +1235,7 @@
  {
   "android": "9.0",
   "codename": "whyred_global",
-  "device": "Redmi Note 5 Global",
+  "device": "Redmi Note 5 Pro India",
   "download": "https://bigota.d.miui.com/V11.0.3.0.PEIMIXM/miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "filename": "miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip",
   "version": "V11.0.3.0.PEIMIXM",
